@@ -30,7 +30,9 @@ async function build_page() {
         serenity_data.push(entry);
     }
 
-    let correlated_data = google_data.map(element => {
+    let correlated_data = google_data.filter(element =>
+        !element.property_name.startsWith("webkit-") && !element.property_name.startsWith("alias-")
+    ).map(element => {
         element.serenity_supports = serenity_data.includes(element.property_name);
         return element;
     });
