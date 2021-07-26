@@ -3,6 +3,7 @@ const serenitys_css_properties_url = "https://raw.githubusercontent.com/Serenity
 
 list_element = document.getElementById("list");
 stat_element = document.getElementById("stat");
+loading_element = document.getElementById("loading-message");
 
 build_page();
 
@@ -46,6 +47,7 @@ async function build_page() {
 
     stat_element.innerText = number_of_supported_properties_over_five_percent + " / " + number_of_properties_over_five_percent.length + " (" + correlated_data.length + ")";
 
+    loading_element.style.display = "none";
 }
 
 function generate_list_entry(data) {
