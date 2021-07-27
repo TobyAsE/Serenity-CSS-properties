@@ -11,6 +11,11 @@ h1 {
   padding: 20px;
 }
 
+#stat {
+  margin: 5px 0;
+  font-weight: bold;
+}
+
 #loading-message {
   opacity: 1;
   height: 100px;
