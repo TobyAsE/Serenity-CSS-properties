@@ -47,7 +47,7 @@ async function build_page() {
 
     stat_element.innerText = number_of_supported_properties_over_five_percent + " / " + number_of_properties_over_five_percent.length + " (" + correlated_data.length + ")";
 
-    loading_element.style.display = "none";
+    loading_element.classList.add("hidden");
 }
 
 function generate_list_entry(data) {

@@ -11,6 +11,18 @@ h1 {
   padding: 20px;
 }
 
+#loading-message {
+  opacity: 1;
+  height: 100px;
+}
+
+#loading-message.hidden {
+  -webkit-transition: opacity 0.5s, height 0.3s ease-in-out 0.2s;
+  transition: opacity 0.5s, height 0.3s ease-in-out 0.2s;
+  opacity: 0;
+  height: 0;
+}
+
 #list {
   list-style: none;
   padding: 0;

@@ -32,51 +32,58 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <div>
-                    <p>The number of supported CSS-Properties that are loaded on more than 5% of webpages is: <b><span
-                                id="stat"></span></b><br>
-                        <em>In braces is the total number of analyzed properties.</em>
-                    </p>
+                <div class="d-flex flex-column">
+                    <div>
+                        <p>The number of supported CSS-Properties that are loaded on more than 5% of webpages is:
+                            <b><span id="stat"></span></b><br>
+                            <em>In braces is the total number of analyzed properties.</em>
+                        </p>
+                    </div>
+                    <div id="loading-message" class="media align-center flex-column align-content-center">
+                        <!-- Courtesy of frhun fka schokomuffin -->
+                        <svg class="align-self-center" width="64" height="64" version="1.1" viewBox="0 0 512 512"
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <defs>
+                                <radialGradient id="radialGradient3713" cx="228.33" cy="145" r="256"
+                                    gradientUnits="userSpaceOnUse">
+                                    <stop stop-color="#4a4a4a" offset="0" />
+                                    <stop stop-color="#020202" offset="1" />
+                                </radialGradient>
+                                <radialGradient id="radialGradient4215" cx="228.33" cy="145" r="256"
+                                    gradientUnits="userSpaceOnUse">
+                                    <stop stop-color="#ff3c3c" offset="0" />
+                                    <stop stop-color="#8b0000" offset="1" />
+                                    <animateTransform attributeName="gradientTransform" type="rotate" from="0 256 256"
+                                        to="360 256 256" begin="0s" dur="2s" repeatDur="indefinite" />
+                                </radialGradient>
+                                <filter id="filter8532" x="-.15933" y="-.10415" width="1.3187" height="1.2083"
+                                    color-interpolation-filters="sRGB">
+                                    <feGaussianBlur stdDeviation="31" />
+                                </filter>
+                                <mask id="mask8536" maskUnits="userSpaceOnUse">
+                                    <circle cx="256" cy="256" r="256" fill="#fff" fill-rule="evenodd" />
+                                </mask>
+                            </defs>
+                            <g fill-rule="evenodd">
+                                <circle cx="256" cy="256" r="256" fill="url(#radialGradient3713)" />
+                                <path
+                                    d="m256 0a256 256 0 0 0-221.7 128 256 256 0 0 0 0 256 256 256 0 0 0 206.43 127 128 128 0 0 0 15.273 1 128 128 0 0 0 128-128 128 128 0 0 0-128-128 128 128 0 0 1-128-128 128 128 0 0 1 128-128zm-192 192a16 16 0 0 1 16 16 16 16 0 0 1-16 16 16 16 0 0 1-16-16 16 16 0 0 1 16-16zm48 80a32 32 0 0 1 32 32 32 32 0 0 1-32 32 32 32 0 0 1-32-32 32 32 0 0 1 32-32zm144 48a64 64 0 0 1 64 64 64 64 0 0 1-64 64 64 64 0 0 1-64-64 64 64 0 0 1 64-64z"
+                                    filter="url(#filter8532)" mask="url(#mask8536)">
+                                    <animateTransform attributeName="transform" type="rotate" from="0 256 256"
+                                        to="-360 256 256" begin="0s" dur="2s" repeatDur="indefinite" />
+                                </path>
+                                <path
+                                    d="m256 0a256 256 0 0 0-221.7 128 256 256 0 0 0 0 256 256 256 0 0 0 206.43 127 128 128 0 0 0 15.273 1 128 128 0 0 0 128-128 128 128 0 0 0-128-128 128 128 0 0 1-128-128 128 128 0 0 1 128-128zm-192 192a16 16 0 0 1 16 16 16 16 0 0 1-16 16 16 16 0 0 1-16-16 16 16 0 0 1 16-16zm48 80a32 32 0 0 1 32 32 32 32 0 0 1-32 32 32 32 0 0 1-32-32 32 32 0 0 1 32-32zm144 48a64 64 0 0 1 64 64 64 64 0 0 1-64 64 64 64 0 0 1-64-64 64 64 0 0 1 64-64z"
+                                    fill="url(#radialGradient4215)">
+                                    <animateTransform attributeName="transform" type="rotate" from="0 256 256"
+                                        to="-360 256 256" begin="0s" dur="2s" repeatDur="indefinite" />
+                                </path>
+                            </g>
+                        </svg>
+                        <p class="media-body align-self-center mt-2">Loading statistics...</p>
+                    </div>
+                    <ul id="list"></ul>
                 </div>
-                <div id="loading-message" class="media align-center">
-                    <!-- Courtesy of frhun fka schokomuffin -->
-                    <svg class="align-self-center" width="64" height="64" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                     <defs>
-                      <radialGradient id="radialGradient3713" cx="228.33" cy="145" r="256" gradientUnits="userSpaceOnUse">
-                       <stop stop-color="#4a4a4a" offset="0"/>
-                       <stop stop-color="#020202" offset="1"/>
-                      </radialGradient>
-                      <radialGradient id="radialGradient4215" cx="228.33" cy="145" r="256" gradientUnits="userSpaceOnUse">
-                       <stop stop-color="#ff3c3c" offset="0"/>
-                       <stop stop-color="#8b0000" offset="1"/>
-                       <animateTransform attributeName="gradientTransform"
-                            type="rotate" from="0 256 256" to="360 256 256"
-                            begin="0s" dur="2s" repeatDur="indefinite"/>
-                      </radialGradient>
-                      <filter id="filter8532" x="-.15933" y="-.10415" width="1.3187" height="1.2083" color-interpolation-filters="sRGB">
-                       <feGaussianBlur stdDeviation="31"/>
-                      </filter>
-                      <mask id="mask8536" maskUnits="userSpaceOnUse">
-                       <circle cx="256" cy="256" r="256" fill="#fff" fill-rule="evenodd"/>
-                      </mask>
-                     </defs>
-                     <g fill-rule="evenodd">
-                      <circle cx="256" cy="256" r="256" fill="url(#radialGradient3713)"/>
-                      <path d="m256 0a256 256 0 0 0-221.7 128 256 256 0 0 0 0 256 256 256 0 0 0 206.43 127 128 128 0 0 0 15.273 1 128 128 0 0 0 128-128 128 128 0 0 0-128-128 128 128 0 0 1-128-128 128 128 0 0 1 128-128zm-192 192a16 16 0 0 1 16 16 16 16 0 0 1-16 16 16 16 0 0 1-16-16 16 16 0 0 1 16-16zm48 80a32 32 0 0 1 32 32 32 32 0 0 1-32 32 32 32 0 0 1-32-32 32 32 0 0 1 32-32zm144 48a64 64 0 0 1 64 64 64 64 0 0 1-64 64 64 64 0 0 1-64-64 64 64 0 0 1 64-64z" filter="url(#filter8532)" mask="url(#mask8536)">
-                        <animateTransform attributeName="transform"
-                            type="rotate" from="0 256 256" to="-360 256 256"
-                            begin="0s" dur="2s" repeatDur="indefinite"/>
-                      </path>
-                      <path d="m256 0a256 256 0 0 0-221.7 128 256 256 0 0 0 0 256 256 256 0 0 0 206.43 127 128 128 0 0 0 15.273 1 128 128 0 0 0 128-128 128 128 0 0 0-128-128 128 128 0 0 1-128-128 128 128 0 0 1 128-128zm-192 192a16 16 0 0 1 16 16 16 16 0 0 1-16 16 16 16 0 0 1-16-16 16 16 0 0 1 16-16zm48 80a32 32 0 0 1 32 32 32 32 0 0 1-32 32 32 32 0 0 1-32-32 32 32 0 0 1 32-32zm144 48a64 64 0 0 1 64 64 64 64 0 0 1-64 64 64 64 0 0 1-64-64 64 64 0 0 1 64-64z" fill="url(#radialGradient4215)">
-                        <animateTransform attributeName="transform"
-                            type="rotate" from="0 256 256" to="-360 256 256"
-                            begin="0s" dur="2s" repeatDur="indefinite"/>
-                      </path>
-                     </g>
-                    </svg>
-                    <p class="media-body align-self-center">Loading statistics...</p>
-                </div>
-                <ul id="list"></ul>
             </div>
         </div>
         <div class="row">
