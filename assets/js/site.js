@@ -1,5 +1,6 @@
 const googles_css_popularity_url = "https://chromestatus.com/data/csspopularity";
 const serenitys_css_properties_url = "https://raw.githubusercontent.com/SerenityOS/serenity/master/Userland/Libraries/LibWeb/CSS/Properties.json";
+const w3c_css_properties_url = `https://api.allorigins.win/raw?url=${encodeURIComponent('https://www.w3.org/Style/CSS/all-properties.en.json')}`;
 
 list_element = document.getElementById("list");
 stat_element = document.getElementById("stat");
@@ -12,21 +13,36 @@ async function get_data() {
         .then(response => response.json());
     let serenitys_css_properties_promise = fetch(serenitys_css_properties_url)
         .then(response => response.json());
+    let w3c_css_properties_promise = fetch(w3c_css_properties_url)
+        .then(response => response.json());
 
-    const resolved_data = await Promise.allSettled([googles_css_popularity_promise, serenitys_css_properties_promise]);
+    const resolved_data = await Promise.allSettled([googles_css_popularity_promise, serenitys_css_properties_promise, w3c_css_properties_promise]);
 
     const googles_resolved_data = resolved_data[0].value;
     const serenitys_resolved_data = resolved_data[1].value;
+    const w3c_resolved_data = resolved_data[2].value;
 
-    return [googles_resolved_data, serenitys_resolved_data];
+    return [googles_resolved_data, serenitys_resolved_data, w3c_resolved_data];
 }
 
 async function build_page() {
     const data = await get_data();
     const google_data = data[0];
     const serenity_data_object = data[1];
-    let serenity_data = [];
+    const w3c_data_object = data[2];
+    let spec_data = new Map();
 
+    for (var i=0; i < w3c_data_object.length; i++) {
+        const entry = w3c_data_object[i];
+        const property_name = entry.property;
+        if (!spec_data.has(property_name)) {
+            spec_data.set(property_name, [entry]);
+        } else {
+            spec_data.get(property_name).push(entry);
+        }
+    }
+
+    let serenity_data = [];
     for (var entry in serenity_data_object) {
         serenity_data.push(entry);
     }
@@ -35,6 +51,8 @@ async function build_page() {
         !element.property_name.startsWith("webkit-") && !element.property_name.startsWith("alias-")
     ).map(element => {
         element.serenity_supports = serenity_data.includes(element.property_name);
+        if (spec_data.has(element.property_name))
+            element.specs = spec_data.get(element.property_name);
         return element;
     });
 
@@ -51,24 +69,43 @@ async function build_page() {
 }
 
 function generate_list_entry(data) {
-    entry = document.createElement("li");
+    let entry = document.createElement("li");
     if (data.serenity_supports)
         entry.classList.add("serenity");
 
-    property = document.createElement("span");
+    let property = document.createElement("span");
     property.textContent = data.property_name;
     property.classList.add("property");
     entry.append(property);
 
-    bar = document.createElement("progress");
+    let bar = document.createElement("progress");
     bar.max = 1;
     bar.value = data.day_percentage;
     entry.append(bar);
 
-    bar_value = document.createElement("span");
+    let bar_value = document.createElement("span");
     bar_value.classList.add("percent_value");
     bar_value.innerText = (data.day_percentage * 100).toFixed(2) + "%";
-
     entry.append(bar_value);
+
+    if (data.hasOwnProperty("specs")) {
+        let spec_links = document.createElement("ol");
+        spec_links.classList.add("spec-links");
+        for (var i = 0; i < data.specs.length; i++) {
+            const spec = data.specs[i];
+            let link = document.createElement("a");
+            link.href = spec.url;
+            link.innerText = spec.status;
+            link.title = spec.title;
+            link.target = "_blank";
+
+            let li = document.createElement("li");
+            li.classList.add("spec-" + spec.status);
+            li.append(link);
+            spec_links.append(li);
+        }
+        entry.append(spec_links);
+    }
+
     return entry;
 }
