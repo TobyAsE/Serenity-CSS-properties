@@ -32,7 +32,7 @@ async function build_page() {
     const w3c_data_object = data[2];
     let spec_data = new Map();
 
-    for (var i=0; i < w3c_data_object.length; i++) {
+    for (var i = 0; i < w3c_data_object.length; i++) {
         const entry = w3c_data_object[i];
         const property_name = entry.property;
         if (!spec_data.has(property_name)) {
@@ -77,11 +77,6 @@ function generate_list_entry(data) {
     property.textContent = data.property_name;
     property.classList.add("property");
     entry.append(property);
-
-    let bar = document.createElement("progress");
-    bar.max = 1;
-    bar.value = data.day_percentage;
-    entry.append(bar);
 
     let bar_value = document.createElement("span");
     bar_value.classList.add("percent_value");

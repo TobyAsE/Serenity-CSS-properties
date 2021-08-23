@@ -62,12 +62,4 @@ h1 {
   display: inline-block;
   margin-left: 20px;
 }
-
-#list li progress {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  width: 250px;
-  height: 20px;
-}
 /*# sourceMappingURL=style.css.map */
