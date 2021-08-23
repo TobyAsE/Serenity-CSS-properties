@@ -50,6 +50,15 @@ h1 {
             }
         }
 
+        &.legend {
+            background-color: white;
+            border: 1px solid #333;
+
+            &:hover {
+                background-color: #eee;
+            }
+        }
+
         .property {
             min-width: 20%;
             margin-right: 10px;
