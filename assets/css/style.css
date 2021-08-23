@@ -33,33 +33,50 @@ h1 {
   padding: 0;
 }
 
-#list li {
+#list > li {
   padding: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
-#list li.serenity {
+#list > li.serenity {
   background-color: rgba(0, 255, 0, 0.7);
 }
 
-#list li.serenity:hover {
+#list > li.serenity:hover {
   background-color: lime;
 }
 
-#list li:not(.serenity) {
+#list > li:not(.serenity) {
   background-color: rgba(255, 0, 0, 0.7);
 }
 
-#list li:not(.serenity):hover {
+#list > li:not(.serenity):hover {
   background-color: red;
 }
 
-#list li span.property {
-  display: inline-block;
-  width: 25%;
+#list > li .property {
+  min-width: 20%;
+  margin-right: 10px;
 }
 
-#list li span.percent_value {
-  display: inline-block;
-  margin-left: 20px;
+#list > li .percent_value {
+  color: #888;
+}
+
+#list > li .spec-links {
+  list-style: none;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#list > li .spec-links li {
+  display: inline;
+  padding-left: 5px;
 }
 /*# sourceMappingURL=style.css.map */
