@@ -1,6 +1,6 @@
 const googles_css_popularity_url = "https://chromestatus.com/data/csspopularity";
 const serenitys_css_properties_url = "https://raw.githubusercontent.com/SerenityOS/serenity/master/Userland/Libraries/LibWeb/CSS/Properties.json";
-const w3c_css_properties_url = `https://api.allorigins.win/raw?url=${encodeURIComponent('https://www.w3.org/Style/CSS/all-properties.en.json')}`;
+const w3c_css_properties_url = "assets/all-properties.en.json";
 
 list_element = document.getElementById("list");
 stat_element = document.getElementById("stat");
