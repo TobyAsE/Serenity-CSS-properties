@@ -1,0 +1,26 @@
+name: Download CSS properties and deploy site
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # Re-deploy monthly just in case all-properties.en.json changes...
+    - cron: '0 19 1 * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  setup-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Download CSS properties JSON
+        run: |
+          wget https://www.w3.org/Style/CSS/all-properties.en.json -O ./assets/all-properties.en.json
+
+      - name: Deploy to GitHub pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: .
