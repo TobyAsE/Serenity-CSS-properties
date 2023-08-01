@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Compare SerenityOS' CSS support to most used</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 content">
+                <h1>Supported SerenityOS CSS-Properties</h1>
+                <p>Google uses it's <a href="https://chromestatus.com/metrics/css/popularity" target="_blank">usage
+                        statistics</a> to give us some insight into the
+                    most used CSS-properties on the web.</p>
+                <p>The data conveniently is brought to us in JSON format, so it just begs us to do something with it!
+                </p>
+                <p>In SerenityOS we can somewhat see what properties are implemented by taking a look at the
+                    <a href="https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibWeb/CSS/Properties.json"
+                        target="_blank">Properties.json</a> file in LibWeb/CSS. Again, JSON, there seems to be a
+                    pattern here!
+                </p>
+                <p>Additionally w3 provides a <a href="https://www.w3.org/Style/CSS/all-properties.en.json"
+                        target="_blank">JSON
+                        file</a> that contains all properties and links to their respective
+                    specs. The pattern continues!</p>
+                <h2>What this page does:</h2>
+                <p>This page loads the data from Google and the current Properties.json from the SerenityOS GitHub
+                    repository and checks whether we've implemented any given property. Below, implemented properties
+                    are marked in green while unimplemented properties are red. The percentage numbers indicate the
+                    proportion of page-loads that contained that specific property.</p>
+                <p>The relevant specs are linked with every property.</p>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="d-flex flex-column">
+                    <div>
+                        <p>The number of supported CSS-Properties that are loaded on more than 5% of webpages is:
+                        <div id="stat"></div>
+                        <small>In braces is the total number of analyzed properties.</small>
+                        </p>
+                    </div>
+                    <div id="loading-message" class="media align-center flex-column align-content-center">
+                        <!-- Courtesy of frhun fka schokomuffin -->
+                        <svg class="align-self-center" width="64" height="64" version="1.1" viewBox="0 0 512 512"
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <defs>
+                                <radialGradient id="radialGradient3713" cx="228.33" cy="145" r="256"
+                                    gradientUnits="userSpaceOnUse">
+                                    <stop stop-color="#4a4a4a" offset="0" />
+                                    <stop stop-color="#020202" offset="1" />
+                                </radialGradient>
+                                <radialGradient id="radialGradient4215" cx="228.33" cy="145" r="256"
+                                    gradientUnits="userSpaceOnUse">
+                                    <stop stop-color="#ff3c3c" offset="0" />
+                                    <stop stop-color="#8b0000" offset="1" />
+                                    <animateTransform attributeName="gradientTransform" type="rotate" from="0 256 256"
+                                        to="360 256 256" begin="0s" dur="2s" repeatDur="indefinite" />
+                                </radialGradient>
+                                <filter id="filter8532" x="-.15933" y="-.10415" width="1.3187" height="1.2083"
+                                    color-interpolation-filters="sRGB">
+                                    <feGaussianBlur stdDeviation="31" />
+                                </filter>
+                                <mask id="mask8536" maskUnits="userSpaceOnUse">
+                                    <circle cx="256" cy="256" r="256" fill="#fff" fill-rule="evenodd" />
+                                </mask>
+                            </defs>
+                            <g fill-rule="evenodd">
+                                <circle cx="256" cy="256" r="256" fill="url(#radialGradient3713)" />
+                                <path
+                                    d="m256 0a256 256 0 0 0-221.7 128 256 256 0 0 0 0 256 256 256 0 0 0 206.43 127 128 128 0 0 0 15.273 1 128 128 0 0 0 128-128 128 128 0 0 0-128-128 128 128 0 0 1-128-128 128 128 0 0 1 128-128zm-192 192a16 16 0 0 1 16 16 16 16 0 0 1-16 16 16 16 0 0 1-16-16 16 16 0 0 1 16-16zm48 80a32 32 0 0 1 32 32 32 32 0 0 1-32 32 32 32 0 0 1-32-32 32 32 0 0 1 32-32zm144 48a64 64 0 0 1 64 64 64 64 0 0 1-64 64 64 64 0 0 1-64-64 64 64 0 0 1 64-64z"
+                                    filter="url(#filter8532)" mask="url(#mask8536)">
+                                    <animateTransform attributeName="transform" type="rotate" from="0 256 256"
+                                        to="-360 256 256" begin="0s" dur="2s" repeatDur="indefinite" />
+                                </path>
+                                <path
+                                    d="m256 0a256 256 0 0 0-221.7 128 256 256 0 0 0 0 256 256 256 0 0 0 206.43 127 128 128 0 0 0 15.273 1 128 128 0 0 0 128-128 128 128 0 0 0-128-128 128 128 0 0 1-128-128 128 128 0 0 1 128-128zm-192 192a16 16 0 0 1 16 16 16 16 0 0 1-16 16 16 16 0 0 1-16-16 16 16 0 0 1 16-16zm48 80a32 32 0 0 1 32 32 32 32 0 0 1-32 32 32 32 0 0 1-32-32 32 32 0 0 1 32-32zm144 48a64 64 0 0 1 64 64 64 64 0 0 1-64 64 64 64 0 0 1-64-64 64 64 0 0 1 64-64z"
+                                    fill="url(#radialGradient4215)">
+                                    <animateTransform attributeName="transform" type="rotate" from="0 256 256"
+                                        to="-360 256 256" begin="0s" dur="2s" repeatDur="indefinite" />
+                                </path>
+                            </g>
+                        </svg>
+                        <p class="media-body align-self-center mt-2">Loading statistics...</p>
+                    </div>
+                    <ul id="list">
+                        <li class="legend sticky-top ">
+                            <span class="property">Property</span>
+                            <span class="percent_value">Percentage</span>
+                            <ol class="spec-links">
+                                <li><a href="#">Links to relevant specs.</a></li>
+                            </ol>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 footer">
+                &copy; Tobias Christiansen et al., 2021<br>
+                Loading ladyball by <em>frhun fka schokomuffin</em>
+            </div>
+        </div>
+    </div>
+    <div class="gh-corner">
+        <a href="https://github.com/TobyAsE/Serenity-CSS-properties" class="github-corner"
+            aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250"
+                style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true">
+                <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
+                <path
+                    d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"
+                    fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
+                <path
+                    d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z"
+                    fill="currentColor" class="octo-body"></path>
+            </svg></a>
+        <style>
+            .github-corner:hover .octo-arm {
+                animation: octocat-wave 560ms ease-in-out
+            }
+
+            @keyframes octocat-wave {
+
+                0%,
+                100% {
+                    transform: rotate(0)
+                }
+
+                20%,
+                60% {
+                    transform: rotate(-25deg)
+                }
+
+                40%,
+                80% {
+                    transform: rotate(10deg)
+                }
+            }
+
+            @media (max-width:500px) {
+                .github-corner:hover .octo-arm {
+                    animation: none
+                }
+
+                .github-corner .octo-arm {
+                    animation: octocat-wave 560ms ease-in-out
+                }
+            }
+        </style>
+    </div>
+    <script src="assets/js/site.js"></script>
+</body>
+
+</html>

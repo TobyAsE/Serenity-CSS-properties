@@ -1,0 +1,576 @@
+[ { "property": "azimuth"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-azimuth"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "background"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "background-attachment"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-attachment"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "background-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "background-image"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-image"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "background-position"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-position"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "background-repeat"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-repeat"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-bottom"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-bottom"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-bottom-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-bottom-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-bottom-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-bottom-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-bottom-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-bottom-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-collapse"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html#propdef-border-collapse"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-left"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-left"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-left-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-left-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-left-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-left-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-left-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-left-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-right"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-right"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-right-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-right-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-right-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-right-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-right-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-right-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-spacing"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html#propdef-border-spacing"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-top"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-top"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-top-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-top-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-top-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-top-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-top-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-top-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "bottom"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-bottom"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "caption-side"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html#propdef-caption-side"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "clear"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-clear"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "clip"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html#propdef-clip"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "content"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-content"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "counter-increment"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-counter-increment"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "counter-reset"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-counter-reset"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "cue"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-cue"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "cue-after"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-cue-after"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "cue-before"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-cue-before"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "cursor"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-cursor"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "direction"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-direction"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "display"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-display"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "elevation"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-elevation"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "empty-cells"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html#propdef-empty-cells"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "float"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-float"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "font"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "font-family"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-family"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "font-size"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-size"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "font-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "font-variant"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-variant"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "font-weight"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-weight"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "height"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-height"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "left"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-left"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "letter-spacing"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-letter-spacing"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "line-height"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-line-height"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "list-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-list-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "list-style-image"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-list-style-image"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "list-style-position"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-list-style-position"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "list-style-type"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-list-style-type"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "margin"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "margin-bottom"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin-bottom"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "margin-left"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin-left"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "margin-right"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin-right"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "margin-top"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin-top"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "max-height"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-max-height"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "max-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-max-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "min-height"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-min-height"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "min-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-min-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "orphans"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-orphans"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "outline"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-outline"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "outline-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-outline-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "outline-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-outline-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "outline-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-outline-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "overflow"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html#propdef-overflow"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "padding"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "padding-bottom"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding-bottom"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "padding-left"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding-left"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "padding-right"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding-right"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "padding-top"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding-top"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "page-break-after"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-page-break-after"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "page-break-before"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-page-break-before"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "page-break-inside"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-page-break-inside"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "pause"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pause"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "pause-after"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pause-after"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "pause-before"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pause-before"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "pitch"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pitch"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "pitch-range"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pitch-range"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "play-during"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-play-during"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "position"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-position"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "quotes"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-quotes"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "richness"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-richness"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "right"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-right"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "speak"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speak"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "speak-header"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speak-header"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "speak-numeral"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speak-numeral"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "speak-punctuation"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speak-punctuation"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "speech-rate"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speech-rate"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "stress"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-stress"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "table-layout"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html#propdef-table-layout"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "text-align"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-text-align"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "text-decoration"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-text-decoration"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "text-indent"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-text-indent"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "text-transform"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-text-transform"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "top"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-top"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "unicode-bidi"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-unicode-bidi"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "vertical-align"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-vertical-align"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "visibility"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html#propdef-visibility"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "voice-family"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-voice-family"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "volume"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-volume"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "white-space"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-white-space"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "widows"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-widows"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "word-spacing"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-word-spacing"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "z-index"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-z-index"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+]

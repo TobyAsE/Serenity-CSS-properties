@@ -1,0 +1,91 @@
+h1 {
+  margin-top: 30px;
+}
+
+.content {
+  margin-bottom: 50px;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+}
+
+#stat {
+  margin: 5px 0;
+  font-weight: bold;
+}
+
+#loading-message {
+  opacity: 1;
+  height: 100px;
+}
+
+#loading-message.hidden {
+  -webkit-transition: opacity 0.5s, height 0.3s ease-in-out 0.2s;
+  transition: opacity 0.5s, height 0.3s ease-in-out 0.2s;
+  opacity: 0;
+  height: 0;
+}
+
+#list {
+  list-style: none;
+  padding: 0;
+}
+
+#list > li {
+  padding: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#list > li.serenity {
+  background-color: rgba(0, 255, 0, 0.7);
+}
+
+#list > li.serenity:hover {
+  background-color: lime;
+}
+
+#list > li:not(.serenity) {
+  background-color: rgba(255, 0, 0, 0.7);
+}
+
+#list > li:not(.serenity):hover {
+  background-color: red;
+}
+
+#list > li.legend {
+  background-color: white;
+  border: 1px solid #333;
+}
+
+#list > li.legend:hover {
+  background-color: #eee;
+}
+
+#list > li .property {
+  min-width: 20%;
+  margin-right: 10px;
+}
+
+#list > li .percent_value {
+  color: #888;
+}
+
+#list > li .spec-links {
+  list-style: none;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#list > li .spec-links li {
+  display: inline;
+  padding-left: 5px;
+}
+/*# sourceMappingURL=style.css.map */
