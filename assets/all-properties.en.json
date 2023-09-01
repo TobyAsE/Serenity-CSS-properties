@@ -3038,6 +3038,11 @@
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
+, { "property": "font-synthesis-position"
+  , "url": "https://drafts.csswg.org/css-fonts-4/#propdef-font-synthesis-position"
+  , "status": "ED"
+  , "title": "CSS Fonts Module Level 4"
+  }
 , { "property": "font-synthesis-small-caps"
   , "url": "https://drafts.csswg.org/css-fonts-4/#propdef-font-synthesis-small-caps"
   , "status": "ED"
@@ -7718,6 +7723,16 @@
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
+, { "property": "text-wrap-mode"
+  , "url": "https://drafts.csswg.org/css-text-4/#propdef-text-wrap-mode"
+  , "status": "ED"
+  , "title": "CSS Text Module Level 4"
+  }
+, { "property": "text-wrap-style"
+  , "url": "https://drafts.csswg.org/css-text-4/#propdef-text-wrap-style"
+  , "status": "ED"
+  , "title": "CSS Text Module Level 4"
+  }
 , { "property": "timeline-scope"
   , "url": "https://drafts.csswg.org/scroll-animations-1/#propdef-timeline-scope"
   , "status": "ED"
@@ -8214,18 +8229,8 @@
   , "title": "CSS Will Change Module Level 1"
   }
 , { "property": "word-boundary-detection"
-  , "url": "https://drafts.csswg.org/css-text-4/#propdef-word-boundary-detection"
-  , "status": "ED"
-  , "title": "CSS Text Module Level 4"
-  }
-, { "property": "word-boundary-detection"
   , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20230329/#propdef-word-boundary-detection"
   , "status": "WD"
-  , "title": "CSS Text Module Level 4"
-  }
-, { "property": "word-boundary-expansion"
-  , "url": "https://drafts.csswg.org/css-text-4/#propdef-word-boundary-expansion"
-  , "status": "ED"
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "word-boundary-expansion"
@@ -8251,6 +8256,11 @@
 , { "property": "word-break"
   , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20230329/#propdef-word-break"
   , "status": "WD"
+  , "title": "CSS Text Module Level 4"
+  }
+, { "property": "word-space-transform"
+  , "url": "https://drafts.csswg.org/css-text-4/#propdef-word-space-transform"
+  , "status": "ED"
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "word-spacing"
