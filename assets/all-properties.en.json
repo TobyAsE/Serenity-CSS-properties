@@ -3694,7 +3694,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hanging-punctuation"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-hanging-punctuation"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-hanging-punctuation"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -3789,7 +3789,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphens"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-hyphens"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-hyphens"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -4124,7 +4124,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "letter-spacing"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-letter-spacing"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-letter-spacing"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -4154,7 +4154,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "line-break"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-line-break"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-line-break"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -5569,7 +5569,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "overflow-wrap"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-overflow-wrap"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-overflow-wrap"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -5889,7 +5889,7 @@
   , "title": "CSS Paged Media Module Level 3"
   }
 , { "property": "page"
-  , "url": "https://www.w3.org/TR/2018/WD-css-page-3-20181018/#propdef-page"
+  , "url": "https://www.w3.org/TR/2023/WD-css-page-3-20230914/#propdef-page"
   , "status": "WD"
   , "title": "CSS Paged Media Module Level 3"
   }
@@ -7079,7 +7079,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "tab-size"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-tab-size"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-tab-size"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7139,7 +7139,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "text-align"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-text-align"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-align"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7159,7 +7159,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-align-all"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-text-align-all"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-align-all"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7179,7 +7179,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-align-last"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-text-align-last"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-align-last"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7529,7 +7529,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "text-indent"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-text-indent"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-indent"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7549,7 +7549,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-justify"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-text-justify"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-justify"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7674,7 +7674,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "text-transform"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-text-transform"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-transform"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7817,6 +7817,16 @@
   , "url": "https://www.w3.org/TR/2018/WD-css-transitions-1-20181011/#propdef-transition"
   , "status": "WD"
   , "title": "CSS Transitions"
+  }
+, { "property": "transition-behavior"
+  , "url": "https://drafts.csswg.org/css-transitions-2/#propdef-transition-behavior"
+  , "status": "ED"
+  , "title": "CSS Transitions Level 2"
+  }
+, { "property": "transition-behavior"
+  , "url": "https://www.w3.org/TR/2023/WD-css-transitions-2-20230905/#propdef-transition-behavior"
+  , "status": "FPWD"
+  , "title": "CSS Transitions Level 2"
   }
 , { "property": "transition-delay"
   , "url": "https://drafts.csswg.org/css-transitions/#propdef-transition-delay"
@@ -7984,8 +7994,8 @@
   , "title": "CSS View Transitions Module Level 1"
   }
 , { "property": "view-transition-name"
-  , "url": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230803/#propdef-view-transition-name"
-  , "status": "WD"
+  , "url": "https://www.w3.org/TR/2023/CR-css-view-transitions-1-20230905/#propdef-view-transition-name"
+  , "status": "CR"
   , "title": "CSS View Transitions Module Level 1"
   }
 , { "property": "visibility"
@@ -8129,7 +8139,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "white-space"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-white-space"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-white-space"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -8249,7 +8259,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "word-break"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-word-break"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-word-break"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -8289,7 +8299,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "word-spacing"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-word-spacing"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-word-spacing"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -8309,7 +8319,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "word-wrap"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230213/#propdef-word-wrap"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-word-wrap"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
