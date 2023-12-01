@@ -3908,6 +3908,11 @@
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
+, { "property": "inset-area"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-inset-area"
+  , "status": "ED"
+  , "title": "CSS Anchor Positioning"
+  }
 , { "property": "inset-block"
   , "url": "https://drafts.csswg.org/css-logical-1/#propdef-inset-block"
   , "status": "ED"
