@@ -331,6 +331,11 @@
 , { "property": "backface-visibility"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-backface-visibility"
   , "status": "ED"
+  , "title": "CSS 3D Transforms Module Level 3"
+  }
+, { "property": "backface-visibility"
+  , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-backface-visibility"
+  , "status": "ED"
   , "title": "CSS Transforms Module Level 2"
   }
 , { "property": "backface-visibility"
@@ -624,11 +629,6 @@
   , "title": "CSS Generated Content Module Level 3"
   }
 , { "property": "bookmark-label"
-  , "url": "https://www.w3.org/TR/2014/WD-css-gcpm-3-20140513/#propdef-bookmark-label"
-  , "status": "WD"
-  , "title": "CSS Generated Content for Paged Media Module"
-  }
-, { "property": "bookmark-label"
   , "url": "https://www.w3.org/TR/2019/WD-css-content-3-20190802/#propdef-bookmark-label"
   , "status": "WD"
   , "title": "CSS Generated Content Module Level 3"
@@ -639,11 +639,6 @@
   , "title": "CSS Generated Content Module Level 3"
   }
 , { "property": "bookmark-level"
-  , "url": "https://www.w3.org/TR/2014/WD-css-gcpm-3-20140513/#propdef-bookmark-level"
-  , "status": "WD"
-  , "title": "CSS Generated Content for Paged Media Module"
-  }
-, { "property": "bookmark-level"
   , "url": "https://www.w3.org/TR/2019/WD-css-content-3-20190802/#propdef-bookmark-level"
   , "status": "WD"
   , "title": "CSS Generated Content Module Level 3"
@@ -652,11 +647,6 @@
   , "url": "https://drafts.csswg.org/css-content-3/#propdef-bookmark-state"
   , "status": "ED"
   , "title": "CSS Generated Content Module Level 3"
-  }
-, { "property": "bookmark-state"
-  , "url": "https://www.w3.org/TR/2014/WD-css-gcpm-3-20140513/#propdef-bookmark-state"
-  , "status": "WD"
-  , "title": "CSS Generated Content for Paged Media Module"
   }
 , { "property": "bookmark-state"
   , "url": "https://www.w3.org/TR/2019/WD-css-content-3-20190802/#propdef-bookmark-state"
@@ -2974,11 +2964,6 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-stretch"
-  , "url": "https://drafts.csswg.org/css-fonts-4/#propdef-font-stretch"
-  , "status": "ED"
-  , "title": "CSS Fonts Module Level 4"
-  }
-, { "property": "font-stretch"
   , "url": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/#propdef-font-stretch"
   , "status": "REC"
   , "title": "CSS Fonts Module Level 3"
@@ -3278,13 +3263,18 @@
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
+, { "property": "font-width"
+  , "url": "https://drafts.csswg.org/css-fonts-4/#propdef-font-width"
+  , "status": "ED"
+  , "title": "CSS Fonts Module Level 4"
+  }
 , { "property": "footnote-display"
   , "url": "https://drafts.csswg.org/css-gcpm/#propdef-footnote-display"
   , "status": "ED"
   , "title": "CSS Generated Content for Paged Media Module"
   }
 , { "property": "footnote-display"
-  , "url": "https://www.w3.org/TR/2014/WD-css-gcpm-3-20140513/#propdef-footnote-display"
+  , "url": "https://www.w3.org/TR/2024/WD-css-gcpm-3-20240125/#propdef-footnote-display"
   , "status": "WD"
   , "title": "CSS Generated Content for Paged Media Module"
   }
@@ -3294,7 +3284,7 @@
   , "title": "CSS Generated Content for Paged Media Module"
   }
 , { "property": "footnote-policy"
-  , "url": "https://www.w3.org/TR/2014/WD-css-gcpm-3-20140513/#propdef-footnote-policy"
+  , "url": "https://www.w3.org/TR/2024/WD-css-gcpm-3-20240125/#propdef-footnote-policy"
   , "status": "WD"
   , "title": "CSS Generated Content for Paged Media Module"
   }
@@ -5996,12 +5986,22 @@
 , { "property": "perspective"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-perspective"
   , "status": "ED"
+  , "title": "CSS 3D Transforms Module Level 3"
+  }
+, { "property": "perspective"
+  , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-perspective"
+  , "status": "ED"
   , "title": "CSS Transforms Module Level 2"
   }
 , { "property": "perspective"
   , "url": "https://www.w3.org/TR/2021/WD-css-transforms-2-20211109/#propdef-perspective"
   , "status": "WD"
   , "title": "CSS Transforms Module Level 2"
+  }
+, { "property": "perspective-origin"
+  , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-perspective-origin"
+  , "status": "ED"
+  , "title": "CSS 3D Transforms Module Level 3"
   }
 , { "property": "perspective-origin"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-perspective-origin"
@@ -6089,11 +6089,6 @@
   , "title": "CSS Positioned Layout Module Level 3"
   }
 , { "property": "position-fallback"
-  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-fallback"
-  , "status": "ED"
-  , "title": "CSS Anchor Positioning"
-  }
-, { "property": "position-fallback"
   , "url": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/#propdef-position-fallback"
   , "status": "FPWD"
   , "title": "CSS Anchor Positioning"
@@ -6106,6 +6101,21 @@
 , { "property": "position-fallback-bounds"
   , "url": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/#propdef-position-fallback-bounds"
   , "status": "FPWD"
+  , "title": "CSS Anchor Positioning"
+  }
+, { "property": "position-try-final"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try-final"
+  , "status": "ED"
+  , "title": "CSS Anchor Positioning"
+  }
+, { "property": "position-try-options"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try-options"
+  , "status": "ED"
+  , "title": "CSS Anchor Positioning"
+  }
+, { "property": "position-try-order"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try-order"
+  , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "print-color-adjust"
@@ -6246,6 +6256,11 @@
 , { "property": "rotate"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-rotate"
   , "status": "ED"
+  , "title": "CSS 3D Transforms Module Level 3"
+  }
+, { "property": "rotate"
+  , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-rotate"
+  , "status": "ED"
   , "title": "CSS Transforms Module Level 2"
   }
 , { "property": "rotate"
@@ -6309,9 +6324,14 @@
   , "title": "CSS Generated Content for Paged Media Module"
   }
 , { "property": "running"
-  , "url": "https://www.w3.org/TR/2014/WD-css-gcpm-3-20140513/#propdef-running"
+  , "url": "https://www.w3.org/TR/2024/WD-css-gcpm-3-20240125/#propdef-running"
   , "status": "WD"
   , "title": "CSS Generated Content for Paged Media Module"
+  }
+, { "property": "scale"
+  , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-scale"
+  , "status": "ED"
+  , "title": "CSS 3D Transforms Module Level 3"
   }
 , { "property": "scale"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-scale"
@@ -6779,14 +6799,14 @@
   , "title": "CSS Generated Content for Paged Media Module"
   }
 , { "property": "string-set"
-  , "url": "https://www.w3.org/TR/2014/WD-css-gcpm-3-20140513/#propdef-string-set"
-  , "status": "WD"
-  , "title": "CSS Generated Content for Paged Media Module"
-  }
-, { "property": "string-set"
   , "url": "https://www.w3.org/TR/2019/WD-css-content-3-20190802/#propdef-string-set"
   , "status": "WD"
   , "title": "CSS Generated Content Module Level 3"
+  }
+, { "property": "string-set"
+  , "url": "https://www.w3.org/TR/2024/WD-css-gcpm-3-20240125/#propdef-string-set"
+  , "status": "WD"
+  , "title": "CSS Generated Content for Paged Media Module"
   }
 , { "property": "stroke"
   , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke"
@@ -7821,6 +7841,11 @@
 , { "property": "transform-style"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-transform-style"
   , "status": "ED"
+  , "title": "CSS 3D Transforms Module Level 3"
+  }
+, { "property": "transform-style"
+  , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-transform-style"
+  , "status": "ED"
   , "title": "CSS Transforms Module Level 2"
   }
 , { "property": "transform-style"
@@ -7887,6 +7912,11 @@
   , "url": "https://www.w3.org/TR/2018/WD-css-transitions-1-20181011/#propdef-transition-timing-function"
   , "status": "WD"
   , "title": "CSS Transitions"
+  }
+, { "property": "translate"
+  , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-translate"
+  , "status": "ED"
+  , "title": "CSS 3D Transforms Module Level 3"
   }
 , { "property": "translate"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-translate"
@@ -8427,5 +8457,15 @@
   , "url": "https://drafts.csswg.org/css2/#propdef-z-index"
   , "status": "ED"
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
+  }
+, { "property": "zoom"
+  , "url": "https://drafts.csswg.org/css-device-adapt/#propdef-zoom"
+  , "status": "ED"
+  , "title": "CSS Device Adaptation Module Level 1"
+  }
+, { "property": "zoom"
+  , "url": "https://drafts.csswg.org/css-viewport/#propdef-zoom"
+  , "status": "ED"
+  , "title": "CSS Viewport Module Level 1"
   }
 ]
