@@ -1798,6 +1798,11 @@
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
+, { "property": "caret-animation"
+  , "url": "https://drafts.csswg.org/css-ui-4/#propdef-caret-animation"
+  , "status": "ED"
+  , "title": "CSS Basic User Interface Module Level 4"
+  }
 , { "property": "caret-color"
   , "url": "https://drafts.csswg.org/css-ui-3/#propdef-caret-color"
   , "status": "ED"
@@ -1919,7 +1924,7 @@
   , "title": "CSS Color Module Level 3"
   }
 , { "property": "color"
-  , "url": "https://drafts.csswg.org/css-color/#propdef-color"
+  , "url": "https://drafts.csswg.org/css-color-4/#propdef-color"
   , "status": "ED"
   , "title": "CSS Color Module Level 4"
   }
@@ -1934,14 +1939,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "color"
-  , "url": "https://www.w3.org/TR/2022/CRD-css-color-4-20221101/#propdef-color"
-  , "status": "CRD"
-  , "title": "CSS Color Module Level 4"
-  }
-, { "property": "color"
   , "url": "https://www.w3.org/TR/2022/REC-css-color-3-20220118/#color1"
   , "status": "REC"
   , "title": "CSS Color Module Level 3"
+  }
+, { "property": "color"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-color-4-20240213/#propdef-color"
+  , "status": "CRD"
+  , "title": "CSS Color Module Level 4"
   }
 , { "property": "color-adjust"
   , "url": "https://drafts.csswg.org/css-color-adjust-1/#propdef-color-adjust"
@@ -2784,7 +2789,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -2819,7 +2824,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-family"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-family"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-family"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -2839,7 +2844,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-feature-settings"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-feature-settings"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-feature-settings"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -2859,7 +2864,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-kerning"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-kerning"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-kerning"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -2869,7 +2874,7 @@
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-language-override"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-language-override"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-language-override"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -2879,7 +2884,7 @@
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-optical-sizing"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-optical-sizing"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-optical-sizing"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -2889,7 +2894,7 @@
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-palette"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-palette"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-palette"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -2924,7 +2929,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-size"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-size"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-size"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -2949,12 +2954,12 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-size-adjust"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-size-adjust"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-size-adjust"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-size-adjust"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-5-20211221/#propdef-font-size-adjust"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-5-20240206/#propdef-font-size-adjust"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 5"
   }
@@ -2967,11 +2972,6 @@
   , "url": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/#propdef-font-stretch"
   , "status": "REC"
   , "title": "CSS Fonts Module Level 3"
-  }
-, { "property": "font-stretch"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-stretch"
-  , "status": "WD"
-  , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-style"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-style"
@@ -3004,7 +3004,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-style"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-style"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-style"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3024,7 +3024,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-synthesis"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-synthesis"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-synthesis"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3033,13 +3033,18 @@
   , "status": "ED"
   , "title": "CSS Fonts Module Level 4"
   }
+, { "property": "font-synthesis-position"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-synthesis-position"
+  , "status": "WD"
+  , "title": "CSS Fonts Module Level 4"
+  }
 , { "property": "font-synthesis-small-caps"
   , "url": "https://drafts.csswg.org/css-fonts-4/#propdef-font-synthesis-small-caps"
   , "status": "ED"
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-synthesis-small-caps"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-synthesis-small-caps"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-synthesis-small-caps"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3049,7 +3054,7 @@
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-synthesis-style"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-synthesis-style"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-synthesis-style"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3059,7 +3064,7 @@
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-synthesis-weight"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-synthesis-weight"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-synthesis-weight"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3094,7 +3099,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-variant"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-variant"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-variant"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3104,7 +3109,7 @@
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-variant-alternates"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-variant-alternates"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-variant-alternates"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3124,7 +3129,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-variant-caps"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-variant-caps"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-variant-caps"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3144,7 +3149,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-variant-east-asian"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-variant-east-asian"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-variant-east-asian"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3154,7 +3159,7 @@
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-variant-emoji"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-variant-emoji"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-variant-emoji"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3174,7 +3179,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-variant-ligatures"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-variant-ligatures"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-variant-ligatures"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3194,7 +3199,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-variant-numeric"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-variant-numeric"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-variant-numeric"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3214,7 +3219,7 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-variant-position"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-variant-position"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-variant-position"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3224,7 +3229,7 @@
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-variation-settings"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-variation-settings"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-variation-settings"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
@@ -3259,13 +3264,18 @@
   , "title": "CSS Fonts Module Level 3"
   }
 , { "property": "font-weight"
-  , "url": "https://www.w3.org/TR/2021/WD-css-fonts-4-20211221/#propdef-font-weight"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-weight"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-width"
   , "url": "https://drafts.csswg.org/css-fonts-4/#propdef-font-width"
   , "status": "ED"
+  , "title": "CSS Fonts Module Level 4"
+  }
+, { "property": "font-width"
+  , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-width"
+  , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "footnote-display"
@@ -3694,7 +3704,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "hanging-punctuation"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-hanging-punctuation"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-hanging-punctuation"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -3729,7 +3739,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphenate-character"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-hyphenate-character"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-hyphenate-character"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -3739,7 +3749,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphenate-limit-chars"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-hyphenate-limit-chars"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-hyphenate-limit-chars"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -3749,7 +3759,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphenate-limit-last"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-hyphenate-limit-last"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-hyphenate-limit-last"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -3759,7 +3769,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphenate-limit-lines"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-hyphenate-limit-lines"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-hyphenate-limit-lines"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -3769,7 +3779,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphenate-limit-zone"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-hyphenate-limit-zone"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-hyphenate-limit-zone"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -3789,7 +3799,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "hyphens"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-hyphens"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-hyphens"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -4129,7 +4139,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "letter-spacing"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-letter-spacing"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-letter-spacing"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -4159,7 +4169,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "line-break"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-line-break"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-line-break"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -4224,7 +4234,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "line-padding"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-line-padding"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-line-padding"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -5159,19 +5169,19 @@
   , "title": "CSS Color Module Level 3"
   }
 , { "property": "opacity"
-  , "url": "https://drafts.csswg.org/css-color/#propdef-opacity"
+  , "url": "https://drafts.csswg.org/css-color-4/#propdef-opacity"
   , "status": "ED"
-  , "title": "CSS Color Module Level 4"
-  }
-, { "property": "opacity"
-  , "url": "https://www.w3.org/TR/2022/CRD-css-color-4-20221101/#propdef-opacity"
-  , "status": "CRD"
   , "title": "CSS Color Module Level 4"
   }
 , { "property": "opacity"
   , "url": "https://www.w3.org/TR/2022/REC-css-color-3-20220118/#opacity"
   , "status": "REC"
   , "title": "CSS Color Module Level 3"
+  }
+, { "property": "opacity"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-color-4-20240213/#propdef-opacity"
+  , "status": "CRD"
+  , "title": "CSS Color Module Level 4"
   }
 , { "property": "order"
   , "url": "https://drafts.csswg.org/css-display/#propdef-order"
@@ -5574,7 +5584,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "overflow-wrap"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-overflow-wrap"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-overflow-wrap"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -6088,6 +6098,11 @@
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
+, { "property": "position-animation"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-animation"
+  , "status": "ED"
+  , "title": "CSS Anchor Positioning"
+  }
 , { "property": "position-fallback"
   , "url": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/#propdef-position-fallback"
   , "status": "FPWD"
@@ -6103,8 +6118,8 @@
   , "status": "FPWD"
   , "title": "CSS Anchor Positioning"
   }
-, { "property": "position-try-final"
-  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try-final"
+, { "property": "position-try"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try"
   , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
@@ -7114,7 +7129,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "tab-size"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-tab-size"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-tab-size"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7174,7 +7189,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-align"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-align"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-align"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7194,7 +7209,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-align-all"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-align-all"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-align-all"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7214,7 +7229,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-align-last"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-align-last"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-align-last"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7224,7 +7239,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-autospace"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-autospace"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-autospace"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7529,7 +7544,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-group-align"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-group-align"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-group-align"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7564,7 +7579,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-indent"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-indent"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-indent"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7584,7 +7599,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-justify"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-justify"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-justify"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7664,7 +7679,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-spacing"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-spacing"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-spacing"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7674,7 +7689,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-spacing-trim"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-spacing-trim"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-spacing-trim"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7709,7 +7724,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-transform"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-transform"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-transform"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7749,7 +7764,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-wrap"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-wrap"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-wrap"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7759,7 +7774,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-wrap-mode"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-wrap-mode"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-wrap-mode"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7769,7 +7784,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-wrap-style"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-text-wrap-style"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-text-wrap-style"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8194,7 +8209,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "white-space"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-white-space"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-white-space"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8204,7 +8219,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "white-space-collapse"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-white-space-collapse"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-white-space-collapse"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8214,7 +8229,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "white-space-trim"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-white-space-trim"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-white-space-trim"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8304,7 +8319,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "word-break"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-word-break"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-word-break"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8314,7 +8329,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "word-space-transform"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-word-space-transform"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-word-space-transform"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8349,7 +8364,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "word-spacing"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-word-spacing"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-word-spacing"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8369,7 +8384,7 @@
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "word-wrap"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-word-wrap"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-word-wrap"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8379,7 +8394,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "wrap-after"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-wrap-after"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-wrap-after"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8389,7 +8404,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "wrap-before"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-wrap-before"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-wrap-before"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8409,7 +8424,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "wrap-inside"
-  , "url": "https://www.w3.org/TR/2023/WD-css-text-4-20231020/#propdef-wrap-inside"
+  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240219/#propdef-wrap-inside"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
