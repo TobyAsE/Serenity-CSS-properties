@@ -128,29 +128,24 @@
   , "status": "CR"
   , "title": "CSS Cascading and Inheritance Level 5"
   }
-, { "property": "anchor-default"
-  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-anchor-default"
-  , "status": "ED"
-  , "title": "CSS Anchor Positioning"
-  }
-, { "property": "anchor-default"
-  , "url": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/#propdef-anchor-default"
-  , "status": "FPWD"
-  , "title": "CSS Anchor Positioning"
-  }
 , { "property": "anchor-name"
   , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-anchor-name"
   , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "anchor-name"
-  , "url": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/#propdef-anchor-name"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-anchor-name"
+  , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
-, { "property": "anchor-scroll"
-  , "url": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/#propdef-anchor-scroll"
-  , "status": "FPWD"
+, { "property": "anchor-scope"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-anchor-scope"
+  , "status": "ED"
+  , "title": "CSS Anchor Positioning"
+  }
+, { "property": "anchor-scope"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-anchor-scope"
+  , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "animation"
@@ -364,7 +359,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "background"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-background"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -389,7 +384,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "background-attachment"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-background-attachment"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-attachment"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -399,8 +394,8 @@
   , "title": "Compositing and Blending Level 1"
   }
 , { "property": "background-blend-mode"
-  , "url": "https://www.w3.org/TR/2015/CR-compositing-1-20150113/#propdef-background-blend-mode"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2024/CRD-compositing-1-20240321/#propdef-background-blend-mode"
+  , "status": "CRD"
   , "title": "Compositing and Blending Level 1"
   }
 , { "property": "background-clip"
@@ -409,7 +404,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "background-clip"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-background-clip"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-clip"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -434,7 +429,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "background-color"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-background-color"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-color"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -459,7 +454,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "background-image"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-background-image"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-image"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -469,7 +464,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "background-origin"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-background-origin"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-origin"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -494,7 +489,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "background-position"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-background-position"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-position"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -519,7 +514,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "background-repeat"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-background-repeat"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-repeat"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -529,7 +524,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "background-size"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-background-size"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-size"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -674,7 +669,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -819,7 +814,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-bottom"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-bottom"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-bottom"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -844,7 +839,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-bottom-color"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-bottom-color"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-bottom-color"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -854,7 +849,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-bottom-left-radius"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-bottom-left-radius"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-bottom-left-radius"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -864,7 +859,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-bottom-right-radius"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-bottom-right-radius"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-bottom-right-radius"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -889,7 +884,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-bottom-style"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-bottom-style"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-bottom-style"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -914,7 +909,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-bottom-width"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-bottom-width"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-bottom-width"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -974,7 +969,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-color"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-color"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-color"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1004,7 +999,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-image"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-image"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1014,7 +1009,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-image-outset"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-image-outset"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image-outset"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1024,7 +1019,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-image-repeat"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-image-repeat"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image-repeat"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1034,7 +1029,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-image-slice"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-image-slice"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image-slice"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1044,7 +1039,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-image-source"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-image-source"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image-source"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1054,7 +1049,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-image-width"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-image-width"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image-width"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1199,7 +1194,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-left"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-left"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-left"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1224,7 +1219,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-left-color"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-left-color"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-left-color"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1249,7 +1244,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-left-style"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-left-style"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-left-style"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1274,7 +1269,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-left-width"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-left-width"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-left-width"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1284,7 +1279,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-radius"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-radius"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-radius"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1309,7 +1304,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-right"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-right"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-right"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1334,7 +1329,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-right-color"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-right-color"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-right-color"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1359,7 +1354,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-right-style"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-right-style"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-right-style"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1384,7 +1379,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-right-width"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-right-width"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-right-width"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1454,7 +1449,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-style"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-style"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-style"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1479,7 +1474,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-top"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-top"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-top"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1504,7 +1499,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-top-color"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-top-color"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-top-color"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1514,7 +1509,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-top-left-radius"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-top-left-radius"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-top-left-radius"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1524,7 +1519,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-top-right-radius"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-top-right-radius"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-top-right-radius"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1549,7 +1544,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-top-style"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-top-style"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-top-style"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1574,7 +1569,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-top-width"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-top-width"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-top-width"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1599,7 +1594,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "border-width"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-border-width"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-width"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -1654,7 +1649,7 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "box-shadow"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20231219/#propdef-box-shadow"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-box-shadow"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
@@ -3913,6 +3908,11 @@
   , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
+, { "property": "inset-area"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-inset-area"
+  , "status": "WD"
+  , "title": "CSS Anchor Positioning"
+  }
 , { "property": "inset-block"
   , "url": "https://drafts.csswg.org/css-logical-1/#propdef-inset-block"
   , "status": "ED"
@@ -4039,8 +4039,8 @@
   , "title": "Compositing and Blending Level 1"
   }
 , { "property": "isolation"
-  , "url": "https://www.w3.org/TR/2015/CR-compositing-1-20150113/#propdef-isolation"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2024/CRD-compositing-1-20240321/#propdef-isolation"
+  , "status": "CRD"
   , "title": "Compositing and Blending Level 1"
   }
 , { "property": "justify-content"
@@ -4374,14 +4374,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "margin"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-margin"
-  , "status": "WD"
-  , "title": "CSS Box Model Module Level 4"
-  }
-, { "property": "margin"
   , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-margin"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
+  }
+, { "property": "margin"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin"
+  , "status": "WD"
+  , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "margin-block"
   , "url": "https://drafts.csswg.org/css-logical-1/#propdef-margin-block"
@@ -4439,14 +4439,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "margin-bottom"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-margin-bottom"
-  , "status": "WD"
-  , "title": "CSS Box Model Module Level 4"
-  }
-, { "property": "margin-bottom"
   , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-margin-bottom"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
+  }
+, { "property": "margin-bottom"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin-bottom"
+  , "status": "WD"
+  , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "margin-break"
   , "url": "https://drafts.csswg.org/css-break-4/#propdef-margin-break"
@@ -4514,14 +4514,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "margin-left"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-margin-left"
-  , "status": "WD"
-  , "title": "CSS Box Model Module Level 4"
-  }
-, { "property": "margin-left"
   , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-margin-left"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
+  }
+, { "property": "margin-left"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin-left"
+  , "status": "WD"
+  , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "margin-right"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin-right"
@@ -4549,14 +4549,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "margin-right"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-margin-right"
-  , "status": "WD"
-  , "title": "CSS Box Model Module Level 4"
-  }
-, { "property": "margin-right"
   , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-margin-right"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
+  }
+, { "property": "margin-right"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin-right"
+  , "status": "WD"
+  , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "margin-top"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin-top"
@@ -4584,14 +4584,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "margin-top"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-margin-top"
-  , "status": "WD"
-  , "title": "CSS Box Model Module Level 4"
-  }
-, { "property": "margin-top"
   , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-margin-top"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
+  }
+, { "property": "margin-top"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin-top"
+  , "status": "WD"
+  , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "margin-trim"
   , "url": "https://drafts.csswg.org/css-box-4/#propdef-margin-trim"
@@ -4599,7 +4599,7 @@
   , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "margin-trim"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-margin-trim"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin-trim"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -5029,8 +5029,8 @@
   , "title": "Compositing and Blending Level 1"
   }
 , { "property": "mix-blend-mode"
-  , "url": "https://www.w3.org/TR/2015/CR-compositing-1-20150113/#propdef-mix-blend-mode"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2024/CRD-compositing-1-20240321/#propdef-mix-blend-mode"
+  , "status": "CRD"
   , "title": "Compositing and Blending Level 1"
   }
 , { "property": "nav-down"
@@ -5684,14 +5684,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "padding"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-padding"
-  , "status": "WD"
-  , "title": "CSS Box Model Module Level 4"
-  }
-, { "property": "padding"
   , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-padding"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
+  }
+, { "property": "padding"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-padding"
+  , "status": "WD"
+  , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "padding-block"
   , "url": "https://drafts.csswg.org/css-logical-1/#propdef-padding-block"
@@ -5749,14 +5749,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "padding-bottom"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-padding-bottom"
-  , "status": "WD"
-  , "title": "CSS Box Model Module Level 4"
-  }
-, { "property": "padding-bottom"
   , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-padding-bottom"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
+  }
+, { "property": "padding-bottom"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-padding-bottom"
+  , "status": "WD"
+  , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "padding-inline"
   , "url": "https://drafts.csswg.org/css-logical-1/#propdef-padding-inline"
@@ -5814,14 +5814,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "padding-left"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-padding-left"
-  , "status": "WD"
-  , "title": "CSS Box Model Module Level 4"
-  }
-, { "property": "padding-left"
   , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-padding-left"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
+  }
+, { "property": "padding-left"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-padding-left"
+  , "status": "WD"
+  , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "padding-right"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding-right"
@@ -5849,14 +5849,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "padding-right"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-padding-right"
-  , "status": "WD"
-  , "title": "CSS Box Model Module Level 4"
-  }
-, { "property": "padding-right"
   , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-padding-right"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
+  }
+, { "property": "padding-right"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-padding-right"
+  , "status": "WD"
+  , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "padding-top"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding-top"
@@ -5884,14 +5884,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "padding-top"
-  , "url": "https://www.w3.org/TR/2022/WD-css-box-4-20221103/#propdef-padding-top"
-  , "status": "WD"
-  , "title": "CSS Box Model Module Level 4"
-  }
-, { "property": "padding-top"
   , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-padding-top"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
+  }
+, { "property": "padding-top"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-padding-top"
+  , "status": "WD"
+  , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "page"
   , "url": "https://drafts.csswg.org/css-page-3/#propdef-page"
@@ -6098,24 +6098,14 @@
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
-, { "property": "position-animation"
-  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-animation"
+, { "property": "position-anchor"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-anchor"
   , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
-, { "property": "position-fallback"
-  , "url": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/#propdef-position-fallback"
-  , "status": "FPWD"
-  , "title": "CSS Anchor Positioning"
-  }
-, { "property": "position-fallback-bounds"
-  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-fallback-bounds"
-  , "status": "ED"
-  , "title": "CSS Anchor Positioning"
-  }
-, { "property": "position-fallback-bounds"
-  , "url": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/#propdef-position-fallback-bounds"
-  , "status": "FPWD"
+, { "property": "position-anchor"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-position-anchor"
+  , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-try"
@@ -6123,14 +6113,29 @@
   , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
+, { "property": "position-try"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-position-try"
+  , "status": "WD"
+  , "title": "CSS Anchor Positioning"
+  }
 , { "property": "position-try-options"
   , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try-options"
   , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
+, { "property": "position-try-options"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-position-try-options"
+  , "status": "WD"
+  , "title": "CSS Anchor Positioning"
+  }
 , { "property": "position-try-order"
   , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try-order"
   , "status": "ED"
+  , "title": "CSS Anchor Positioning"
+  }
+, { "property": "position-try-order"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-position-try-order"
+  , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "print-color-adjust"
@@ -8059,8 +8064,8 @@
   , "title": "CSS View Transitions Module Level 1"
   }
 , { "property": "view-transition-name"
-  , "url": "https://www.w3.org/TR/2023/CR-css-view-transitions-1-20230905/#propdef-view-transition-name"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-view-transitions-1-20240328/#propdef-view-transition-name"
+  , "status": "CRD"
   , "title": "CSS View Transitions Module Level 1"
   }
 , { "property": "visibility"
