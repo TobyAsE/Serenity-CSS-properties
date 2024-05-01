@@ -4374,7 +4374,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "margin"
-  , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-margin"
+  , "url": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/#propdef-margin"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
   }
@@ -4439,7 +4439,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "margin-bottom"
-  , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-margin-bottom"
+  , "url": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/#propdef-margin-bottom"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
   }
@@ -4514,7 +4514,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "margin-left"
-  , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-margin-left"
+  , "url": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/#propdef-margin-left"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
   }
@@ -4549,7 +4549,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "margin-right"
-  , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-margin-right"
+  , "url": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/#propdef-margin-right"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
   }
@@ -4584,7 +4584,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "margin-top"
-  , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-margin-top"
+  , "url": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/#propdef-margin-top"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
   }
@@ -5684,7 +5684,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "padding"
-  , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-padding"
+  , "url": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/#propdef-padding"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
   }
@@ -5749,7 +5749,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "padding-bottom"
-  , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-padding-bottom"
+  , "url": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/#propdef-padding-bottom"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
   }
@@ -5814,7 +5814,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "padding-left"
-  , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-padding-left"
+  , "url": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/#propdef-padding-left"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
   }
@@ -5849,7 +5849,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "padding-right"
-  , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-padding-right"
+  , "url": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/#propdef-padding-right"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
   }
@@ -5884,7 +5884,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "padding-top"
-  , "url": "https://www.w3.org/TR/2023/REC-css-box-3-20230406/#propdef-padding-top"
+  , "url": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/#propdef-padding-top"
   , "status": "REC"
   , "title": "CSS Box Model Module Level 3"
   }
@@ -6136,6 +6136,11 @@
 , { "property": "position-try-order"
   , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-position-try-order"
   , "status": "WD"
+  , "title": "CSS Anchor Positioning"
+  }
+, { "property": "position-visibility"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-visibility"
+  , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "print-color-adjust"
