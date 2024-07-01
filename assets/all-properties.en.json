@@ -2084,14 +2084,14 @@
   , "title": "CSS Containment Module Level 2"
   }
 , { "property": "contain"
-  , "url": "https://www.w3.org/TR/2022/REC-css-contain-1-20221025/#propdef-contain"
-  , "status": "REC"
-  , "title": "CSS Containment Module Level 1"
-  }
-, { "property": "contain"
   , "url": "https://www.w3.org/TR/2022/WD-css-contain-2-20220917/#propdef-contain"
   , "status": "WD"
   , "title": "CSS Containment Module Level 2"
+  }
+, { "property": "contain"
+  , "url": "https://www.w3.org/TR/2024/REC-css-contain-1-20240625/#propdef-contain"
+  , "status": "REC"
+  , "title": "CSS Containment Module Level 1"
   }
 , { "property": "contain-intrinsic-block-size"
   , "url": "https://drafts.csswg.org/css-sizing-4/#propdef-contain-intrinsic-block-size"
@@ -2144,9 +2144,9 @@
   , "title": "CSS Box Sizing Module Level 4"
   }
 , { "property": "container"
-  , "url": "https://drafts.csswg.org/css-contain-3/#propdef-container"
+  , "url": "https://drafts.csswg.org/css-conditional-5/#propdef-container"
   , "status": "ED"
-  , "title": "CSS Containment Module Level 3"
+  , "title": "CSS Conditional Rules Module Level 5"
   }
 , { "property": "container"
   , "url": "https://www.w3.org/TR/2022/WD-css-contain-3-20220818/#propdef-container"
@@ -2154,9 +2154,9 @@
   , "title": "CSS Containment Module Level 3"
   }
 , { "property": "container-name"
-  , "url": "https://drafts.csswg.org/css-contain-3/#propdef-container-name"
+  , "url": "https://drafts.csswg.org/css-conditional-5/#propdef-container-name"
   , "status": "ED"
-  , "title": "CSS Containment Module Level 3"
+  , "title": "CSS Conditional Rules Module Level 5"
   }
 , { "property": "container-name"
   , "url": "https://www.w3.org/TR/2022/WD-css-contain-3-20220818/#propdef-container-name"
@@ -2164,9 +2164,9 @@
   , "title": "CSS Containment Module Level 3"
   }
 , { "property": "container-type"
-  , "url": "https://drafts.csswg.org/css-contain-3/#propdef-container-type"
+  , "url": "https://drafts.csswg.org/css-conditional-5/#propdef-container-type"
   , "status": "ED"
-  , "title": "CSS Containment Module Level 3"
+  , "title": "CSS Conditional Rules Module Level 5"
   }
 , { "property": "container-type"
   , "url": "https://www.w3.org/TR/2022/WD-css-contain-3-20220818/#propdef-container-type"
@@ -2202,11 +2202,6 @@
   , "url": "https://drafts.csswg.org/css-contain-2/#propdef-content-visibility"
   , "status": "ED"
   , "title": "CSS Containment Module Level 2"
-  }
-, { "property": "content-visibility"
-  , "url": "https://drafts.csswg.org/css-contain-3/#propdef-content-visibility"
-  , "status": "ED"
-  , "title": "CSS Containment Module Level 3"
   }
 , { "property": "content-visibility"
   , "url": "https://www.w3.org/TR/2022/WD-css-contain-2-20220917/#propdef-content-visibility"
