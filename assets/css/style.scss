@@ -19,6 +19,7 @@ h1 {
 #loading-message {
     opacity: 1;
     height: 100px;
+
     &.hidden {
         transition: opacity 0.5s, height 0.3s ease-in-out 0.2s;
         opacity: 0;
@@ -30,11 +31,11 @@ h1 {
     list-style: none;
     padding: 0;
 
-    & > li {
+    &>li {
         padding: 10px;
         display: flex;
 
-        &.serenity {
+        &.ladybird {
             background-color: rgba(lime, 0.7);
 
             &:hover {
@@ -42,7 +43,7 @@ h1 {
             }
         }
 
-        &:not(.serenity) {
+        &:not(.ladybird) {
             background-color: rgba(red, 0.7);
 
             &:hover {
