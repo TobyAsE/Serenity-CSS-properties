@@ -1,5 +1,5 @@
 const googles_css_popularity_url = "https://chromestatus.com/data/csspopularity";
-const serenitys_css_properties_url = "https://raw.githubusercontent.com/SerenityOS/serenity/master/Userland/Libraries/LibWeb/CSS/Properties.json";
+const ladybirds_css_properties_url = "https://raw.githubusercontent.com/ladybirdbrowser/ladybird/master/Userland/Libraries/LibWeb/CSS/Properties.json";
 const w3c_css_properties_url = "assets/all-properties.en.json";
 
 list_element = document.getElementById("list");
@@ -11,24 +11,24 @@ build_page();
 async function get_data() {
     let googles_css_popularity_promise = fetch(googles_css_popularity_url)
         .then(response => response.json());
-    let serenitys_css_properties_promise = fetch(serenitys_css_properties_url)
+    let ladybirds_css_properties_promise = fetch(ladybirds_css_properties_url)
         .then(response => response.json());
     let w3c_css_properties_promise = fetch(w3c_css_properties_url)
         .then(response => response.json());
 
-    const resolved_data = await Promise.allSettled([googles_css_popularity_promise, serenitys_css_properties_promise, w3c_css_properties_promise]);
+    const resolved_data = await Promise.allSettled([googles_css_popularity_promise, ladybirds_css_properties_promise, w3c_css_properties_promise]);
 
     const googles_resolved_data = resolved_data[0].value;
-    const serenitys_resolved_data = resolved_data[1].value;
+    const ladybirds_resolved_data = resolved_data[1].value;
     const w3c_resolved_data = resolved_data[2].value;
 
-    return [googles_resolved_data, serenitys_resolved_data, w3c_resolved_data];
+    return [googles_resolved_data, ladybirds_resolved_data, w3c_resolved_data];
 }
 
 async function build_page() {
     const data = await get_data();
     const google_data = data[0];
-    const serenity_data_object = data[1];
+    const ladybird_data_object = data[1];
     const w3c_data_object = data[2];
     let spec_data = new Map();
 
@@ -42,15 +42,15 @@ async function build_page() {
         }
     }
 
-    let serenity_data = [];
-    for (var entry in serenity_data_object) {
-        serenity_data.push(entry);
+    let ladybird_data = [];
+    for (var entry in ladybird_data_object) {
+        ladybird_data.push(entry);
     }
 
     let correlated_data = google_data.filter(element =>
         !element.property_name.startsWith("webkit-") && !element.property_name.startsWith("alias-")
     ).map(element => {
-        element.serenity_supports = serenity_data.includes(element.property_name);
+        element.ladybird_supports = ladybird_data.includes(element.property_name);
         if (spec_data.has(element.property_name))
             element.specs = spec_data.get(element.property_name);
         return element;
@@ -61,7 +61,7 @@ async function build_page() {
     });
 
     number_of_properties_over_five_percent = correlated_data.filter(data => data.day_percentage >= 0.05);
-    number_of_supported_properties_over_five_percent = number_of_properties_over_five_percent.filter(data => data.serenity_supports).length;
+    number_of_supported_properties_over_five_percent = number_of_properties_over_five_percent.filter(data => data.ladybird_supports).length;
 
     stat_element.innerText = number_of_supported_properties_over_five_percent + " / " + number_of_properties_over_five_percent.length + " (" + correlated_data.length + ")";
 
@@ -70,8 +70,8 @@ async function build_page() {
 
 function generate_list_entry(data) {
     let entry = document.createElement("li");
-    if (data.serenity_supports)
-        entry.classList.add("serenity");
+    if (data.ladybird_supports)
+        entry.classList.add("ladybird");
 
     let property = document.createElement("span");
     property.textContent = data.property_name;
