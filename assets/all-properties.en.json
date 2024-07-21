@@ -3899,11 +3899,6 @@
   , "title": "CSS Positioned Layout Module Level 3"
   }
 , { "property": "inset-area"
-  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-inset-area"
-  , "status": "ED"
-  , "title": "CSS Anchor Positioning"
-  }
-, { "property": "inset-area"
   , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-inset-area"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
@@ -6103,6 +6098,11 @@
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
+, { "property": "position-area"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-area"
+  , "status": "ED"
+  , "title": "CSS Anchor Positioning"
+  }
 , { "property": "position-try"
   , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try"
   , "status": "ED"
@@ -6113,8 +6113,8 @@
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
-, { "property": "position-try-options"
-  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try-options"
+, { "property": "position-try-fallbacks"
+  , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try-fallbacks"
   , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }

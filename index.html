@@ -8,21 +8,21 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Compare SerenityOS' CSS support to most used</title>
+    <title>Compare Ladybirds CSS support to most used</title>
 </head>
 
 <body>
     <div class="container">
         <div class="row">
             <div class="col-12 content">
-                <h1>Supported SerenityOS CSS-Properties</h1>
+                <h1>Supported Ladybird CSS-Properties</h1>
                 <p>Google uses it's <a href="https://chromestatus.com/metrics/css/popularity" target="_blank">usage
                         statistics</a> to give us some insight into the
                     most used CSS-properties on the web.</p>
                 <p>The data conveniently is brought to us in JSON format, so it just begs us to do something with it!
                 </p>
-                <p>In SerenityOS we can somewhat see what properties are implemented by taking a look at the
-                    <a href="https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibWeb/CSS/Properties.json"
+                <p>In Ladybird we can somewhat see what properties are implemented by taking a look at the
+                    <a href="https://github.com/ladybirdbrowser/ladybird/blob/master/Userland/Libraries/LibWeb/CSS/Properties.json"
                         target="_blank">Properties.json</a> file in LibWeb/CSS. Again, JSON, there seems to be a
                     pattern here!
                 </p>
@@ -31,7 +31,7 @@
                         file</a> that contains all properties and links to their respective
                     specs. The pattern continues!</p>
                 <h2>What this page does:</h2>
-                <p>This page loads the data from Google and the current Properties.json from the SerenityOS GitHub
+                <p>This page loads the data from Google and the current Properties.json from the Ladybird GitHub
                     repository and checks whether we've implemented any given property. Below, implemented properties
                     are marked in green while unimplemented properties are red. The percentage numbers indicate the
                     proportion of page-loads that contained that specific property.</p>
