@@ -2153,6 +2153,11 @@
   , "status": "WD"
   , "title": "CSS Containment Module Level 3"
   }
+, { "property": "container"
+  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20240723/#propdef-container"
+  , "status": "WD"
+  , "title": "CSS Conditional Rules Module Level 5"
+  }
 , { "property": "container-name"
   , "url": "https://drafts.csswg.org/css-conditional-5/#propdef-container-name"
   , "status": "ED"
@@ -2163,6 +2168,11 @@
   , "status": "WD"
   , "title": "CSS Containment Module Level 3"
   }
+, { "property": "container-name"
+  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20240723/#propdef-container-name"
+  , "status": "WD"
+  , "title": "CSS Conditional Rules Module Level 5"
+  }
 , { "property": "container-type"
   , "url": "https://drafts.csswg.org/css-conditional-5/#propdef-container-type"
   , "status": "ED"
@@ -2172,6 +2182,11 @@
   , "url": "https://www.w3.org/TR/2022/WD-css-contain-3-20220818/#propdef-container-type"
   , "status": "WD"
   , "title": "CSS Containment Module Level 3"
+  }
+, { "property": "container-type"
+  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20240723/#propdef-container-type"
+  , "status": "WD"
+  , "title": "CSS Conditional Rules Module Level 5"
   }
 , { "property": "content"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-content"
@@ -6627,6 +6642,16 @@
   , "url": "https://www.w3.org/TR/2021/CR-css-scroll-snap-1-20210311/#propdef-scroll-snap-type"
   , "status": "CR"
   , "title": "CSS Scroll Snap Module Level 1"
+  }
+, { "property": "scroll-start-target"
+  , "url": "https://drafts.csswg.org/css-scroll-snap-2/#propdef-scroll-start-target"
+  , "status": "ED"
+  , "title": "CSS Scroll Snap Module Level 2"
+  }
+, { "property": "scroll-start-target"
+  , "url": "https://www.w3.org/TR/2024/WD-css-scroll-snap-2-20240723/#propdef-scroll-start-target"
+  , "status": "FPWD"
+  , "title": "CSS Scroll Snap Module Level 2"
   }
 , { "property": "scroll-timeline"
   , "url": "https://drafts.csswg.org/scroll-animations-1/#propdef-scroll-timeline"
