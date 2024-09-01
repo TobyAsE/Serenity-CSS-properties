@@ -94,7 +94,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "alignment-baseline"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-alignment-baseline"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-alignment-baseline"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -534,7 +534,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "baseline-shift"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-baseline-shift"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-baseline-shift"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -544,7 +544,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "baseline-source"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-baseline-source"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-baseline-source"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -1619,7 +1619,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "bottom"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-bottom"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-bottom"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -2439,7 +2439,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "dominant-baseline"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-dominant-baseline"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-dominant-baseline"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -3844,7 +3844,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "initial-letter"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-initial-letter"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-initial-letter"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -3854,7 +3854,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "initial-letter-align"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-initial-letter-align"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-initial-letter-align"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -3864,7 +3864,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "initial-letter-wrap"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-initial-letter-wrap"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-initial-letter-wrap"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -3884,7 +3884,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "inline-sizing"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-inline-sizing"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-inline-sizing"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -3909,7 +3909,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-inset"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -3934,7 +3934,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-block"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-inset-block"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-block"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -3954,7 +3954,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-block-end"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-inset-block-end"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-block-end"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -3974,7 +3974,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-block-start"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-inset-block-start"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-block-start"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -3994,7 +3994,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-inline"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-inset-inline"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-inline"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4014,7 +4014,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-inline-end"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-inset-inline-end"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-inline-end"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4034,7 +4034,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-inline-start"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-inset-inline-start"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-inline-start"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4109,7 +4109,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "left"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-left"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-left"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4188,6 +4188,16 @@
   , "status": "WD"
   , "title": "CSS Overflow Module Level 4"
   }
+, { "property": "line-fit-edge"
+  , "url": "https://drafts.csswg.org/css-inline-3/#propdef-line-fit-edge"
+  , "status": "ED"
+  , "title": "CSS Inline Layout Module Level 3"
+  }
+, { "property": "line-fit-edge"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-line-fit-edge"
+  , "status": "WD"
+  , "title": "CSS Inline Layout Module Level 3"
+  }
 , { "property": "line-grid"
   , "url": "https://drafts.csswg.org/css-line-grid/#propdef-line-grid"
   , "status": "ED"
@@ -4219,7 +4229,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "line-height"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-line-height"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-line-height"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -4384,7 +4394,7 @@
   , "title": "CSS Box Model Module Level 3"
   }
 , { "property": "margin"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-margin"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -4449,7 +4459,7 @@
   , "title": "CSS Box Model Module Level 3"
   }
 , { "property": "margin-bottom"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin-bottom"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-margin-bottom"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -4524,7 +4534,7 @@
   , "title": "CSS Box Model Module Level 3"
   }
 , { "property": "margin-left"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin-left"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-margin-left"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -4559,7 +4569,7 @@
   , "title": "CSS Box Model Module Level 3"
   }
 , { "property": "margin-right"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin-right"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-margin-right"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -4594,7 +4604,7 @@
   , "title": "CSS Box Model Module Level 3"
   }
 , { "property": "margin-top"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin-top"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-margin-top"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -4604,7 +4614,7 @@
   , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "margin-trim"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-margin-trim"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-margin-trim"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -5694,7 +5704,7 @@
   , "title": "CSS Box Model Module Level 3"
   }
 , { "property": "padding"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-padding"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-padding"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -5759,7 +5769,7 @@
   , "title": "CSS Box Model Module Level 3"
   }
 , { "property": "padding-bottom"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-padding-bottom"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-padding-bottom"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -5824,7 +5834,7 @@
   , "title": "CSS Box Model Module Level 3"
   }
 , { "property": "padding-left"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-padding-left"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-padding-left"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -5859,7 +5869,7 @@
   , "title": "CSS Box Model Module Level 3"
   }
 , { "property": "padding-right"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-padding-right"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-padding-right"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -5894,7 +5904,7 @@
   , "title": "CSS Box Model Module Level 3"
   }
 , { "property": "padding-top"
-  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240401/#propdef-padding-top"
+  , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-padding-top"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
   }
@@ -6099,7 +6109,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "position"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-position"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-position"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -6284,7 +6294,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "right"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-right"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-right"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -7273,13 +7283,23 @@
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
+, { "property": "text-box"
+  , "url": "https://drafts.csswg.org/css-inline-3/#propdef-text-box"
+  , "status": "ED"
+  , "title": "CSS Inline Layout Module Level 3"
+  }
+, { "property": "text-box"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-text-box"
+  , "status": "WD"
+  , "title": "CSS Inline Layout Module Level 3"
+  }
 , { "property": "text-box-edge"
   , "url": "https://drafts.csswg.org/css-inline-3/#propdef-text-box-edge"
   , "status": "ED"
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "text-box-edge"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-text-box-edge"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-text-box-edge"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -7289,7 +7309,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "text-box-trim"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-text-box-trim"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-text-box-trim"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -7849,7 +7869,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "top"
-  , "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/#propdef-top"
+  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-top"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -8039,7 +8059,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "vertical-align"
-  , "url": "https://www.w3.org/TR/2023/WD-css-inline-3-20230401/#propdef-vertical-align"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-vertical-align"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -8091,6 +8111,11 @@
 , { "property": "view-transition-class"
   , "url": "https://www.w3.org/TR/2024/WD-css-view-transitions-2-20240516/#propdef-view-transition-class"
   , "status": "FPWD"
+  , "title": "CSS View Transitions Module Level 2"
+  }
+, { "property": "view-transition-group"
+  , "url": "https://drafts.csswg.org/css-view-transitions-2/#propdef-view-transition-group"
+  , "status": "ED"
   , "title": "CSS View Transitions Module Level 2"
   }
 , { "property": "view-transition-name"
