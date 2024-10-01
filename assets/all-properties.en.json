@@ -3419,6 +3419,11 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-auto-flow"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-grid-auto-flow"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "grid-auto-flow"
   , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-auto-flow"
   , "status": "ED"
   , "title": "CSS Grid Layout Module Level 1"
@@ -3432,6 +3437,11 @@
   , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-auto-flow"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-auto-flow"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-grid-auto-flow"
+  , "status": "FPWD"
+  , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "grid-auto-rows"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-auto-rows"
@@ -3704,7 +3714,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hanging-punctuation"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-hanging-punctuation"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-hanging-punctuation"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -3799,7 +3809,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphens"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-hyphens"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-hyphens"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -4038,6 +4048,16 @@
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
+, { "property": "interpolate-size"
+  , "url": "https://drafts.csswg.org/css-values-5/#propdef-interpolate-size"
+  , "status": "ED"
+  , "title": "CSS Values and Units Module Level 5"
+  }
+, { "property": "interpolate-size"
+  , "url": "https://www.w3.org/TR/2024/WD-css-values-5-20240917/#propdef-interpolate-size"
+  , "status": "WD"
+  , "title": "CSS Values and Units Module Level 5"
+  }
 , { "property": "isolation"
   , "url": "https://drafts.fxtf.org/compositing-1/#propdef-isolation"
   , "status": "ED"
@@ -4139,7 +4159,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "letter-spacing"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-letter-spacing"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-letter-spacing"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -4169,7 +4189,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "line-break"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-line-break"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-line-break"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -4877,6 +4897,86 @@
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-type"
   , "status": "CRD"
   , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "masonry"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-masonry"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry"
+  , "status": "FPWD"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-auto-tracks"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-masonry-auto-tracks"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-auto-tracks"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-auto-tracks"
+  , "status": "FPWD"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-direction"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-masonry-direction"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-direction"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-direction"
+  , "status": "FPWD"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-fill"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-masonry-fill"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-fill"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-fill"
+  , "status": "FPWD"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-flow"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-masonry-flow"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-flow"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-flow"
+  , "status": "FPWD"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-slack"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-masonry-slack"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-slack"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-slack"
+  , "status": "FPWD"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-template-areas"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-masonry-template-areas"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-template-areas"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-template-areas"
+  , "status": "FPWD"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-template-tracks"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-masonry-template-tracks"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "masonry-template-tracks"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-template-tracks"
+  , "status": "FPWD"
+  , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "max-block-size"
   , "url": "https://drafts.csswg.org/css-logical-1/#propdef-max-block-size"
@@ -5594,7 +5694,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "overflow-wrap"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-overflow-wrap"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-overflow-wrap"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7164,7 +7264,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "tab-size"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-tab-size"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-tab-size"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7224,7 +7324,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "text-align"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-align"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-align"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7244,7 +7344,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-align-all"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-align-all"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-align-all"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7264,7 +7364,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-align-last"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-align-last"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-align-last"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7624,7 +7724,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "text-indent"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-indent"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-indent"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7644,7 +7744,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-justify"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-justify"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-justify"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -7769,7 +7869,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "text-transform"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-text-transform"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-transform"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -8269,7 +8369,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "white-space"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-white-space"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-white-space"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -8379,7 +8479,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "word-break"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-word-break"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-word-break"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -8424,7 +8524,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "word-spacing"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-word-spacing"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-word-spacing"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
@@ -8444,7 +8544,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "word-wrap"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-text-3-20230903/#propdef-word-wrap"
+  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-word-wrap"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
