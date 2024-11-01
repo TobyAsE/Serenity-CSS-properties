@@ -134,7 +134,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "anchor-name"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-anchor-name"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-anchor-name"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -144,7 +144,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "anchor-scope"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-anchor-scope"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-anchor-scope"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -3439,8 +3439,8 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-auto-flow"
-  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-grid-auto-flow"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20241003/#propdef-grid-auto-flow"
+  , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "grid-auto-rows"
@@ -3922,11 +3922,6 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
-  }
-, { "property": "inset-area"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-inset-area"
-  , "status": "WD"
-  , "title": "CSS Anchor Positioning"
   }
 , { "property": "inset-block"
   , "url": "https://drafts.csswg.org/css-logical-1/#propdef-inset-block"
@@ -4904,8 +4899,8 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry"
-  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20241003/#propdef-masonry"
+  , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-auto-tracks"
@@ -4914,8 +4909,8 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-auto-tracks"
-  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-auto-tracks"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20241003/#propdef-masonry-auto-tracks"
+  , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-direction"
@@ -4924,8 +4919,8 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-direction"
-  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-direction"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20241003/#propdef-masonry-direction"
+  , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-fill"
@@ -4934,8 +4929,8 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-fill"
-  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-fill"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20241003/#propdef-masonry-fill"
+  , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-flow"
@@ -4944,8 +4939,8 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-flow"
-  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-flow"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20241003/#propdef-masonry-flow"
+  , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-slack"
@@ -4954,8 +4949,8 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-slack"
-  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-slack"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20241003/#propdef-masonry-slack"
+  , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-template-areas"
@@ -4964,8 +4959,8 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-template-areas"
-  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-template-areas"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20241003/#propdef-masonry-template-areas"
+  , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-template-tracks"
@@ -4974,8 +4969,8 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "masonry-template-tracks"
-  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20240919/#propdef-masonry-template-tracks"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-grid-3-20241003/#propdef-masonry-template-tracks"
+  , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "max-block-size"
@@ -6219,7 +6214,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-anchor"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-position-anchor"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-anchor"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -6228,13 +6223,18 @@
   , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
+, { "property": "position-area"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-area"
+  , "status": "WD"
+  , "title": "CSS Anchor Positioning"
+  }
 , { "property": "position-try"
   , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-try"
   , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-try"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-position-try"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-try"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -6243,8 +6243,8 @@
   , "status": "ED"
   , "title": "CSS Anchor Positioning"
   }
-, { "property": "position-try-options"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-position-try-options"
+, { "property": "position-try-fallbacks"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-try-fallbacks"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -6254,13 +6254,18 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-try-order"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/#propdef-position-try-order"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-try-order"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-visibility"
   , "url": "https://drafts.csswg.org/css-anchor-position-1/#propdef-position-visibility"
   , "status": "ED"
+  , "title": "CSS Anchor Positioning"
+  }
+, { "property": "position-visibility"
+  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-visibility"
+  , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "print-color-adjust"
