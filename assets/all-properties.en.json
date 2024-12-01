@@ -2154,7 +2154,7 @@
   , "title": "CSS Containment Module Level 3"
   }
 , { "property": "container"
-  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20240723/#propdef-container"
+  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20241105/#propdef-container"
   , "status": "WD"
   , "title": "CSS Conditional Rules Module Level 5"
   }
@@ -2169,7 +2169,7 @@
   , "title": "CSS Containment Module Level 3"
   }
 , { "property": "container-name"
-  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20240723/#propdef-container-name"
+  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20241105/#propdef-container-name"
   , "status": "WD"
   , "title": "CSS Conditional Rules Module Level 5"
   }
@@ -2184,7 +2184,7 @@
   , "title": "CSS Containment Module Level 3"
   }
 , { "property": "container-type"
-  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20240723/#propdef-container-type"
+  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20241105/#propdef-container-type"
   , "status": "WD"
   , "title": "CSS Conditional Rules Module Level 5"
   }
@@ -4049,7 +4049,7 @@
   , "title": "CSS Values and Units Module Level 5"
   }
 , { "property": "interpolate-size"
-  , "url": "https://www.w3.org/TR/2024/WD-css-values-5-20240917/#propdef-interpolate-size"
+  , "url": "https://www.w3.org/TR/2024/WD-css-values-5-20241111/#propdef-interpolate-size"
   , "status": "WD"
   , "title": "CSS Values and Units Module Level 5"
   }
@@ -5219,7 +5219,7 @@
   , "title": "Motion Path Module Level 1"
   }
 , { "property": "offset"
-  , "url": "https://www.w3.org/TR/2018/WD-motion-1-20181218/#propdef-offset"
+  , "url": "https://www.w3.org/TR/2024/WD-motion-1-20241105/#propdef-offset"
   , "status": "WD"
   , "title": "Motion Path Module Level 1"
   }
@@ -5229,7 +5229,7 @@
   , "title": "Motion Path Module Level 1"
   }
 , { "property": "offset-anchor"
-  , "url": "https://www.w3.org/TR/2018/WD-motion-1-20181218/#propdef-offset-anchor"
+  , "url": "https://www.w3.org/TR/2024/WD-motion-1-20241105/#propdef-offset-anchor"
   , "status": "WD"
   , "title": "Motion Path Module Level 1"
   }
@@ -5239,7 +5239,7 @@
   , "title": "Motion Path Module Level 1"
   }
 , { "property": "offset-distance"
-  , "url": "https://www.w3.org/TR/2018/WD-motion-1-20181218/#propdef-offset-distance"
+  , "url": "https://www.w3.org/TR/2024/WD-motion-1-20241105/#propdef-offset-distance"
   , "status": "WD"
   , "title": "Motion Path Module Level 1"
   }
@@ -5249,7 +5249,7 @@
   , "title": "Motion Path Module Level 1"
   }
 , { "property": "offset-path"
-  , "url": "https://www.w3.org/TR/2018/WD-motion-1-20181218/#propdef-offset-path"
+  , "url": "https://www.w3.org/TR/2024/WD-motion-1-20241105/#propdef-offset-path"
   , "status": "WD"
   , "title": "Motion Path Module Level 1"
   }
@@ -5259,7 +5259,7 @@
   , "title": "Motion Path Module Level 1"
   }
 , { "property": "offset-position"
-  , "url": "https://www.w3.org/TR/2018/WD-motion-1-20181218/#propdef-offset-position"
+  , "url": "https://www.w3.org/TR/2024/WD-motion-1-20241105/#propdef-offset-position"
   , "status": "WD"
   , "title": "Motion Path Module Level 1"
   }
@@ -5269,7 +5269,7 @@
   , "title": "Motion Path Module Level 1"
   }
 , { "property": "offset-rotate"
-  , "url": "https://www.w3.org/TR/2018/WD-motion-1-20181218/#propdef-offset-rotate"
+  , "url": "https://www.w3.org/TR/2024/WD-motion-1-20241105/#propdef-offset-rotate"
   , "status": "WD"
   , "title": "Motion Path Module Level 1"
   }
@@ -8214,13 +8214,18 @@
   , "title": "CSS View Transitions Module Level 2"
   }
 , { "property": "view-transition-class"
-  , "url": "https://www.w3.org/TR/2024/WD-css-view-transitions-2-20240516/#propdef-view-transition-class"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2024/WD-css-view-transitions-2-20241113/#propdef-view-transition-class"
+  , "status": "WD"
   , "title": "CSS View Transitions Module Level 2"
   }
 , { "property": "view-transition-group"
   , "url": "https://drafts.csswg.org/css-view-transitions-2/#propdef-view-transition-group"
   , "status": "ED"
+  , "title": "CSS View Transitions Module Level 2"
+  }
+, { "property": "view-transition-group"
+  , "url": "https://www.w3.org/TR/2024/WD-css-view-transitions-2-20241113/#propdef-view-transition-group"
+  , "status": "WD"
   , "title": "CSS View Transitions Module Level 2"
   }
 , { "property": "view-transition-name"
