@@ -94,7 +94,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "alignment-baseline"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-alignment-baseline"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-alignment-baseline"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -534,7 +534,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "baseline-shift"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-baseline-shift"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-baseline-shift"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -544,7 +544,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "baseline-source"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-baseline-source"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-baseline-source"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -1974,6 +1974,11 @@
   , "title": "CSS Color Adjustment Module Level 1"
   }
 , { "property": "column-count"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-count"
+  , "status": "ED"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-count"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-count"
   , "status": "ED"
   , "title": "CSS Multi-column Layout Module Level 1"
@@ -1982,6 +1987,16 @@
   , "url": "https://www.w3.org/TR/2024/CR-css-multicol-1-20240516/#propdef-column-count"
   , "status": "CR"
   , "title": "CSS Multi-column Layout Module Level 1"
+  }
+, { "property": "column-count"
+  , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-count"
+  , "status": "FPWD"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-fill"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-fill"
+  , "status": "ED"
+  , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-fill"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-fill"
@@ -1992,6 +2007,11 @@
   , "url": "https://www.w3.org/TR/2024/CR-css-multicol-1-20240516/#propdef-column-fill"
   , "status": "CR"
   , "title": "CSS Multi-column Layout Module Level 1"
+  }
+, { "property": "column-fill"
+  , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-fill"
+  , "status": "FPWD"
+  , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-gap"
   , "url": "https://drafts.csswg.org/css-align/#propdef-column-gap"
@@ -2004,6 +2024,11 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "column-rule"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule"
+  , "status": "ED"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-rule"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule"
   , "status": "ED"
   , "title": "CSS Multi-column Layout Module Level 1"
@@ -2012,6 +2037,16 @@
   , "url": "https://www.w3.org/TR/2024/CR-css-multicol-1-20240516/#propdef-column-rule"
   , "status": "CR"
   , "title": "CSS Multi-column Layout Module Level 1"
+  }
+, { "property": "column-rule"
+  , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-rule"
+  , "status": "FPWD"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-rule-color"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule-color"
+  , "status": "ED"
+  , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-rule-color"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule-color"
@@ -2023,6 +2058,16 @@
   , "status": "CR"
   , "title": "CSS Multi-column Layout Module Level 1"
   }
+, { "property": "column-rule-color"
+  , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-rule-color"
+  , "status": "FPWD"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-rule-style"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule-style"
+  , "status": "ED"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
 , { "property": "column-rule-style"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule-style"
   , "status": "ED"
@@ -2032,6 +2077,16 @@
   , "url": "https://www.w3.org/TR/2024/CR-css-multicol-1-20240516/#propdef-column-rule-style"
   , "status": "CR"
   , "title": "CSS Multi-column Layout Module Level 1"
+  }
+, { "property": "column-rule-style"
+  , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-rule-style"
+  , "status": "FPWD"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-rule-width"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule-width"
+  , "status": "ED"
+  , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-rule-width"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule-width"
@@ -2043,6 +2098,16 @@
   , "status": "CR"
   , "title": "CSS Multi-column Layout Module Level 1"
   }
+, { "property": "column-rule-width"
+  , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-rule-width"
+  , "status": "FPWD"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-span"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-span"
+  , "status": "ED"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
 , { "property": "column-span"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-span"
   , "status": "ED"
@@ -2052,6 +2117,16 @@
   , "url": "https://www.w3.org/TR/2024/CR-css-multicol-1-20240516/#propdef-column-span"
   , "status": "CR"
   , "title": "CSS Multi-column Layout Module Level 1"
+  }
+, { "property": "column-span"
+  , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-span"
+  , "status": "FPWD"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-width"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-width"
+  , "status": "ED"
+  , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-width"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-width"
@@ -2063,6 +2138,16 @@
   , "status": "CR"
   , "title": "CSS Multi-column Layout Module Level 1"
   }
+, { "property": "column-width"
+  , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-width"
+  , "status": "FPWD"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "columns"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-columns"
+  , "status": "ED"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
 , { "property": "columns"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-columns"
   , "status": "ED"
@@ -2072,6 +2157,11 @@
   , "url": "https://www.w3.org/TR/2024/CR-css-multicol-1-20240516/#propdef-columns"
   , "status": "CR"
   , "title": "CSS Multi-column Layout Module Level 1"
+  }
+, { "property": "columns"
+  , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-columns"
+  , "status": "FPWD"
+  , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "contain"
   , "url": "https://drafts.csswg.org/css-contain-1/#propdef-contain"
@@ -2419,6 +2509,11 @@
   , "title": "CSS Display Module Level 3"
   }
 , { "property": "display"
+  , "url": "https://drafts.csswg.org/css-display/#propdef-display"
+  , "status": "ED"
+  , "title": "CSS Display Module Level 4"
+  }
+, { "property": "display"
   , "url": "https://drafts.csswg.org/css2/#propdef-display"
   , "status": "ED"
   , "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification"
@@ -2433,15 +2528,30 @@
   , "status": "CR"
   , "title": "CSS Display Module Level 3"
   }
+, { "property": "display"
+  , "url": "https://www.w3.org/TR/2024/WD-css-display-4-20241219/#propdef-display"
+  , "status": "FPWD"
+  , "title": "CSS Display Module Level 4"
+  }
 , { "property": "dominant-baseline"
   , "url": "https://drafts.csswg.org/css-inline-3/#propdef-dominant-baseline"
   , "status": "ED"
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "dominant-baseline"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-dominant-baseline"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-dominant-baseline"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
+  }
+, { "property": "dynamic-range-limit"
+  , "url": "https://drafts.csswg.org/css-color-hdr-1/#propdef-dynamic-range-limit"
+  , "status": "ED"
+  , "title": "CSS Color HDR Module Level 1"
+  }
+, { "property": "dynamic-range-limit"
+  , "url": "https://www.w3.org/TR/2024/WD-css-color-hdr-1-20241217/#propdef-dynamic-range-limit"
+  , "status": "FPWD"
+  , "title": "CSS Color HDR Module Level 1"
   }
 , { "property": "elevation"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-elevation"
@@ -3854,7 +3964,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "initial-letter"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-initial-letter"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-initial-letter"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -3864,7 +3974,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "initial-letter-align"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-initial-letter-align"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-initial-letter-align"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -3874,7 +3984,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "initial-letter-wrap"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-initial-letter-wrap"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-initial-letter-wrap"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -3894,7 +4004,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "inline-sizing"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-inline-sizing"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-inline-sizing"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -4209,7 +4319,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "line-fit-edge"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-line-fit-edge"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-line-fit-edge"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -4244,7 +4354,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "line-height"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-line-height"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-line-height"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -5299,6 +5409,11 @@
   , "title": "CSS Display Module Level 3"
   }
 , { "property": "order"
+  , "url": "https://drafts.csswg.org/css-display/#propdef-order"
+  , "status": "ED"
+  , "title": "CSS Display Module Level 4"
+  }
+, { "property": "order"
   , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-order"
   , "status": "CR"
   , "title": "CSS Flexible Box Layout Module Level 1"
@@ -5307,6 +5422,11 @@
   , "url": "https://www.w3.org/TR/2023/CR-css-display-3-20230330/#propdef-order"
   , "status": "CR"
   , "title": "CSS Display Module Level 3"
+  }
+, { "property": "order"
+  , "url": "https://www.w3.org/TR/2024/WD-css-display-4-20241219/#propdef-order"
+  , "status": "FPWD"
+  , "title": "CSS Display Module Level 4"
   }
 , { "property": "orphans"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-orphans"
@@ -6313,6 +6433,11 @@
   , "status": "WD"
   , "title": "CSS Generated Content Module Level 3"
   }
+, { "property": "reading-flow"
+  , "url": "https://www.w3.org/TR/2024/WD-css-display-4-20241219/#propdef-reading-flow"
+  , "status": "FPWD"
+  , "title": "CSS Display Module Level 4"
+  }
 , { "property": "region-fragment"
   , "url": "https://drafts.csswg.org/css-regions/#propdef-region-fragment"
   , "status": "ED"
@@ -6508,6 +6633,11 @@
   , "status": "WD"
   , "title": "CSS Overflow Module Level 3"
   }
+, { "property": "scroll-initial-target"
+  , "url": "https://drafts.csswg.org/css-scroll-snap-2/#propdef-scroll-initial-target"
+  , "status": "ED"
+  , "title": "CSS Scroll Snap Module Level 2"
+  }
 , { "property": "scroll-margin"
   , "url": "https://drafts.csswg.org/css-scroll-snap-1/#propdef-scroll-margin"
   , "status": "ED"
@@ -6617,6 +6747,16 @@
   , "url": "https://www.w3.org/TR/2021/CR-css-scroll-snap-1-20210311/#propdef-scroll-margin-top"
   , "status": "CR"
   , "title": "CSS Scroll Snap Module Level 1"
+  }
+, { "property": "scroll-marker-group"
+  , "url": "https://drafts.csswg.org/css-overflow-5/#propdef-scroll-marker-group"
+  , "status": "ED"
+  , "title": "CSS Overflow Module Level 5"
+  }
+, { "property": "scroll-marker-group"
+  , "url": "https://www.w3.org/TR/2024/WD-css-overflow-5-20241217/#propdef-scroll-marker-group"
+  , "status": "FPWD"
+  , "title": "CSS Overflow Module Level 5"
   }
 , { "property": "scroll-padding"
   , "url": "https://drafts.csswg.org/css-scroll-snap-1/#propdef-scroll-padding"
@@ -6757,11 +6897,6 @@
   , "url": "https://www.w3.org/TR/2021/CR-css-scroll-snap-1-20210311/#propdef-scroll-snap-type"
   , "status": "CR"
   , "title": "CSS Scroll Snap Module Level 1"
-  }
-, { "property": "scroll-start-target"
-  , "url": "https://drafts.csswg.org/css-scroll-snap-2/#propdef-scroll-start-target"
-  , "status": "ED"
-  , "title": "CSS Scroll Snap Module Level 2"
   }
 , { "property": "scroll-start-target"
   , "url": "https://www.w3.org/TR/2024/WD-css-scroll-snap-2-20240723/#propdef-scroll-start-target"
@@ -7394,7 +7529,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "text-box"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-text-box"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-text-box"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -7404,7 +7539,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "text-box-edge"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-text-box-edge"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-text-box-edge"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -7414,7 +7549,7 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "text-box-trim"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-text-box-trim"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-text-box-trim"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -8164,7 +8299,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "vertical-align"
-  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20240812/#propdef-vertical-align"
+  , "url": "https://www.w3.org/TR/2024/WD-css-inline-3-20241218/#propdef-vertical-align"
   , "status": "WD"
   , "title": "CSS Inline Layout Module Level 3"
   }
@@ -8249,6 +8384,11 @@
   , "title": "CSS Display Module Level 3"
   }
 , { "property": "visibility"
+  , "url": "https://drafts.csswg.org/css-display/#propdef-visibility"
+  , "status": "ED"
+  , "title": "CSS Display Module Level 4"
+  }
+, { "property": "visibility"
   , "url": "https://drafts.csswg.org/css2/#propdef-visibility"
   , "status": "ED"
   , "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification"
@@ -8262,6 +8402,11 @@
   , "url": "https://www.w3.org/TR/2023/CR-css-display-3-20230330/#propdef-visibility"
   , "status": "CR"
   , "title": "CSS Display Module Level 3"
+  }
+, { "property": "visibility"
+  , "url": "https://www.w3.org/TR/2024/WD-css-display-4-20241219/#propdef-visibility"
+  , "status": "FPWD"
+  , "title": "CSS Display Module Level 4"
   }
 , { "property": "voice-balance"
   , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-balance"
