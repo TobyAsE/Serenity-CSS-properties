@@ -298,6 +298,51 @@
   , "status": "WD"
   , "title": "CSS Animations Level 1"
   }
+, { "property": "animation-trigger"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "animation-trigger-exit-range"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-exit-range"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "animation-trigger-exit-range-end"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-exit-range-end"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "animation-trigger-exit-range-start"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-exit-range-start"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "animation-trigger-range"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-range"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "animation-trigger-range-end"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-range-end"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "animation-trigger-range-start"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-range-start"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "animation-trigger-timeline"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-timeline"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "animation-trigger-type"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-type"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
 , { "property": "appearance"
   , "url": "https://drafts.csswg.org/css-ui-4/#propdef-appearance"
   , "status": "ED"
@@ -4152,6 +4197,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-inline-start"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
+  }
+, { "property": "interactivity"
+  , "url": "https://drafts.csswg.org/css-ui-4/#propdef-interactivity"
+  , "status": "ED"
+  , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "interpolate-size"
   , "url": "https://drafts.csswg.org/css-values-5/#propdef-interpolate-size"
