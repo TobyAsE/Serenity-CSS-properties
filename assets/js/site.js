@@ -1,5 +1,5 @@
 const googles_css_popularity_url = "https://chromestatus.com/data/csspopularity";
-const ladybirds_css_properties_url = "https://raw.githubusercontent.com/ladybirdbrowser/ladybird/master/Userland/Libraries/LibWeb/CSS/Properties.json";
+const ladybirds_css_properties_url = "https://raw.githubusercontent.com/ladybirdbrowser/ladybird/master/Libraries/LibWeb/CSS/Properties.json";
 const w3c_css_properties_url = "assets/all-properties.en.json";
 
 list_element = document.getElementById("list");
