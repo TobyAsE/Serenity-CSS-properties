@@ -5,7 +5,7 @@ This is a simple webpage (hosted [here](https://css.tobyase.de)) that displays t
 Google provides us with the tasty [CSS-property-metric-data](https://chromestatus.com/metrics/css/popularity) collected by the usage statistics in Chrome. Conveniently there is an endpoint that just spits out JSON.
 
 Getting the implemented properties from Ladybird is a bit harder and also quite naive:
-There is a file called [`Properties.json`](https://github.com/ladybirdbrowser/ladybird/blob/master/Userland/Libraries/LibWeb/CSS/Properties.json) that includes all properties that the parser recognizes. However this doesn't neccessarily imply that the given properties are indeed implemented nor that they are in any way shape or form spec-compliant. It's a good first approximation though.
+There is a file called [`Properties.json`](https://github.com/ladybirdbrowser/ladybird/blob/master/Libraries/LibWeb/CSS/Properties.json) that includes all properties that the parser recognizes. However this doesn't neccessarily imply that the given properties are indeed implemented nor that they are in any way shape or form spec-compliant. It's a good first approximation though.
 
 ## Build instructions
 It's plain HTML, SCSS and JavaScript.
