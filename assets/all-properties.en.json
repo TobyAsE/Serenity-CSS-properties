@@ -363,6 +363,11 @@
   , "status": "WD"
   , "title": "CSS Box Sizing Module Level 4"
   }
+, { "property": "azimuth"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-azimuth"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
 , { "property": "backface-visibility"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-backface-visibility"
   , "status": "ED"
@@ -377,6 +382,11 @@
   , "url": "https://www.w3.org/TR/2021/WD-css-transforms-2-20211109/#propdef-backface-visibility"
   , "status": "WD"
   , "title": "CSS Transforms Module Level 2"
+  }
+, { "property": "background"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "background"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background"
@@ -397,6 +407,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "background-attachment"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-attachment"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "background-attachment"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-attachment"
@@ -439,6 +454,11 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "background-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "background-color"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-color"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -457,6 +477,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-color"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "background-image"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-image"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "background-image"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-image"
@@ -489,6 +514,11 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "background-position"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-position"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "background-position"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-position"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -507,6 +537,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-position"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "background-repeat"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-repeat"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "background-repeat"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-repeat"
@@ -659,6 +694,11 @@
   , "title": "CSS Generated Content Module Level 3"
   }
 , { "property": "border"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -799,6 +839,11 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "border-bottom"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-bottom"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-bottom"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-bottom"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -817,6 +862,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-bottom"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-bottom-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-bottom-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "border-bottom-color"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-bottom-color"
@@ -859,6 +909,11 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-bottom-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-bottom-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-bottom-style"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-bottom-style"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -877,6 +932,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-bottom-style"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-bottom-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-bottom-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "border-bottom-width"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-bottom-width"
@@ -909,6 +969,11 @@
   , "title": "CSS Round Display Level 1"
   }
 , { "property": "border-collapse"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html#propdef-border-collapse"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-collapse"
   , "url": "https://drafts.csswg.org/css-tables-3/#propdef-border-collapse"
   , "status": "ED"
   , "title": "CSS Table Module Level 3"
@@ -927,6 +992,11 @@
   , "url": "https://www.w3.org/TR/2019/WD-css-tables-3-20190727/#propdef-border-collapse"
   , "status": "WD"
   , "title": "CSS Table Module Level 3"
+  }
+, { "property": "border-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "border-color"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-color"
@@ -1149,6 +1219,11 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "border-left"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-left"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-left"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-left"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1167,6 +1242,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-left"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-left-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-left-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "border-left-color"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-left-color"
@@ -1189,6 +1269,11 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-left-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-left-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-left-style"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-left-style"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1207,6 +1292,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-left-style"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-left-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-left-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "border-left-width"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-left-width"
@@ -1239,6 +1329,11 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-right"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-right"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-right"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-right"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1257,6 +1352,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-right"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-right-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-right-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "border-right-color"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-right-color"
@@ -1279,6 +1379,11 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-right-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-right-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-right-style"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-right-style"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1299,6 +1404,11 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-right-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-right-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-right-width"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-right-width"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1317,6 +1427,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-right-width"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-spacing"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html#propdef-border-spacing"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "border-spacing"
   , "url": "https://drafts.csswg.org/css-tables-3/#propdef-border-spacing"
@@ -1359,6 +1474,11 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "border-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-style"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-style"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1379,6 +1499,11 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-top"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-top"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-top"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-top"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1397,6 +1522,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-top"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-top-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-top-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "border-top-color"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-top-color"
@@ -1439,6 +1569,11 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-top-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-top-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-top-style"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-top-style"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1457,6 +1592,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-top-style"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-top-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-top-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "border-top-width"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-top-width"
@@ -1479,6 +1619,11 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "border-width"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-width"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1497,6 +1642,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-width"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "bottom"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-bottom"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "bottom"
   , "url": "https://drafts.csswg.org/css-position-3/#propdef-bottom"
@@ -1654,6 +1804,11 @@
   , "title": "CSS Fragmentation Module Level 4"
   }
 , { "property": "caption-side"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html#propdef-caption-side"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "caption-side"
   , "url": "https://drafts.csswg.org/css-tables-3/#propdef-caption-side"
   , "status": "ED"
   , "title": "CSS Table Module Level 3"
@@ -1729,6 +1884,11 @@
   , "title": "CSS Template Layout Module"
   }
 , { "property": "clear"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-clear"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "clear"
   , "url": "https://drafts.csswg.org/css-page-floats/#propdef-clear"
   , "status": "ED"
   , "title": "CSS Page Floats"
@@ -1747,6 +1907,11 @@
   , "url": "https://www.w3.org/TR/2015/WD-css-page-floats-3-20150915/#propdef-clear"
   , "status": "FPWD"
   , "title": "CSS Page Floats"
+  }
+, { "property": "clip"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html#propdef-clip"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "clip"
   , "url": "https://drafts.csswg.org/css2/#propdef-clip"
@@ -1787,6 +1952,11 @@
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-clip-rule"
   , "status": "CRD"
   , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "color"
   , "url": "https://drafts.csswg.org/css-color-3/#color1"
@@ -1897,6 +2067,11 @@
   , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-column-gap"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
+  }
+, { "property": "column-height"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-height"
+  , "status": "ED"
+  , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-rule"
   , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule"
@@ -2016,6 +2191,11 @@
 , { "property": "column-width"
   , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-width"
   , "status": "FPWD"
+  , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-wrap"
+  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-wrap"
+  , "status": "ED"
   , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "columns"
@@ -2154,6 +2334,11 @@
   , "title": "CSS Conditional Rules Module Level 5"
   }
 , { "property": "content"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-content"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "content"
   , "url": "https://drafts.csswg.org/css-content-3/#propdef-content"
   , "status": "ED"
   , "title": "CSS Generated Content Module Level 3"
@@ -2194,6 +2379,11 @@
   , "title": "CSS Overflow Module Level 4"
   }
 , { "property": "counter-increment"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-counter-increment"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "counter-increment"
   , "url": "https://drafts.csswg.org/css-lists-3/#propdef-counter-increment"
   , "status": "ED"
   , "title": "CSS Lists and Counters Module Level 3"
@@ -2212,6 +2402,11 @@
   , "url": "https://www.w3.org/TR/2020/WD-css-lists-3-20201117/#propdef-counter-increment"
   , "status": "WD"
   , "title": "CSS Lists and Counters Module Level 3"
+  }
+, { "property": "counter-reset"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-counter-reset"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "counter-reset"
   , "url": "https://drafts.csswg.org/css-lists-3/#propdef-counter-reset"
@@ -2244,34 +2439,24 @@
   , "title": "CSS Lists and Counters Module Level 3"
   }
 , { "property": "cue"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-cue"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "cue"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-cue"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-cue"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "cue-after"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-cue-after"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "cue-after"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-cue-after"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-cue-after"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "cue-before"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-cue-before"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-cue-before"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
-, { "property": "cue-before"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-cue-before"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+, { "property": "cursor"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-cursor"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "cursor"
   , "url": "https://drafts.csswg.org/css-ui-3/#propdef-cursor"
@@ -2304,6 +2489,11 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "direction"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-direction"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "direction"
   , "url": "https://drafts.csswg.org/css-writing-modes-3/#propdef-direction"
   , "status": "ED"
   , "title": "CSS Writing Modes Level 3"
@@ -2332,6 +2522,11 @@
   , "url": "https://www.w3.org/TR/2019/REC-css-writing-modes-3-20191210/#propdef-direction"
   , "status": "REC"
   , "title": "CSS Writing Modes Level 3"
+  }
+, { "property": "display"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-display"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "display"
   , "url": "https://drafts.csswg.org/css-display/#propdef-display"
@@ -2382,6 +2577,16 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-color-hdr-1-20241217/#propdef-dynamic-range-limit"
   , "status": "FPWD"
   , "title": "CSS Color HDR Module Level 1"
+  }
+, { "property": "elevation"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-elevation"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "empty-cells"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html#propdef-empty-cells"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "empty-cells"
   , "url": "https://drafts.csswg.org/css-tables-3/#propdef-empty-cells"
@@ -2589,6 +2794,11 @@
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "float"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-float"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "float"
   , "url": "https://drafts.csswg.org/css-page-floats/#propdef-float"
   , "status": "ED"
   , "title": "CSS Page Floats"
@@ -2689,6 +2899,11 @@
   , "title": "CSS Regions Module Level 1"
   }
 , { "property": "font"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "font"
   , "url": "https://drafts.csswg.org/css-fonts-3/#propdef-font"
   , "status": "ED"
   , "title": "CSS Fonts Module Level 3"
@@ -2717,6 +2932,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
+  }
+, { "property": "font-family"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-family"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "font-family"
   , "url": "https://drafts.csswg.org/css-fonts-3/#propdef-font-family"
@@ -2819,6 +3039,11 @@
   , "title": "CSS Fonts Module Level 4"
   }
 , { "property": "font-size"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-size"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "font-size"
   , "url": "https://drafts.csswg.org/css-fonts-3/#propdef-font-size"
   , "status": "ED"
   , "title": "CSS Fonts Module Level 3"
@@ -2887,6 +3112,11 @@
   , "url": "https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/#propdef-font-stretch"
   , "status": "REC"
   , "title": "CSS Fonts Module Level 3"
+  }
+, { "property": "font-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "font-style"
   , "url": "https://drafts.csswg.org/css-fonts-3/#propdef-font-style"
@@ -2977,6 +3207,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-synthesis-weight"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
+  }
+, { "property": "font-variant"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-variant"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "font-variant"
   , "url": "https://drafts.csswg.org/css-fonts-3/#propdef-font-variant"
@@ -3137,6 +3372,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/#propdef-font-variation-settings"
   , "status": "WD"
   , "title": "CSS Fonts Module Level 4"
+  }
+, { "property": "font-weight"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font-weight"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "font-weight"
   , "url": "https://drafts.csswg.org/css-fonts-3/#propdef-font-weight"
@@ -3609,6 +3849,11 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "height"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-height"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "height"
   , "url": "https://drafts.csswg.org/css-sizing-3/#propdef-height"
   , "status": "ED"
   , "title": "CSS Box Sizing Module Level 3"
@@ -4059,6 +4304,11 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "left"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-left"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "left"
   , "url": "https://drafts.csswg.org/css-position-3/#propdef-left"
   , "status": "ED"
   , "title": "CSS Positioned Layout Module Level 3"
@@ -4077,6 +4327,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-left"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
+  }
+, { "property": "letter-spacing"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-letter-spacing"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "letter-spacing"
   , "url": "https://drafts.csswg.org/css-text-3/#propdef-letter-spacing"
@@ -4169,6 +4424,11 @@
   , "title": "CSS Line Grid Module Level 1"
   }
 , { "property": "line-height"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-line-height"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "line-height"
   , "url": "https://drafts.csswg.org/css-inline-3/#propdef-line-height"
   , "status": "ED"
   , "title": "CSS Inline Layout Module Level 3"
@@ -4219,6 +4479,11 @@
   , "title": "CSS Line Grid Module Level 1"
   }
 , { "property": "list-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-list-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "list-style"
   , "url": "https://drafts.csswg.org/css-lists-3/#propdef-list-style"
   , "status": "ED"
   , "title": "CSS Lists and Counters Module Level 3"
@@ -4237,6 +4502,11 @@
   , "url": "https://www.w3.org/TR/2020/WD-css-lists-3-20201117/#propdef-list-style"
   , "status": "WD"
   , "title": "CSS Lists and Counters Module Level 3"
+  }
+, { "property": "list-style-image"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-list-style-image"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "list-style-image"
   , "url": "https://drafts.csswg.org/css-lists-3/#propdef-list-style-image"
@@ -4259,6 +4529,11 @@
   , "title": "CSS Lists and Counters Module Level 3"
   }
 , { "property": "list-style-position"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-list-style-position"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "list-style-position"
   , "url": "https://drafts.csswg.org/css-lists-3/#propdef-list-style-position"
   , "status": "ED"
   , "title": "CSS Lists and Counters Module Level 3"
@@ -4279,6 +4554,11 @@
   , "title": "CSS Lists and Counters Module Level 3"
   }
 , { "property": "list-style-type"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-list-style-type"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "list-style-type"
   , "url": "https://drafts.csswg.org/css-lists-3/#propdef-list-style-type"
   , "status": "ED"
   , "title": "CSS Lists and Counters Module Level 3"
@@ -4297,6 +4577,11 @@
   , "url": "https://www.w3.org/TR/2020/WD-css-lists-3-20201117/#propdef-list-style-type"
   , "status": "WD"
   , "title": "CSS Lists and Counters Module Level 3"
+  }
+, { "property": "margin"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "margin"
   , "url": "https://drafts.csswg.org/css-box-3/#propdef-margin"
@@ -4357,6 +4642,11 @@
   , "url": "https://www.w3.org/TR/2018/WD-css-logical-1-20180827/#propdef-margin-block-start"
   , "status": "WD"
   , "title": "CSS Logical Properties and Values Level 1"
+  }
+, { "property": "margin-bottom"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin-bottom"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "margin-bottom"
   , "url": "https://drafts.csswg.org/css-box-3/#propdef-margin-bottom"
@@ -4429,6 +4719,11 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "margin-left"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin-left"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "margin-left"
   , "url": "https://drafts.csswg.org/css-box-3/#propdef-margin-left"
   , "status": "ED"
   , "title": "CSS Box Model Module Level 3"
@@ -4459,6 +4754,11 @@
   , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "margin-right"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin-right"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "margin-right"
   , "url": "https://drafts.csswg.org/css-box-3/#propdef-margin-right"
   , "status": "ED"
   , "title": "CSS Box Model Module Level 3"
@@ -4487,6 +4787,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-margin-right"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
+  }
+, { "property": "margin-top"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-margin-top"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "margin-top"
   , "url": "https://drafts.csswg.org/css-box-3/#propdef-margin-top"
@@ -4799,6 +5104,11 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "max-height"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-max-height"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "max-height"
   , "url": "https://drafts.csswg.org/css-sizing-3/#propdef-max-height"
   , "status": "ED"
   , "title": "CSS Box Sizing Module Level 3"
@@ -4839,6 +5149,11 @@
   , "title": "CSS Overflow Module Level 4"
   }
 , { "property": "max-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-max-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "max-width"
   , "url": "https://drafts.csswg.org/css-sizing-3/#propdef-max-width"
   , "status": "ED"
   , "title": "CSS Box Sizing Module Level 3"
@@ -4867,6 +5182,11 @@
   , "url": "https://www.w3.org/TR/2018/WD-css-logical-1-20180827/#propdef-min-block-size"
   , "status": "WD"
   , "title": "CSS Logical Properties and Values Level 1"
+  }
+, { "property": "min-height"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-min-height"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "min-height"
   , "url": "https://drafts.csswg.org/css-sizing-3/#propdef-min-height"
@@ -4907,6 +5227,11 @@
   , "url": "https://www.w3.org/TR/2021/WD-css-sizing-4-20210520/#propdef-min-intrinsic-sizing"
   , "status": "WD"
   , "title": "CSS Box Sizing Module Level 4"
+  }
+, { "property": "min-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-min-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "min-width"
   , "url": "https://drafts.csswg.org/css-sizing-3/#propdef-min-width"
@@ -5114,6 +5439,11 @@
   , "title": "CSS Display Module Level 4"
   }
 , { "property": "orphans"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-orphans"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "orphans"
   , "url": "https://drafts.csswg.org/css-break-4/#propdef-orphans"
   , "status": "ED"
   , "title": "CSS Fragmentation Module Level 4"
@@ -5144,6 +5474,11 @@
   , "title": "CSS Fragmentation Module Level 4"
   }
 , { "property": "outline"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-outline"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "outline"
   , "url": "https://drafts.csswg.org/css-ui-3/#propdef-outline"
   , "status": "ED"
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
@@ -5172,6 +5507,11 @@
   , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-outline"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
+  }
+, { "property": "outline-color"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-outline-color"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "outline-color"
   , "url": "https://drafts.csswg.org/css-ui-3/#propdef-outline-color"
@@ -5224,6 +5564,11 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "outline-style"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-outline-style"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "outline-style"
   , "url": "https://drafts.csswg.org/css-ui-3/#propdef-outline-style"
   , "status": "ED"
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
@@ -5254,6 +5599,11 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "outline-width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-outline-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "outline-width"
   , "url": "https://drafts.csswg.org/css-ui-3/#propdef-outline-width"
   , "status": "ED"
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
@@ -5282,6 +5632,11 @@
   , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-outline-width"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
+  }
+, { "property": "overflow"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html#propdef-overflow"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "overflow"
   , "url": "https://drafts.csswg.org/css-overflow-3/#propdef-overflow"
@@ -5544,6 +5899,11 @@
   , "title": "CSS Overscroll Behavior Module Level 1"
   }
 , { "property": "padding"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "padding"
   , "url": "https://drafts.csswg.org/css-box-3/#propdef-padding"
   , "status": "ED"
   , "title": "CSS Box Model Module Level 3"
@@ -5602,6 +5962,11 @@
   , "url": "https://www.w3.org/TR/2018/WD-css-logical-1-20180827/#propdef-padding-block-start"
   , "status": "WD"
   , "title": "CSS Logical Properties and Values Level 1"
+  }
+, { "property": "padding-bottom"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding-bottom"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "padding-bottom"
   , "url": "https://drafts.csswg.org/css-box-3/#propdef-padding-bottom"
@@ -5664,6 +6029,11 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "padding-left"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding-left"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "padding-left"
   , "url": "https://drafts.csswg.org/css-box-3/#propdef-padding-left"
   , "status": "ED"
   , "title": "CSS Box Model Module Level 3"
@@ -5694,6 +6064,11 @@
   , "title": "CSS Box Model Module Level 4"
   }
 , { "property": "padding-right"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding-right"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "padding-right"
   , "url": "https://drafts.csswg.org/css-box-3/#propdef-padding-right"
   , "status": "ED"
   , "title": "CSS Box Model Module Level 3"
@@ -5722,6 +6097,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-box-4-20240804/#propdef-padding-right"
   , "status": "WD"
   , "title": "CSS Box Model Module Level 4"
+  }
+, { "property": "padding-top"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-padding-top"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "padding-top"
   , "url": "https://drafts.csswg.org/css-box-3/#propdef-padding-top"
@@ -5764,6 +6144,11 @@
   , "title": "CSS Paged Media Module Level 3"
   }
 , { "property": "page-break-after"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-page-break-after"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "page-break-after"
   , "url": "https://drafts.csswg.org/css2/#propdef-page-break-after"
   , "status": "ED"
   , "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification"
@@ -5774,6 +6159,11 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "page-break-before"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-page-break-before"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "page-break-before"
   , "url": "https://drafts.csswg.org/css2/#propdef-page-break-before"
   , "status": "ED"
   , "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification"
@@ -5784,6 +6174,11 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "page-break-inside"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-page-break-inside"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "page-break-inside"
   , "url": "https://drafts.csswg.org/css2/#propdef-page-break-inside"
   , "status": "ED"
   , "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification"
@@ -5794,34 +6189,19 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "pause"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-pause"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "pause"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-pause"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pause"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "pause-after"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-pause-after"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "pause-after"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-pause-after"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pause-after"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "pause-before"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-pause-before"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "pause-before"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-pause-before"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pause-before"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "perspective"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-perspective"
@@ -5853,6 +6233,16 @@
   , "status": "WD"
   , "title": "CSS Transforms Module Level 2"
   }
+, { "property": "pitch"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pitch"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "pitch-range"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pitch-range"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
 , { "property": "place-content"
   , "url": "https://drafts.csswg.org/css-align/#propdef-place-content"
   , "status": "ED"
@@ -5883,10 +6273,20 @@
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
+, { "property": "play-during"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-play-during"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
 , { "property": "pointer-events"
   , "url": "https://drafts.csswg.org/css-ui-4/#propdef-pointer-events"
   , "status": "ED"
   , "title": "CSS Basic User Interface Module Level 4"
+  }
+, { "property": "position"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-position"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "position"
   , "url": "https://drafts.csswg.org/css-position-3/#propdef-position"
@@ -5989,6 +6389,11 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "quotes"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-quotes"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "quotes"
   , "url": "https://drafts.csswg.org/css-content-3/#propdef-quotes"
   , "status": "ED"
   , "title": "CSS Generated Content Module Level 3"
@@ -6043,35 +6448,15 @@
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
-, { "property": "rest"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-rest"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
+, { "property": "richness"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-richness"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
-, { "property": "rest"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-rest"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "rest-after"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-rest-after"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "rest-after"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-rest-after"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "rest-before"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-rest-before"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "rest-before"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-rest-before"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+, { "property": "right"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-right"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "right"
   , "url": "https://drafts.csswg.org/css-position-3/#propdef-right"
@@ -6599,24 +6984,34 @@
   , "title": "CSS Spatial Navigation Level 1"
   }
 , { "property": "speak"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-speak"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speak"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
-, { "property": "speak"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-speak"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+, { "property": "speak-header"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speak-header"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
-, { "property": "speak-as"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-speak-as"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
+, { "property": "speak-numeral"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speak-numeral"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
-, { "property": "speak-as"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-speak-as"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+, { "property": "speak-punctuation"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speak-punctuation"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "speech-rate"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speech-rate"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "stress"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-stress"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "string-set"
   , "url": "https://drafts.csswg.org/css-content-3/#propdef-string-set"
@@ -6949,6 +7344,11 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "table-layout"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/tables.html#propdef-table-layout"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "table-layout"
   , "url": "https://drafts.csswg.org/css-tables-3/#propdef-table-layout"
   , "status": "ED"
   , "title": "CSS Table Module Level 3"
@@ -6967,6 +7367,11 @@
   , "url": "https://www.w3.org/TR/2019/WD-css-tables-3-20190727/#propdef-table-layout"
   , "status": "WD"
   , "title": "CSS Table Module Level 3"
+  }
+, { "property": "text-align"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-text-align"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "text-align"
   , "url": "https://drafts.csswg.org/css-text-3/#propdef-text-align"
@@ -7097,6 +7502,11 @@
   , "url": "https://www.w3.org/TR/2019/REC-css-writing-modes-3-20191210/#propdef-text-combine-upright"
   , "status": "REC"
   , "title": "CSS Writing Modes Level 3"
+  }
+, { "property": "text-decoration"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-text-decoration"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "text-decoration"
   , "url": "https://drafts.csswg.org/css-text-decor-3/#propdef-text-decoration"
@@ -7359,6 +7769,11 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-indent"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-text-indent"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "text-indent"
   , "url": "https://drafts.csswg.org/css-text-3/#propdef-text-indent"
   , "status": "ED"
   , "title": "CSS Text Module Level 3"
@@ -7499,6 +7914,11 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-transform"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-text-transform"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "text-transform"
   , "url": "https://drafts.csswg.org/css-text-3/#propdef-text-transform"
   , "status": "ED"
   , "title": "CSS Text Module Level 3"
@@ -7597,6 +8017,11 @@
   , "url": "https://www.w3.org/TR/2023/WD-scroll-animations-1-20230606/#propdef-timeline-scope"
   , "status": "WD"
   , "title": "Scroll-driven Animations"
+  }
+, { "property": "top"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-top"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "top"
   , "url": "https://drafts.csswg.org/css-position-3/#propdef-top"
@@ -7739,6 +8164,11 @@
   , "title": "CSS Transforms Module Level 2"
   }
 , { "property": "unicode-bidi"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-unicode-bidi"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "unicode-bidi"
   , "url": "https://drafts.csswg.org/css-writing-modes-3/#propdef-unicode-bidi"
   , "status": "ED"
   , "title": "CSS Writing Modes Level 3"
@@ -7777,6 +8207,11 @@
   , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-user-select"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
+  }
+, { "property": "vertical-align"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-vertical-align"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "vertical-align"
   , "url": "https://drafts.csswg.org/css-inline-3/#propdef-vertical-align"
@@ -7869,6 +8304,11 @@
   , "title": "CSS View Transitions Module Level 1"
   }
 , { "property": "visibility"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html#propdef-visibility"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "visibility"
   , "url": "https://drafts.csswg.org/css-display/#propdef-visibility"
   , "status": "ED"
   , "title": "CSS Display Module Level 3"
@@ -7898,85 +8338,20 @@
   , "status": "FPWD"
   , "title": "CSS Display Module Level 4"
   }
-, { "property": "voice-balance"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-balance"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-balance"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-balance"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-duration"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-duration"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-duration"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-duration"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
-  }
 , { "property": "voice-family"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-family"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-voice-family"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
-, { "property": "voice-family"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-family"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+, { "property": "volume"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-volume"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
-, { "property": "voice-pitch"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-pitch"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-pitch"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-pitch"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-range"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-range"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-range"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-range"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-rate"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-rate"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-rate"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-rate"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-stress"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-stress"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-stress"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-stress"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-volume"
-  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-volume"
-  , "status": "ED"
-  , "title": "CSS Speech Module Level 1"
-  }
-, { "property": "voice-volume"
-  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-volume"
-  , "status": "CRD"
-  , "title": "CSS Speech Module Level 1"
+, { "property": "white-space"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-white-space"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "white-space"
   , "url": "https://drafts.csswg.org/css-text-3/#propdef-white-space"
@@ -8029,6 +8404,11 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "widows"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-widows"
+  , "status": "REC"
+  , "title": "CSS 2.1"
+  }
+, { "property": "widows"
   , "url": "https://drafts.csswg.org/css-break-4/#propdef-widows"
   , "status": "ED"
   , "title": "CSS Fragmentation Module Level 4"
@@ -8057,6 +8437,11 @@
   , "url": "https://www.w3.org/TR/2018/WD-css-break-4-20181218/#propdef-widows"
   , "status": "FPWD"
   , "title": "CSS Fragmentation Module Level 4"
+  }
+, { "property": "width"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visudet.html#propdef-width"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "width"
   , "url": "https://drafts.csswg.org/css-sizing-3/#propdef-width"
@@ -8117,6 +8502,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-word-space-transform"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
+  }
+, { "property": "word-spacing"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/text.html#propdef-word-spacing"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "word-spacing"
   , "url": "https://drafts.csswg.org/css-text-3/#propdef-word-spacing"
@@ -8237,6 +8627,11 @@
   , "url": "https://www.w3.org/TR/2019/REC-css-writing-modes-3-20191210/#propdef-writing-mode"
   , "status": "REC"
   , "title": "CSS Writing Modes Level 3"
+  }
+, { "property": "z-index"
+  , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-z-index"
+  , "status": "REC"
+  , "title": "CSS 2.1"
   }
 , { "property": "z-index"
   , "url": "https://drafts.csswg.org/css2/#propdef-z-index"
