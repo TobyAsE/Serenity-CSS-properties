@@ -44,7 +44,7 @@
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-content"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-align-content"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-align-content"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -64,7 +64,7 @@
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-items"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-align-items"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-align-items"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -84,7 +84,7 @@
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-self"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-align-self"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-align-self"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -1664,7 +1664,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "bottom"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-bottom"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-bottom"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -2064,7 +2064,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "column-gap"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-column-gap"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-column-gap"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -2443,15 +2443,45 @@
   , "status": "REC"
   , "title": "CSS 2.1"
   }
+, { "property": "cue"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-cue"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "cue"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-cue"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
 , { "property": "cue-after"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-cue-after"
   , "status": "REC"
   , "title": "CSS 2.1"
   }
+, { "property": "cue-after"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-cue-after"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "cue-after"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-cue-after"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
 , { "property": "cue-before"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-cue-before"
   , "status": "REC"
   , "title": "CSS 2.1"
+  }
+, { "property": "cue-before"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-cue-before"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "cue-before"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-cue-before"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
   }
 , { "property": "cursor"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/ui.html#propdef-cursor"
@@ -3454,7 +3484,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "gap"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-gap"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-gap"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -3479,14 +3509,14 @@
   , "title": "CSS Writing Modes Level 3"
   }
 , { "property": "grid"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
+  }
+, { "property": "grid"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid"
   , "status": "ED"
   , "title": "CSS Grid Layout Module Level 2"
-  }
-, { "property": "grid"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid"
   , "url": "https://drafts.csswg.org/css-template/#grid"
@@ -3499,14 +3529,19 @@
   , "title": "CSS Template Layout Module"
   }
 , { "property": "grid"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-area"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-area"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-area"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-area"
@@ -3514,19 +3549,19 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-area"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-area"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
-  }
-, { "property": "grid-area"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-area"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-area"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-area"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-area"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-area"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-auto-columns"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-auto-columns"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-auto-columns"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-auto-columns"
@@ -3534,19 +3569,19 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-auto-columns"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-auto-columns"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
-  }
-, { "property": "grid-auto-columns"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-auto-columns"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-auto-columns"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-auto-columns"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-auto-columns"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-auto-columns"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-auto-flow"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-auto-flow"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-auto-flow"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-auto-flow"
@@ -3554,19 +3589,19 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-auto-flow"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-auto-flow"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
-  }
-, { "property": "grid-auto-flow"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-auto-flow"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-auto-flow"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-auto-flow"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-auto-flow"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-auto-flow"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-auto-rows"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-auto-rows"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-auto-rows"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-auto-rows"
@@ -3574,19 +3609,19 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-auto-rows"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-auto-rows"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
-  }
-, { "property": "grid-auto-rows"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-auto-rows"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-auto-rows"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-auto-rows"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-auto-rows"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-auto-rows"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-column"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-column"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-column"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-column"
@@ -3594,19 +3629,19 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-column"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-column"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
-  }
-, { "property": "grid-column"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-column"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-column"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-column"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-column"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-column"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-column-end"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-column-end"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-column-end"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-column-end"
@@ -3614,19 +3649,19 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-column-end"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-column-end"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
-  }
-, { "property": "grid-column-end"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-column-end"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-column-end"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-column-end"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-column-end"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-column-end"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-column-start"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-column-start"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-column-start"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-column-start"
@@ -3634,19 +3669,19 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-column-start"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-column-start"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
-  }
-, { "property": "grid-column-start"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-column-start"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-column-start"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-column-start"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-column-start"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-column-start"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-row"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-row"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-row"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-row"
@@ -3654,19 +3689,19 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-row"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-row"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
-  }
-, { "property": "grid-row"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-row"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-row"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-row"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-row"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-row"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-row-end"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-row-end"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-row-end"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-row-end"
@@ -3674,19 +3709,19 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-row-end"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-row-end"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
-  }
-, { "property": "grid-row-end"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-row-end"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-row-end"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-row-end"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-row-end"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-row-end"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-row-start"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-row-start"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-row-start"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-row-start"
@@ -3694,29 +3729,24 @@
   , "title": "CSS Grid Layout Module Level 2"
   }
 , { "property": "grid-row-start"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-row-start"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
-  }
-, { "property": "grid-row-start"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-row-start"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-row-start"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-row-start"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-row-start"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-row-start"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-template"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-template"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-template"
   , "status": "ED"
   , "title": "CSS Grid Layout Module Level 2"
-  }
-, { "property": "grid-template"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-template"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template"
   , "url": "https://drafts.csswg.org/css-template/#grid-template0"
@@ -3729,24 +3759,24 @@
   , "title": "CSS Template Layout Module"
   }
 , { "property": "grid-template"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-template"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-template"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-template"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-template"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-template-areas"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-template-areas"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template-areas"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-template-areas"
   , "status": "ED"
   , "title": "CSS Grid Layout Module Level 2"
-  }
-, { "property": "grid-template-areas"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-template-areas"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template-areas"
   , "url": "https://drafts.csswg.org/css-template/#grid-template-areas"
@@ -3759,24 +3789,24 @@
   , "title": "CSS Template Layout Module"
   }
 , { "property": "grid-template-areas"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-template-areas"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-template-areas"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template-areas"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-template-areas"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-template-areas"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-template-columns"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-template-columns"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template-columns"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-template-columns"
   , "status": "ED"
   , "title": "CSS Grid Layout Module Level 2"
-  }
-, { "property": "grid-template-columns"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-template-columns"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template-columns"
   , "url": "https://drafts.csswg.org/css-template/#grid-template-columns"
@@ -3789,24 +3819,24 @@
   , "title": "CSS Template Layout Module"
   }
 , { "property": "grid-template-columns"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-template-columns"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-template-columns"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template-columns"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-template-columns"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-template-columns"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
+  }
+, { "property": "grid-template-rows"
+  , "url": "https://drafts.csswg.org/css-grid-1/#propdef-grid-template-rows"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template-rows"
   , "url": "https://drafts.csswg.org/css-grid-2/#propdef-grid-template-rows"
   , "status": "ED"
   , "title": "CSS Grid Layout Module Level 2"
-  }
-, { "property": "grid-template-rows"
-  , "url": "https://drafts.csswg.org/css-grid/#propdef-grid-template-rows"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template-rows"
   , "url": "https://drafts.csswg.org/css-template/#grid-template-rows"
@@ -3819,12 +3849,12 @@
   , "title": "CSS Template Layout Module"
   }
 , { "property": "grid-template-rows"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/#propdef-grid-template-rows"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/#propdef-grid-template-rows"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 1"
   }
 , { "property": "grid-template-rows"
-  , "url": "https://www.w3.org/TR/2020/CRD-css-grid-2-20201218/#propdef-grid-template-rows"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-grid-2-20250326/#propdef-grid-template-rows"
   , "status": "CRD"
   , "title": "CSS Grid Layout Module Level 2"
   }
@@ -4044,7 +4074,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4064,7 +4094,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-block"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-block"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-block"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4084,7 +4114,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-block-end"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-block-end"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-block-end"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4104,7 +4134,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-block-start"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-block-start"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-block-start"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4124,7 +4154,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-inline"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-inline"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-inline"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4144,7 +4174,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-inline-end"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-inline-end"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-inline-end"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4164,7 +4194,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-inline-start"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-inset-inline-start"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-inline-start"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -4279,7 +4309,7 @@
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "justify-content"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-justify-content"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-justify-content"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -4289,7 +4319,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "justify-items"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-justify-items"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-justify-items"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -4299,7 +4329,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "justify-self"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-justify-self"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-justify-self"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -4324,7 +4354,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "left"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-left"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-left"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -6193,15 +6223,45 @@
   , "status": "REC"
   , "title": "CSS 2.1"
   }
+, { "property": "pause"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-pause"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "pause"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-pause"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
 , { "property": "pause-after"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pause-after"
   , "status": "REC"
   , "title": "CSS 2.1"
   }
+, { "property": "pause-after"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-pause-after"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "pause-after"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-pause-after"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
 , { "property": "pause-before"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-pause-before"
   , "status": "REC"
   , "title": "CSS 2.1"
+  }
+, { "property": "pause-before"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-pause-before"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "pause-before"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-pause-before"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
   }
 , { "property": "perspective"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-perspective"
@@ -6249,7 +6309,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "place-content"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-place-content"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-place-content"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -6259,7 +6319,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "place-items"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-place-items"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-place-items"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -6269,7 +6329,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "place-self"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-place-self"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-place-self"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -6304,7 +6364,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "position"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-position"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-position"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -6448,6 +6508,36 @@
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
+, { "property": "rest"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-rest"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "rest"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-rest"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "rest-after"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-rest-after"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "rest-after"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-rest-after"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "rest-before"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-rest-before"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "rest-before"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-rest-before"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
 , { "property": "richness"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-richness"
   , "status": "REC"
@@ -6474,7 +6564,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "right"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-right"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-right"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -6499,7 +6589,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "row-gap"
-  , "url": "https://www.w3.org/TR/2023/WD-css-align-3-20230217/#propdef-row-gap"
+  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-row-gap"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -6953,6 +7043,16 @@
   , "status": "CRD"
   , "title": "CSS Shapes Module Level 1"
   }
+, { "property": "slider-orientation"
+  , "url": "https://drafts.csswg.org/css-forms-1/#propdef-slider-orientation"
+  , "status": "ED"
+  , "title": "CSS Form Control Styling Level 1"
+  }
+, { "property": "slider-orientation"
+  , "url": "https://www.w3.org/TR/2025/WD-css-forms-1-20250325/#propdef-slider-orientation"
+  , "status": "FPWD"
+  , "title": "CSS Form Control Styling Level 1"
+  }
 , { "property": "spatial-navigation-action"
   , "url": "https://drafts.csswg.org/css-nav-1/#propdef-spatial-navigation-action"
   , "status": "ED"
@@ -6987,6 +7087,26 @@
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speak"
   , "status": "REC"
   , "title": "CSS 2.1"
+  }
+, { "property": "speak"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-speak"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "speak"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-speak"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "speak-as"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-speak-as"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "speak-as"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-speak-as"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
   }
 , { "property": "speak-header"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-speak-header"
@@ -8039,7 +8159,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "top"
-  , "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/#propdef-top"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-top"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -8338,10 +8458,90 @@
   , "status": "FPWD"
   , "title": "CSS Display Module Level 4"
   }
+, { "property": "voice-balance"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-balance"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-balance"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-balance"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-duration"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-duration"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-duration"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-duration"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
 , { "property": "voice-family"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-voice-family"
   , "status": "REC"
   , "title": "CSS 2.1"
+  }
+, { "property": "voice-family"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-family"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-family"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-family"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-pitch"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-pitch"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-pitch"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-pitch"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-range"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-range"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-range"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-range"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-rate"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-rate"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-rate"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-rate"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-stress"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-stress"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-stress"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-stress"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-volume"
+  , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-volume"
+  , "status": "ED"
+  , "title": "CSS Speech Module Level 1"
+  }
+, { "property": "voice-volume"
+  , "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/#propdef-voice-volume"
+  , "status": "CRD"
+  , "title": "CSS Speech Module Level 1"
   }
 , { "property": "volume"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/aural.html#propdef-volume"
