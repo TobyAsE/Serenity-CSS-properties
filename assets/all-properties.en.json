@@ -134,7 +134,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "anchor-name"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-anchor-name"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-anchor-name"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -144,7 +144,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "anchor-scope"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-anchor-scope"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-anchor-scope"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -303,6 +303,11 @@
   , "status": "ED"
   , "title": "CSS Animations Level 2"
   }
+, { "property": "animation-trigger-behavior"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-behavior"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
 , { "property": "animation-trigger-exit-range"
   , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-exit-range"
   , "status": "ED"
@@ -335,11 +340,6 @@
   }
 , { "property": "animation-trigger-timeline"
   , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-timeline"
-  , "status": "ED"
-  , "title": "CSS Animations Level 2"
-  }
-, { "property": "animation-trigger-type"
-  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-type"
   , "status": "ED"
   , "title": "CSS Animations Level 2"
   }
@@ -1984,7 +1984,7 @@
   , "title": "CSS Color Module Level 3"
   }
 , { "property": "color"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-color-4-20240213/#propdef-color"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-color-4-20250424/#propdef-color"
   , "status": "CRD"
   , "title": "CSS Color Module Level 4"
   }
@@ -1997,6 +1997,11 @@
   , "url": "https://www.w3.org/TR/2022/CRD-css-color-adjust-1-20220614/#propdef-color-adjust"
   , "status": "CRD"
   , "title": "CSS Color Adjustment Module Level 1"
+  }
+, { "property": "color-interpolation-filters"
+  , "url": "https://drafts.fxtf.org/filter-effects-1/#propdef-color-interpolation-filters"
+  , "status": "ED"
+  , "title": "Filter Effects Module Level 1"
   }
 , { "property": "color-interpolation-filters"
   , "url": "https://www.w3.org/TR/2018/WD-filter-effects-1-20181218/#propdef-color-interpolation-filters"
@@ -2069,6 +2074,11 @@
   , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-rule"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "column-rule"
   , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule"
   , "status": "ED"
   , "title": "CSS Multi-column Layout Module Level 2"
@@ -2087,6 +2097,26 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-rule"
   , "status": "FPWD"
   , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-rule"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-column-rule"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "column-rule-break"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-break"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "column-rule-break"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-column-rule-break"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "column-rule-color"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-color"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
   }
 , { "property": "column-rule-color"
   , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule-color"
@@ -2108,6 +2138,26 @@
   , "status": "FPWD"
   , "title": "CSS Multi-column Layout Module Level 2"
   }
+, { "property": "column-rule-color"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-column-rule-color"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "column-rule-outset"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-outset"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "column-rule-outset"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-column-rule-outset"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "column-rule-style"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-style"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
 , { "property": "column-rule-style"
   , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule-style"
   , "status": "ED"
@@ -2128,6 +2178,16 @@
   , "status": "FPWD"
   , "title": "CSS Multi-column Layout Module Level 2"
   }
+, { "property": "column-rule-style"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-column-rule-style"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "column-rule-width"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-width"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
 , { "property": "column-rule-width"
   , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule-width"
   , "status": "ED"
@@ -2147,6 +2207,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-multicol-2-20241219/#propdef-column-rule-width"
   , "status": "FPWD"
   , "title": "CSS Multi-column Layout Module Level 2"
+  }
+, { "property": "column-rule-width"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-column-rule-width"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
   }
 , { "property": "column-span"
   , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-span"
@@ -2634,13 +2699,23 @@
   , "title": "CSS Table Module Level 3"
   }
 , { "property": "field-sizing"
-  , "url": "https://drafts.csswg.org/css-ui-4/#propdef-field-sizing"
+  , "url": "https://drafts.csswg.org/css-forms-1/#propdef-field-sizing"
   , "status": "ED"
-  , "title": "CSS Basic User Interface Module Level 4"
+  , "title": "CSS Form Control Styling Level 1"
+  }
+, { "property": "fill"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-fill"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "fill"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-fill"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "fill-break"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-fill-break"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "fill-break"
@@ -2649,8 +2724,18 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "fill-color"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-fill-color"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "fill-color"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-fill-color"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "fill-image"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-fill-image"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "fill-image"
@@ -2659,8 +2744,18 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "fill-opacity"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-fill-opacity"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "fill-opacity"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-fill-opacity"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "fill-origin"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-fill-origin"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "fill-origin"
@@ -2669,8 +2764,18 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "fill-position"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-fill-position"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "fill-position"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-fill-position"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "fill-repeat"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-fill-repeat"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "fill-repeat"
@@ -2679,14 +2784,29 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "fill-rule"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-fill-rule"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "fill-rule"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-fill-rule"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "fill-size"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-fill-size"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "fill-size"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-fill-size"
   , "status": "FPWD"
   , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "filter"
+  , "url": "https://drafts.fxtf.org/filter-effects-1/#propdef-filter"
+  , "status": "ED"
+  , "title": "Filter Effects Module Level 1"
   }
 , { "property": "filter"
   , "url": "https://www.w3.org/TR/2018/WD-filter-effects-1-20181218/#propdef-filter"
@@ -2819,8 +2939,18 @@
   , "title": "CSS Page Floats"
   }
 , { "property": "flood-color"
+  , "url": "https://drafts.fxtf.org/filter-effects-1/#propdef-flood-color"
+  , "status": "ED"
+  , "title": "Filter Effects Module Level 1"
+  }
+, { "property": "flood-color"
   , "url": "https://www.w3.org/TR/2018/WD-filter-effects-1-20181218/#propdef-flood-color"
   , "status": "WD"
+  , "title": "Filter Effects Module Level 1"
+  }
+, { "property": "flood-opacity"
+  , "url": "https://drafts.fxtf.org/filter-effects-1/#propdef-flood-opacity"
+  , "status": "ED"
   , "title": "Filter Effects Module Level 1"
   }
 , { "property": "flood-opacity"
@@ -3984,9 +4114,9 @@
   , "title": "CSS Inline Layout Module Level 3"
   }
 , { "property": "input-security"
-  , "url": "https://drafts.csswg.org/css-ui-4/#propdef-input-security"
+  , "url": "https://drafts.csswg.org/css-forms-1/#propdef-input-security"
   , "status": "ED"
-  , "title": "CSS Basic User Interface Module Level 4"
+  , "title": "CSS Form Control Styling Level 1"
   }
 , { "property": "inset"
   , "url": "https://drafts.csswg.org/css-logical-1/#propdef-inset"
@@ -4322,6 +4452,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-letter-spacing"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
+  }
+, { "property": "lighting-color"
+  , "url": "https://drafts.fxtf.org/filter-effects-1/#propdef-lighting-color"
+  , "status": "ED"
+  , "title": "Filter Effects Module Level 1"
   }
 , { "property": "lighting-color"
   , "url": "https://www.w3.org/TR/2018/WD-filter-effects-1-20181218/#propdef-lighting-color"
@@ -5364,7 +5499,7 @@
   , "title": "CSS Color Module Level 3"
   }
 , { "property": "opacity"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-color-4-20240213/#propdef-opacity"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-color-4-20250424/#propdef-opacity"
   , "status": "CRD"
   , "title": "CSS Color Module Level 4"
   }
@@ -6299,7 +6434,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-anchor"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-anchor"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-anchor"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -6309,7 +6444,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-area"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-area"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-area"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -6319,7 +6454,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-try"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-try"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-try"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -6329,7 +6464,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-try-fallbacks"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-try-fallbacks"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-try-fallbacks"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -6339,7 +6474,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-try-order"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-try-order"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-try-order"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -6349,7 +6484,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-visibility"
-  , "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/#propdef-position-visibility"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-visibility"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -6518,6 +6653,66 @@
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
+, { "property": "row-rule"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-row-rule"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule-break"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-break"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule-break"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-row-rule-break"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule-color"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-color"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule-color"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-row-rule-color"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule-outset"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-outset"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule-outset"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-row-rule-outset"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule-style"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-style"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule-style"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-row-rule-style"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule-width"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-width"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "row-rule-width"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-row-rule-width"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
 , { "property": "ruby-align"
   , "url": "https://drafts.csswg.org/css-ruby-1/#propdef-ruby-align"
   , "status": "ED"
@@ -6557,6 +6752,76 @@
   , "url": "https://www.w3.org/TR/2022/WD-css-ruby-1-20221231/#propdef-ruby-position"
   , "status": "WD"
   , "title": "CSS Ruby Annotation Layout Module Level 1"
+  }
+, { "property": "rule"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-rule"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-break"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-break"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-break"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-rule-break"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-color"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-color"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-color"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-rule-color"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-outset"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-outset"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-outset"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-rule-outset"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-paint-order"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-paint-order"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-paint-order"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-rule-paint-order"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-style"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-style"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-style"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-rule-style"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-width"
+  , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-width"
+  , "status": "ED"
+  , "title": "CSS Gap Decorations Module Level 1"
+  }
+, { "property": "rule-width"
+  , "url": "https://www.w3.org/TR/2025/WD-css-gaps-1-20250417/#propdef-rule-width"
+  , "status": "FPWD"
+  , "title": "CSS Gap Decorations Module Level 1"
   }
 , { "property": "running"
   , "url": "https://drafts.csswg.org/css-gcpm/#propdef-running"
@@ -6868,6 +7133,11 @@
   , "status": "FPWD"
   , "title": "CSS Scroll Snap Module Level 2"
   }
+, { "property": "scroll-target-group"
+  , "url": "https://drafts.csswg.org/css-overflow-5/#propdef-scroll-target-group"
+  , "status": "ED"
+  , "title": "CSS Overflow Module Level 5"
+  }
 , { "property": "scroll-timeline"
   , "url": "https://drafts.csswg.org/scroll-animations-1/#propdef-scroll-timeline"
   , "status": "ED"
@@ -7079,6 +7349,11 @@
   , "title": "CSS Generated Content for Paged Media Module"
   }
 , { "property": "stroke"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke"
   , "url": "https://svgwg.org/specs/strokes/#StrokeProperty"
   , "status": "ED"
   , "title": "SVG Strokes"
@@ -7091,6 +7366,11 @@
 , { "property": "stroke"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-stroke"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-align"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-align"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-align"
@@ -7109,8 +7389,18 @@
   , "title": "SVG Strokes"
   }
 , { "property": "stroke-break"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-break"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-break"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-stroke-break"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-color"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-color"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-color"
@@ -7119,8 +7409,18 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-dash-corner"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-dash-corner"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-dash-corner"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-stroke-dash-corner"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-dash-justify"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-dash-justify"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-dash-justify"
@@ -7137,6 +7437,11 @@
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeDashadjustProperty"
   , "status": "FPWD"
   , "title": "SVG Strokes"
+  }
+, { "property": "stroke-dasharray"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-dasharray"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-dasharray"
   , "url": "https://svgwg.org/specs/strokes/#StrokeDasharrayProperty"
@@ -7164,6 +7469,11 @@
   , "title": "SVG Strokes"
   }
 , { "property": "stroke-dashoffset"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-dashoffset"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-dashoffset"
   , "url": "https://svgwg.org/specs/strokes/#StrokeDashoffsetProperty"
   , "status": "ED"
   , "title": "SVG Strokes"
@@ -7179,8 +7489,18 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-image"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-image"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-image"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-stroke-image"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-linecap"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-linecap"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-linecap"
@@ -7199,6 +7519,11 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-linejoin"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-linejoin"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-linejoin"
   , "url": "https://svgwg.org/specs/strokes/#StrokeLinejoinProperty"
   , "status": "ED"
   , "title": "SVG Strokes"
@@ -7211,6 +7536,11 @@
 , { "property": "stroke-linejoin"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-stroke-linejoin"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-miterlimit"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-miterlimit"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-miterlimit"
@@ -7229,6 +7559,11 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-opacity"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-opacity"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-opacity"
   , "url": "https://svgwg.org/specs/strokes/#StrokeOpacityProperty"
   , "status": "ED"
   , "title": "SVG Strokes"
@@ -7244,8 +7579,18 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-origin"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-origin"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-origin"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-stroke-origin"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-position"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-position"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-position"
@@ -7254,13 +7599,28 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-repeat"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-repeat"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-repeat"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-stroke-repeat"
   , "status": "FPWD"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-size"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-size"
+  , "status": "ED"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-size"
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-stroke-size"
   , "status": "FPWD"
+  , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-width"
+  , "url": "https://drafts.fxtf.org/fill-stroke/#propdef-stroke-width"
+  , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-width"
