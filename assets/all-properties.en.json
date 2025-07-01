@@ -7204,7 +7204,7 @@
   , "title": "CSS Shapes Module Level 1"
   }
 , { "property": "shape-image-threshold"
-  , "url": "https://www.w3.org/TR/2022/CRD-css-shapes-1-20221115/#propdef-shape-image-threshold"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-shapes-1-20250612/#propdef-shape-image-threshold"
   , "status": "CRD"
   , "title": "CSS Shapes Module Level 1"
   }
@@ -7224,7 +7224,7 @@
   , "title": "CSS Shapes Module Level 1"
   }
 , { "property": "shape-margin"
-  , "url": "https://www.w3.org/TR/2022/CRD-css-shapes-1-20221115/#propdef-shape-margin"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-shapes-1-20250612/#propdef-shape-margin"
   , "status": "CRD"
   , "title": "CSS Shapes Module Level 1"
   }
@@ -7234,7 +7234,7 @@
   , "title": "CSS Shapes Module Level 1"
   }
 , { "property": "shape-outside"
-  , "url": "https://www.w3.org/TR/2022/CRD-css-shapes-1-20221115/#propdef-shape-outside"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-shapes-1-20250612/#propdef-shape-outside"
   , "status": "CRD"
   , "title": "CSS Shapes Module Level 1"
   }
