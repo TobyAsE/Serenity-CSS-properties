@@ -434,11 +434,6 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "background-blend-mode"
-  , "url": "https://drafts.fxtf.org/compositing-1/#propdef-background-blend-mode"
-  , "status": "ED"
-  , "title": "Compositing and Blending Level 1"
-  }
-, { "property": "background-blend-mode"
   , "url": "https://www.w3.org/TR/2024/CRD-compositing-1-20240321/#propdef-background-blend-mode"
   , "status": "CRD"
   , "title": "Compositing and Blending Level 1"
@@ -2989,28 +2984,13 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "clip"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-clip"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "clip"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-clip"
   , "status": "CRD"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "clip-path"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-clip-path"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "clip-path"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-clip-path"
   , "status": "CRD"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "clip-rule"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-clip-rule"
-  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "clip-rule"
@@ -5549,7 +5529,7 @@
   , "title": "CSS Images Module Level 4"
   }
 , { "property": "image-resolution"
-  , "url": "https://www.w3.org/TR/2023/WD-css-images-4-20230217/#propdef-image-resolution"
+  , "url": "https://www.w3.org/TR/2025/WD-css-images-4-20250930/#propdef-image-resolution"
   , "status": "WD"
   , "title": "CSS Images Module Level 4"
   }
@@ -5779,11 +5759,6 @@
   , "title": "CSS Values and Units Module Level 5"
   }
 , { "property": "isolation"
-  , "url": "https://drafts.fxtf.org/compositing-1/#propdef-isolation"
-  , "status": "ED"
-  , "title": "Compositing and Blending Level 1"
-  }
-, { "property": "isolation"
   , "url": "https://www.w3.org/TR/2024/CRD-compositing-1-20240321/#propdef-isolation"
   , "status": "CRD"
   , "title": "Compositing and Blending Level 1"
@@ -5794,7 +5769,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-cross"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250207/#propdef-item-cross"
+  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250917/#propdef-item-cross"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -5804,7 +5779,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-direction"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250207/#propdef-item-direction"
+  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250917/#propdef-item-direction"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -5814,7 +5789,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-flow"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250207/#propdef-item-flow"
+  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250917/#propdef-item-flow"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -5824,17 +5799,17 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-pack"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250207/#propdef-item-pack"
+  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250917/#propdef-item-pack"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
-, { "property": "item-slack"
-  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-item-slack"
+, { "property": "item-tolerance"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-item-tolerance"
   , "status": "ED"
   , "title": "CSS Grid Layout Module Level 3"
   }
-, { "property": "item-slack"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250207/#propdef-item-slack"
+, { "property": "item-tolerance"
+  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250917/#propdef-item-tolerance"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -5844,7 +5819,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-track"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250207/#propdef-item-track"
+  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250917/#propdef-item-track"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -5854,7 +5829,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-wrap"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250207/#propdef-item-wrap"
+  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20250917/#propdef-item-wrap"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -6519,18 +6494,8 @@
   , "title": "SVG Markers"
   }
 , { "property": "mask"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask"
   , "status": "CRD"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-border"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border"
-  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border"
@@ -6539,18 +6504,8 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-mode"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-mode"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-border-mode"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-border-mode"
   , "status": "CRD"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-border-outset"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-outset"
-  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-outset"
@@ -6559,18 +6514,8 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-repeat"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-repeat"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-border-repeat"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-border-repeat"
   , "status": "CRD"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-border-slice"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-slice"
-  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-slice"
@@ -6579,18 +6524,8 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-source"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-source"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-border-source"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-border-source"
   , "status": "CRD"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-border-width"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-width"
-  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-width"
@@ -6599,18 +6534,8 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-clip"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-clip"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-clip"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-clip"
   , "status": "CRD"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-composite"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-composite"
-  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-composite"
@@ -6619,18 +6544,8 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-image"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-image"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-image"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-image"
   , "status": "CRD"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-mode"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-mode"
-  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-mode"
@@ -6639,18 +6554,8 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-origin"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-origin"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-origin"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-origin"
   , "status": "CRD"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-position"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-position"
-  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-position"
@@ -6659,28 +6564,13 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-repeat"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-repeat"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-repeat"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-repeat"
   , "status": "CRD"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-size"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-size"
-  , "status": "ED"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-size"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-size"
   , "status": "CRD"
-  , "title": "CSS Masking Module Level 1"
-  }
-, { "property": "mask-type"
-  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-type"
-  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-type"
@@ -6849,11 +6739,6 @@
   , "title": "CSS Box Sizing Module Level 3"
   }
 , { "property": "mix-blend-mode"
-  , "url": "https://drafts.fxtf.org/compositing-1/#propdef-mix-blend-mode"
-  , "status": "ED"
-  , "title": "Compositing and Blending Level 1"
-  }
-, { "property": "mix-blend-mode"
   , "url": "https://www.w3.org/TR/2024/CRD-compositing-1-20240321/#propdef-mix-blend-mode"
   , "status": "CRD"
   , "title": "Compositing and Blending Level 1"
@@ -6914,7 +6799,7 @@
   , "title": "CSS Images Module Level 3"
   }
 , { "property": "object-fit"
-  , "url": "https://www.w3.org/TR/2023/WD-css-images-4-20230217/#propdef-object-fit"
+  , "url": "https://www.w3.org/TR/2025/WD-css-images-4-20250930/#propdef-object-fit"
   , "status": "WD"
   , "title": "CSS Images Module Level 4"
   }
@@ -8367,11 +8252,6 @@
   , "url": "https://drafts.csswg.org/css-overflow-3/#propdef-scroll-behavior"
   , "status": "ED"
   , "title": "CSS Overflow Module Level 3"
-  }
-, { "property": "scroll-behavior"
-  , "url": "https://www.w3.org/TR/2016/WD-cssom-view-1-20160317/#propdef-scroll-behavior"
-  , "status": "WD"
-  , "title": "CSSOM View Module"
   }
 , { "property": "scroll-behavior"
   , "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/#propdef-scroll-behavior"
