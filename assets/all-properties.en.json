@@ -34,13 +34,13 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "align-content"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-align-content"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-align-content"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-content"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-align-content"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-align-content"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-content"
@@ -54,13 +54,13 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "align-items"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-align-items"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-align-items"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-items"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-align-items"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-align-items"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-items"
@@ -74,13 +74,13 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "align-self"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-align-self"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-align-self"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-self"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-align-self"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-align-self"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-self"
@@ -134,7 +134,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "anchor-name"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-anchor-name"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251007/#propdef-anchor-name"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -144,7 +144,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "anchor-scope"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-anchor-scope"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251007/#propdef-anchor-scope"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -303,46 +303,6 @@
   , "status": "ED"
   , "title": "CSS Animations Level 2"
   }
-, { "property": "animation-trigger-behavior"
-  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-behavior"
-  , "status": "ED"
-  , "title": "CSS Animations Level 2"
-  }
-, { "property": "animation-trigger-exit-range"
-  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-exit-range"
-  , "status": "ED"
-  , "title": "CSS Animations Level 2"
-  }
-, { "property": "animation-trigger-exit-range-end"
-  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-exit-range-end"
-  , "status": "ED"
-  , "title": "CSS Animations Level 2"
-  }
-, { "property": "animation-trigger-exit-range-start"
-  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-exit-range-start"
-  , "status": "ED"
-  , "title": "CSS Animations Level 2"
-  }
-, { "property": "animation-trigger-range"
-  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-range"
-  , "status": "ED"
-  , "title": "CSS Animations Level 2"
-  }
-, { "property": "animation-trigger-range-end"
-  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-range-end"
-  , "status": "ED"
-  , "title": "CSS Animations Level 2"
-  }
-, { "property": "animation-trigger-range-start"
-  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-range-start"
-  , "status": "ED"
-  , "title": "CSS Animations Level 2"
-  }
-, { "property": "animation-trigger-timeline"
-  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-trigger-timeline"
-  , "status": "ED"
-  , "title": "CSS Animations Level 2"
-  }
 , { "property": "appearance"
   , "url": "https://drafts.csswg.org/css-ui-4/#propdef-appearance"
   , "status": "ED"
@@ -432,6 +392,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-attachment"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "background-blend-mode"
+  , "url": "https://drafts.fxtf.org/compositing-1/#propdef-background-blend-mode"
+  , "status": "ED"
+  , "title": "Compositing and Blending Level 1"
   }
 , { "property": "background-blend-mode"
   , "url": "https://www.w3.org/TR/2024/CRD-compositing-1-20240321/#propdef-background-blend-mode"
@@ -697,6 +662,16 @@
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border"
   , "url": "https://drafts.csswg.org/css2/#propdef-border"
@@ -1474,6 +1449,16 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-image"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-image"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
+  }
+, { "property": "border-image"
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1482,6 +1467,16 @@
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-image-outset"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-image-outset"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image-outset"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-image-outset"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image-outset"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-image-outset"
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image-outset"
@@ -1494,6 +1489,16 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-image-repeat"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image-repeat"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-image-repeat"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image-repeat"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
+  }
+, { "property": "border-image-repeat"
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image-repeat"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1502,6 +1507,16 @@
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-image-slice"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-image-slice"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image-slice"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-image-slice"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image-slice"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-image-slice"
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image-slice"
@@ -1514,6 +1529,16 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-image-source"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image-source"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-image-source"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image-source"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
+  }
+, { "property": "border-image-source"
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image-source"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -1522,6 +1547,16 @@
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-border-image-width"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "border-image-width"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image-width"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-image-width"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-image-width"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-image-width"
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-border-image-width"
@@ -2349,6 +2384,16 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-style"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-style"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-style"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-style"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
+  }
+, { "property": "border-style"
   , "url": "https://drafts.csswg.org/css2/#propdef-border-style"
   , "status": "ED"
   , "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification"
@@ -2599,6 +2644,16 @@
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
 , { "property": "border-width"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-width"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-width"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-width"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
+  }
+, { "property": "border-width"
   , "url": "https://drafts.csswg.org/css2/#propdef-border-width"
   , "status": "ED"
   , "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification"
@@ -2634,7 +2689,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "bottom"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-bottom"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-bottom"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -2984,13 +3039,28 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "clip"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-clip"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "clip"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-clip"
   , "status": "CRD"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "clip-path"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-clip-path"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "clip-path"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-clip-path"
   , "status": "CRD"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "clip-rule"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-clip-rule"
+  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "clip-rule"
@@ -3404,7 +3474,7 @@
   , "title": "CSS Containment Module Level 3"
   }
 , { "property": "container"
-  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20241105/#propdef-container"
+  , "url": "https://www.w3.org/TR/2025/WD-css-conditional-5-20251030/#propdef-container"
   , "status": "WD"
   , "title": "CSS Conditional Rules Module Level 5"
   }
@@ -3419,7 +3489,7 @@
   , "title": "CSS Containment Module Level 3"
   }
 , { "property": "container-name"
-  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20241105/#propdef-container-name"
+  , "url": "https://www.w3.org/TR/2025/WD-css-conditional-5-20251030/#propdef-container-name"
   , "status": "WD"
   , "title": "CSS Conditional Rules Module Level 5"
   }
@@ -3434,7 +3504,7 @@
   , "title": "CSS Containment Module Level 3"
   }
 , { "property": "container-type"
-  , "url": "https://www.w3.org/TR/2024/WD-css-conditional-5-20241105/#propdef-container-type"
+  , "url": "https://www.w3.org/TR/2025/WD-css-conditional-5-20251030/#propdef-container-type"
   , "status": "WD"
   , "title": "CSS Conditional Rules Module Level 5"
   }
@@ -4168,6 +4238,21 @@
   , "status": "WD"
   , "title": "CSS Table Module Level 3"
   }
+, { "property": "event-trigger"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-event-trigger"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "event-trigger-name"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-event-trigger-name"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "event-trigger-source"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-event-trigger-source"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
 , { "property": "field-sizing"
   , "url": "https://drafts.csswg.org/css-forms-1/#propdef-field-sizing"
   , "status": "ED"
@@ -4284,73 +4369,73 @@
   , "title": "Filter Effects Module Level 1"
   }
 , { "property": "flex"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-flex"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-flex"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-flex"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-flex"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-basis"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-flex-basis"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-flex-basis"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-basis"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-flex-basis"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-flex-basis"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-direction"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-flex-direction"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-flex-direction"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-direction"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-flex-direction"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-flex-direction"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-flow"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-flex-flow"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-flex-flow"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-flow"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-flex-flow"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-flex-flow"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-grow"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-flex-grow"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-flex-grow"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-grow"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-flex-grow"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-flex-grow"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-shrink"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-flex-shrink"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-flex-shrink"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-shrink"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-flex-shrink"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-flex-shrink"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-wrap"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-flex-wrap"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-flex-wrap"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "flex-wrap"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-flex-wrap"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-flex-wrap"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "float"
@@ -5604,7 +5689,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-inset"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -5624,7 +5709,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-block"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-block"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-inset-block"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -5644,7 +5729,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-block-end"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-block-end"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-inset-block-end"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -5664,7 +5749,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-block-start"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-block-start"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-inset-block-start"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -5684,7 +5769,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-inline"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-inline"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-inset-inline"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -5704,7 +5789,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-inline-end"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-inline-end"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-inset-inline-end"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -5724,7 +5809,7 @@
   , "title": "CSS Logical Properties and Values Level 1"
   }
 , { "property": "inset-inline-start"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-inset-inline-start"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-inset-inline-start"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -5757,6 +5842,11 @@
   , "url": "https://www.w3.org/TR/2024/WD-css-values-5-20241111/#propdef-interpolate-size"
   , "status": "WD"
   , "title": "CSS Values and Units Module Level 5"
+  }
+, { "property": "isolation"
+  , "url": "https://drafts.fxtf.org/compositing-1/#propdef-isolation"
+  , "status": "ED"
+  , "title": "Compositing and Blending Level 1"
   }
 , { "property": "isolation"
   , "url": "https://www.w3.org/TR/2024/CRD-compositing-1-20240321/#propdef-isolation"
@@ -5839,13 +5929,13 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "justify-content"
-  , "url": "https://drafts.csswg.org/css-flexbox-1/#propdef-justify-content"
+  , "url": "https://drafts.csswg.org/css-flexbox/#propdef-justify-content"
   , "status": "ED"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "justify-content"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-justify-content"
-  , "status": "CR"
+  , "url": "https://www.w3.org/TR/2025/CRD-css-flexbox-1-20251014/#propdef-justify-content"
+  , "status": "CRD"
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "justify-content"
@@ -5894,7 +5984,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "left"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-left"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-left"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -6494,8 +6584,18 @@
   , "title": "SVG Markers"
   }
 , { "property": "mask"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask"
   , "status": "CRD"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-border"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border"
+  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border"
@@ -6504,8 +6604,18 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-mode"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-mode"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-border-mode"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-border-mode"
   , "status": "CRD"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-border-outset"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-outset"
+  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-outset"
@@ -6514,8 +6624,18 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-repeat"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-repeat"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-border-repeat"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-border-repeat"
   , "status": "CRD"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-border-slice"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-slice"
+  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-slice"
@@ -6524,8 +6644,18 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-source"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-source"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-border-source"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-border-source"
   , "status": "CRD"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-border-width"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-border-width"
+  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-border-width"
@@ -6534,8 +6664,18 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-clip"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-clip"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-clip"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-clip"
   , "status": "CRD"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-composite"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-composite"
+  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-composite"
@@ -6544,8 +6684,18 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-image"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-image"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-image"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-image"
   , "status": "CRD"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-mode"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-mode"
+  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-mode"
@@ -6554,8 +6704,18 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-origin"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-origin"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-origin"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-origin"
   , "status": "CRD"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-position"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-position"
+  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-position"
@@ -6564,13 +6724,28 @@
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-repeat"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-repeat"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-repeat"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-repeat"
   , "status": "CRD"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-size"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-size"
+  , "status": "ED"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-size"
   , "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/#propdef-mask-size"
   , "status": "CRD"
+  , "title": "CSS Masking Module Level 1"
+  }
+, { "property": "mask-type"
+  , "url": "https://drafts.fxtf.org/css-masking-1/#propdef-mask-type"
+  , "status": "ED"
   , "title": "CSS Masking Module Level 1"
   }
 , { "property": "mask-type"
@@ -6739,6 +6914,11 @@
   , "title": "CSS Box Sizing Module Level 3"
   }
 , { "property": "mix-blend-mode"
+  , "url": "https://drafts.fxtf.org/compositing-1/#propdef-mix-blend-mode"
+  , "status": "ED"
+  , "title": "Compositing and Blending Level 1"
+  }
+, { "property": "mix-blend-mode"
   , "url": "https://www.w3.org/TR/2024/CRD-compositing-1-20240321/#propdef-mix-blend-mode"
   , "status": "CRD"
   , "title": "Compositing and Blending Level 1"
@@ -6902,11 +7082,6 @@
   , "url": "https://drafts.csswg.org/css-display/#propdef-order"
   , "status": "ED"
   , "title": "CSS Display Module Level 4"
-  }
-, { "property": "order"
-  , "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/#propdef-order"
-  , "status": "CR"
-  , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "order"
   , "url": "https://www.w3.org/TR/2023/CR-css-display-3-20230330/#propdef-order"
@@ -7134,7 +7309,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "overflow"
-  , "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/#propdef-overflow"
+  , "url": "https://www.w3.org/TR/2025/WD-css-overflow-3-20251007/#propdef-overflow"
   , "status": "WD"
   , "title": "CSS Overflow Module Level 3"
   }
@@ -7154,7 +7329,7 @@
   , "title": "CSS Overflow Module Level 3"
   }
 , { "property": "overflow-block"
-  , "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/#propdef-overflow-block"
+  , "url": "https://www.w3.org/TR/2025/WD-css-overflow-3-20251007/#propdef-overflow-block"
   , "status": "WD"
   , "title": "CSS Overflow Module Level 3"
   }
@@ -7169,14 +7344,14 @@
   , "title": "CSS Overflow Module Level 4"
   }
 , { "property": "overflow-clip-margin"
-  , "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/#propdef-overflow-clip-margin"
-  , "status": "WD"
-  , "title": "CSS Overflow Module Level 3"
-  }
-, { "property": "overflow-clip-margin"
   , "url": "https://www.w3.org/TR/2023/WD-css-overflow-4-20230321/#propdef-overflow-clip-margin"
   , "status": "WD"
   , "title": "CSS Overflow Module Level 4"
+  }
+, { "property": "overflow-clip-margin"
+  , "url": "https://www.w3.org/TR/2025/WD-css-overflow-3-20251007/#propdef-overflow-clip-margin"
+  , "status": "WD"
+  , "title": "CSS Overflow Module Level 3"
   }
 , { "property": "overflow-clip-margin-block"
   , "url": "https://drafts.csswg.org/css-overflow-4/#propdef-overflow-clip-margin-block"
@@ -7284,7 +7459,7 @@
   , "title": "CSS Overflow Module Level 3"
   }
 , { "property": "overflow-inline"
-  , "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/#propdef-overflow-inline"
+  , "url": "https://www.w3.org/TR/2025/WD-css-overflow-3-20251007/#propdef-overflow-inline"
   , "status": "WD"
   , "title": "CSS Overflow Module Level 3"
   }
@@ -7314,7 +7489,7 @@
   , "title": "CSS Overflow Module Level 3"
   }
 , { "property": "overflow-x"
-  , "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/#propdef-overflow-x"
+  , "url": "https://www.w3.org/TR/2025/WD-css-overflow-3-20251007/#propdef-overflow-x"
   , "status": "WD"
   , "title": "CSS Overflow Module Level 3"
   }
@@ -7324,7 +7499,7 @@
   , "title": "CSS Overflow Module Level 3"
   }
 , { "property": "overflow-y"
-  , "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/#propdef-overflow-y"
+  , "url": "https://www.w3.org/TR/2025/WD-css-overflow-3-20251007/#propdef-overflow-y"
   , "status": "WD"
   , "title": "CSS Overflow Module Level 3"
   }
@@ -7334,8 +7509,8 @@
   , "title": "CSS Positioned Layout Module Level 4"
   }
 , { "property": "overlay"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-4-20250708/#propdef-overlay"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-4-20251007/#propdef-overlay"
+  , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 4"
   }
 , { "property": "overscroll-behavior"
@@ -7824,7 +7999,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "position"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-position"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-position"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -7834,7 +8009,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-anchor"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-anchor"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251007/#propdef-position-anchor"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -7844,7 +8019,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-area"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-area"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251007/#propdef-position-area"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -7854,7 +8029,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-try"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-try"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251007/#propdef-position-try"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -7864,7 +8039,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-try-fallbacks"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-try-fallbacks"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251007/#propdef-position-try-fallbacks"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -7874,7 +8049,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-try-order"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-try-order"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251007/#propdef-position-try-order"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -7884,7 +8059,7 @@
   , "title": "CSS Anchor Positioning"
   }
 , { "property": "position-visibility"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/#propdef-position-visibility"
+  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251007/#propdef-position-visibility"
   , "status": "WD"
   , "title": "CSS Anchor Positioning"
   }
@@ -8024,7 +8199,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "right"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-right"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-right"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
@@ -8254,7 +8429,7 @@
   , "title": "CSS Overflow Module Level 3"
   }
 , { "property": "scroll-behavior"
-  , "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/#propdef-scroll-behavior"
+  , "url": "https://www.w3.org/TR/2025/WD-css-overflow-3-20251007/#propdef-scroll-behavior"
   , "status": "WD"
   , "title": "CSS Overflow Module Level 3"
   }
@@ -8579,7 +8754,7 @@
   , "title": "CSS Overflow Module Level 3"
   }
 , { "property": "scrollbar-gutter"
-  , "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/#propdef-scrollbar-gutter"
+  , "url": "https://www.w3.org/TR/2025/WD-css-overflow-3-20251007/#propdef-scrollbar-gutter"
   , "status": "WD"
   , "title": "CSS Overflow Module Level 3"
   }
@@ -9574,14 +9749,14 @@
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
   }
 , { "property": "text-overflow"
-  , "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/#propdef-text-overflow"
-  , "status": "WD"
-  , "title": "CSS Overflow Module Level 3"
-  }
-, { "property": "text-overflow"
   , "url": "https://www.w3.org/TR/2023/WD-css-overflow-4-20230321/#propdef-text-overflow"
   , "status": "WD"
   , "title": "CSS Overflow Module Level 4"
+  }
+, { "property": "text-overflow"
+  , "url": "https://www.w3.org/TR/2025/WD-css-overflow-3-20251007/#propdef-text-overflow"
+  , "status": "WD"
+  , "title": "CSS Overflow Module Level 3"
   }
 , { "property": "text-shadow"
   , "url": "https://drafts.csswg.org/css-text-decor-3/#propdef-text-shadow"
@@ -9728,6 +9903,51 @@
   , "status": "WD"
   , "title": "Scroll-driven Animations"
   }
+, { "property": "timeline-trigger"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-timeline-trigger"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "timeline-trigger-exit-range"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-timeline-trigger-exit-range"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "timeline-trigger-exit-range-end"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-timeline-trigger-exit-range-end"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "timeline-trigger-exit-range-start"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-timeline-trigger-exit-range-start"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "timeline-trigger-name"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-timeline-trigger-name"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "timeline-trigger-range"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-timeline-trigger-range"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "timeline-trigger-range-end"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-timeline-trigger-range-end"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "timeline-trigger-range-start"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-timeline-trigger-range-start"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "timeline-trigger-source"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-timeline-trigger-source"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
 , { "property": "top"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#propdef-top"
   , "status": "REC"
@@ -9749,7 +9969,7 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "top"
-  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/#propdef-top"
+  , "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/#propdef-top"
   , "status": "WD"
   , "title": "CSS Positioned Layout Module Level 3"
   }
