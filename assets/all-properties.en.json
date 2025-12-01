@@ -349,6 +349,11 @@
   , "title": "CSS 2.1"
   }
 , { "property": "background"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -368,10 +373,20 @@
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
+, { "property": "background"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
 , { "property": "background-attachment"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-attachment"
   , "status": "REC"
   , "title": "CSS 2.1"
+  }
+, { "property": "background-attachment"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-attachment"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
   }
 , { "property": "background-attachment"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-attachment"
@@ -393,6 +408,11 @@
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
+, { "property": "background-attachment"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-attachment"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
 , { "property": "background-blend-mode"
   , "url": "https://drafts.fxtf.org/compositing-1/#propdef-background-blend-mode"
   , "status": "ED"
@@ -404,6 +424,11 @@
   , "title": "Compositing and Blending Level 1"
   }
 , { "property": "background-clip"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-clip"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-clip"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-clip"
   , "status": "ED"
   , "title": "CSS Backgrounds and Borders Module Level 3"
@@ -413,10 +438,20 @@
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
+, { "property": "background-clip"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-clip"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
 , { "property": "background-color"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-color"
   , "status": "REC"
   , "title": "CSS 2.1"
+  }
+, { "property": "background-color"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-color"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
   }
 , { "property": "background-color"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-color"
@@ -438,10 +473,20 @@
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
+, { "property": "background-color"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-color"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
 , { "property": "background-image"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-image"
   , "status": "REC"
   , "title": "CSS 2.1"
+  }
+, { "property": "background-image"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-image"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
   }
 , { "property": "background-image"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-image"
@@ -463,6 +508,16 @@
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
+, { "property": "background-image"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-image"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-origin"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-origin"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
 , { "property": "background-origin"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-origin"
   , "status": "ED"
@@ -473,10 +528,20 @@
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
+, { "property": "background-origin"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-origin"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
 , { "property": "background-position"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-position"
   , "status": "REC"
   , "title": "CSS 2.1"
+  }
+, { "property": "background-position"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-position"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
   }
 , { "property": "background-position"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-position"
@@ -498,10 +563,60 @@
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
+, { "property": "background-position"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-position"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-position-block"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-position-block"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-position-block"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-position-block"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-position-inline"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-position-inline"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-position-inline"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-position-inline"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-position-x"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-position-x"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-position-x"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-position-x"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-position-y"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-position-y"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-position-y"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-position-y"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
 , { "property": "background-repeat"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/colors.html#propdef-background-repeat"
   , "status": "REC"
   , "title": "CSS 2.1"
+  }
+, { "property": "background-repeat"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-repeat"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
   }
 , { "property": "background-repeat"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-repeat"
@@ -523,6 +638,56 @@
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
   }
+, { "property": "background-repeat"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-repeat"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-repeat-block"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-repeat-block"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-repeat-block"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-repeat-block"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-repeat-inline"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-repeat-inline"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-repeat-inline"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-repeat-inline"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-repeat-x"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-repeat-x"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-repeat-x"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-repeat-x"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-repeat-y"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-repeat-y"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-repeat-y"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-repeat-y"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-size"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-size"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
 , { "property": "background-size"
   , "url": "https://drafts.csswg.org/css-backgrounds/#propdef-background-size"
   , "status": "ED"
@@ -532,6 +697,21 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-backgrounds-3-20240311/#propdef-background-size"
   , "status": "CRD"
   , "title": "CSS Backgrounds and Borders Module Level 3"
+  }
+, { "property": "background-size"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-size"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-tbd"
+  , "url": "https://drafts.csswg.org/css-backgrounds-4/#propdef-background-tbd"
+  , "status": "ED"
+  , "title": "CSS Backgrounds Module Level 4"
+  }
+, { "property": "background-tbd"
+  , "url": "https://www.w3.org/TR/2025/WD-css-backgrounds-4-20251125/#propdef-background-tbd"
+  , "status": "FPWD"
+  , "title": "CSS Backgrounds Module Level 4"
   }
 , { "property": "baseline-shift"
   , "url": "https://drafts.csswg.org/css-inline-3/#propdef-baseline-shift"
@@ -713,6 +893,16 @@
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
   }
+, { "property": "border-block-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-block-clip"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-block-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-block-clip"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
+  }
 , { "property": "border-block-color"
   , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-block-color"
   , "status": "ED"
@@ -762,6 +952,16 @@
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-block-end"
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-block-end-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-block-end-clip"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-block-end-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-block-end-clip"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-block-end-color"
   , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-block-end-color"
@@ -877,6 +1077,16 @@
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-block-start"
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-block-start-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-block-start-clip"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-block-start-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-block-start-clip"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-block-start-color"
   , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-block-start-color"
@@ -1057,6 +1267,16 @@
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-bottom"
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-bottom-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-bottom-clip"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-bottom-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-bottom-clip"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-bottom-color"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-bottom-color"
@@ -1269,29 +1489,9 @@
   , "title": "CSS Borders and Box Decorations Module Level 4"
   }
 , { "property": "border-clip-bottom"
-  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-clip-bottom"
-  , "status": "ED"
-  , "title": "CSS Borders and Box Decorations Module Level 4"
-  }
-, { "property": "border-clip-bottom"
-  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-clip-bottom"
-  , "status": "ED"
-  , "title": "CSS3 module: Border"
-  }
-, { "property": "border-clip-bottom"
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-clip-bottom"
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
-  }
-, { "property": "border-clip-left"
-  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-clip-left"
-  , "status": "ED"
-  , "title": "CSS Borders and Box Decorations Module Level 4"
-  }
-, { "property": "border-clip-left"
-  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-clip-left"
-  , "status": "ED"
-  , "title": "CSS3 module: Border"
   }
 , { "property": "border-clip-left"
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-clip-left"
@@ -1299,29 +1499,9 @@
   , "title": "CSS Borders and Box Decorations Module Level 4"
   }
 , { "property": "border-clip-right"
-  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-clip-right"
-  , "status": "ED"
-  , "title": "CSS Borders and Box Decorations Module Level 4"
-  }
-, { "property": "border-clip-right"
-  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-clip-right"
-  , "status": "ED"
-  , "title": "CSS3 module: Border"
-  }
-, { "property": "border-clip-right"
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-clip-right"
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
-  }
-, { "property": "border-clip-top"
-  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-clip-top"
-  , "status": "ED"
-  , "title": "CSS Borders and Box Decorations Module Level 4"
-  }
-, { "property": "border-clip-top"
-  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-clip-top"
-  , "status": "ED"
-  , "title": "CSS3 module: Border"
   }
 , { "property": "border-clip-top"
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-clip-top"
@@ -1588,6 +1768,16 @@
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
   }
+, { "property": "border-inline-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-inline-clip"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-inline-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-inline-clip"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
+  }
 , { "property": "border-inline-color"
   , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-inline-color"
   , "status": "ED"
@@ -1637,6 +1827,16 @@
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-inline-end"
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-inline-end-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-inline-end-clip"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-inline-end-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-inline-end-clip"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-inline-end-color"
   , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-inline-end-color"
@@ -1752,6 +1952,16 @@
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-inline-start"
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-inline-start-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-inline-start-clip"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-inline-start-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-inline-start-clip"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-inline-start-color"
   , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-inline-start-color"
@@ -1932,6 +2142,16 @@
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-left"
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-left-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-left-clip"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-left-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-left-clip"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-left-color"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-left-color"
@@ -2147,6 +2367,16 @@
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-right"
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-right-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-right-clip"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-right-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-right-clip"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-right-color"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-right-color"
@@ -2447,6 +2677,16 @@
   , "url": "https://www.w3.org/TR/2025/WD-css-borders-4-20250722/#propdef-border-top"
   , "status": "FPWD"
   , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-top-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-top-clip"
+  , "status": "ED"
+  , "title": "CSS Borders and Box Decorations Module Level 4"
+  }
+, { "property": "border-top-clip"
+  , "url": "https://drafts.csswg.org/css-borders-4/#propdef-border-top-clip"
+  , "status": "ED"
+  , "title": "CSS3 module: Border"
   }
 , { "property": "border-top-color"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#propdef-border-top-color"
@@ -3194,11 +3434,6 @@
   , "title": "CSS Gap Decorations Module Level 1"
   }
 , { "property": "column-rule"
-  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule"
-  , "status": "ED"
-  , "title": "CSS Multi-column Layout Module Level 2"
-  }
-, { "property": "column-rule"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule"
   , "status": "ED"
   , "title": "CSS Multi-column Layout Module Level 1"
@@ -3232,11 +3467,6 @@
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-color"
   , "status": "ED"
   , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "column-rule-color"
-  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule-color"
-  , "status": "ED"
-  , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-rule-color"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule-color"
@@ -3274,11 +3504,6 @@
   , "title": "CSS Gap Decorations Module Level 1"
   }
 , { "property": "column-rule-style"
-  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule-style"
-  , "status": "ED"
-  , "title": "CSS Multi-column Layout Module Level 2"
-  }
-, { "property": "column-rule-style"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule-style"
   , "status": "ED"
   , "title": "CSS Multi-column Layout Module Level 1"
@@ -3302,11 +3527,6 @@
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-width"
   , "status": "ED"
   , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "column-rule-width"
-  , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-rule-width"
-  , "status": "ED"
-  , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-rule-width"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule-width"
@@ -4159,14 +4379,14 @@
   , "title": "CSS 2.1"
   }
 , { "property": "display"
-  , "url": "https://drafts.csswg.org/css-display/#propdef-display"
+  , "url": "https://drafts.csswg.org/css-display-4/#propdef-display"
   , "status": "ED"
-  , "title": "CSS Display Module Level 3"
+  , "title": "CSS Display Module Level 4"
   }
 , { "property": "display"
   , "url": "https://drafts.csswg.org/css-display/#propdef-display"
   , "status": "ED"
-  , "title": "CSS Display Module Level 4"
+  , "title": "CSS Display Module Level 3"
   }
 , { "property": "display"
   , "url": "https://drafts.csswg.org/css2/#propdef-display"
@@ -4184,8 +4404,8 @@
   , "title": "CSS Display Module Level 3"
   }
 , { "property": "display"
-  , "url": "https://www.w3.org/TR/2024/WD-css-display-4-20241219/#propdef-display"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2025/WD-css-display-4-20251106/#propdef-display"
+  , "status": "WD"
   , "title": "CSS Display Module Level 4"
   }
 , { "property": "dominant-baseline"
@@ -7074,14 +7294,14 @@
   , "title": "CSS Color Module Level 4"
   }
 , { "property": "order"
-  , "url": "https://drafts.csswg.org/css-display/#propdef-order"
+  , "url": "https://drafts.csswg.org/css-display-4/#propdef-order"
   , "status": "ED"
-  , "title": "CSS Display Module Level 3"
+  , "title": "CSS Display Module Level 4"
   }
 , { "property": "order"
   , "url": "https://drafts.csswg.org/css-display/#propdef-order"
   , "status": "ED"
-  , "title": "CSS Display Module Level 4"
+  , "title": "CSS Display Module Level 3"
   }
 , { "property": "order"
   , "url": "https://www.w3.org/TR/2023/CR-css-display-3-20230330/#propdef-order"
@@ -7089,8 +7309,8 @@
   , "title": "CSS Display Module Level 3"
   }
 , { "property": "order"
-  , "url": "https://www.w3.org/TR/2024/WD-css-display-4-20241219/#propdef-order"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2025/WD-css-display-4-20251106/#propdef-order"
+  , "status": "WD"
   , "title": "CSS Display Module Level 4"
   }
 , { "property": "orphans"
@@ -8109,8 +8329,23 @@
   , "title": "CSS Generated Content Module Level 3"
   }
 , { "property": "reading-flow"
-  , "url": "https://www.w3.org/TR/2024/WD-css-display-4-20241219/#propdef-reading-flow"
-  , "status": "FPWD"
+  , "url": "https://drafts.csswg.org/css-display-4/#propdef-reading-flow"
+  , "status": "ED"
+  , "title": "CSS Display Module Level 4"
+  }
+, { "property": "reading-flow"
+  , "url": "https://www.w3.org/TR/2025/WD-css-display-4-20251106/#propdef-reading-flow"
+  , "status": "WD"
+  , "title": "CSS Display Module Level 4"
+  }
+, { "property": "reading-order"
+  , "url": "https://drafts.csswg.org/css-display-4/#propdef-reading-order"
+  , "status": "ED"
+  , "title": "CSS Display Module Level 4"
+  }
+, { "property": "reading-order"
+  , "url": "https://www.w3.org/TR/2025/WD-css-display-4-20251106/#propdef-reading-order"
+  , "status": "WD"
   , "title": "CSS Display Module Level 4"
   }
 , { "property": "region-fragment"
@@ -9443,6 +9678,11 @@
   , "status": "WD"
   , "title": "CSS Text Decoration Module Level 4"
   }
+, { "property": "text-decoration-inset"
+  , "url": "https://drafts.csswg.org/css-text-decor-4/#propdef-text-decoration-inset"
+  , "status": "ED"
+  , "title": "CSS Text Decoration Module Level 4"
+  }
 , { "property": "text-decoration-line"
   , "url": "https://drafts.csswg.org/css-text-decor-3/#propdef-text-decoration-line"
   , "status": "ED"
@@ -9546,11 +9786,6 @@
 , { "property": "text-decoration-thickness"
   , "url": "https://www.w3.org/TR/2022/WD-css-text-decor-4-20220504/#propdef-text-decoration-thickness"
   , "status": "WD"
-  , "title": "CSS Text Decoration Module Level 4"
-  }
-, { "property": "text-decoration-trim"
-  , "url": "https://drafts.csswg.org/css-text-decor-4/#propdef-text-decoration-trim"
-  , "status": "ED"
   , "title": "CSS Text Decoration Module Level 4"
   }
 , { "property": "text-emphasis"
@@ -10244,14 +10479,14 @@
   , "title": "CSS 2.1"
   }
 , { "property": "visibility"
-  , "url": "https://drafts.csswg.org/css-display/#propdef-visibility"
+  , "url": "https://drafts.csswg.org/css-display-4/#propdef-visibility"
   , "status": "ED"
-  , "title": "CSS Display Module Level 3"
+  , "title": "CSS Display Module Level 4"
   }
 , { "property": "visibility"
   , "url": "https://drafts.csswg.org/css-display/#propdef-visibility"
   , "status": "ED"
-  , "title": "CSS Display Module Level 4"
+  , "title": "CSS Display Module Level 3"
   }
 , { "property": "visibility"
   , "url": "https://drafts.csswg.org/css2/#propdef-visibility"
@@ -10269,8 +10504,8 @@
   , "title": "CSS Display Module Level 3"
   }
 , { "property": "visibility"
-  , "url": "https://www.w3.org/TR/2024/WD-css-display-4-20241219/#propdef-visibility"
-  , "status": "FPWD"
+  , "url": "https://www.w3.org/TR/2025/WD-css-display-4-20251106/#propdef-visibility"
+  , "status": "WD"
   , "title": "CSS Display Module Level 4"
   }
 , { "property": "voice-balance"
