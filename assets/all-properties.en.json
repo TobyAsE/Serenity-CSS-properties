@@ -24,7 +24,7 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "accent-color"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-accent-color"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-accent-color"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -44,7 +44,7 @@
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-content"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-align-content"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-align-content"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -69,12 +69,12 @@
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-items"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-align-items"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-align-items"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "align-items"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-align-items"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-align-items"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -99,12 +99,12 @@
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "align-self"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-align-self"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-align-self"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "align-self"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-align-self"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-align-self"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -154,7 +154,7 @@
   , "title": "CSS Anchor Positioning Module Level 1"
   }
 , { "property": "anchor-name"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-anchor-name"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-anchor-name"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -164,7 +164,7 @@
   , "title": "CSS Anchor Positioning Module Level 1"
   }
 , { "property": "anchor-scope"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-anchor-scope"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-anchor-scope"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -329,7 +329,7 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "appearance"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-appearance"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-appearance"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -3284,13 +3284,18 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "caret"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-caret"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-caret"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "caret-animation"
   , "url": "https://drafts.csswg.org/css-ui-4/#propdef-caret-animation"
   , "status": "ED"
+  , "title": "CSS Basic User Interface Module Level 4"
+  }
+, { "property": "caret-animation"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-caret-animation"
+  , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "caret-color"
@@ -3309,7 +3314,7 @@
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
   }
 , { "property": "caret-color"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-caret-color"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-caret-color"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -3319,7 +3324,7 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "caret-shape"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-caret-shape"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-caret-shape"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -3514,7 +3519,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "column-gap"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-column-gap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-column-gap"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -4554,7 +4559,7 @@
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
   }
 , { "property": "cursor"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-cursor"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-cursor"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -4982,6 +4987,16 @@
   , "url": "https://www.w3.org/TR/2014/WD-css-regions-1-20141009/#propdef-flow-into"
   , "status": "WD"
   , "title": "CSS Regions Module Level 1"
+  }
+, { "property": "flow-tolerance"
+  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-flow-tolerance"
+  , "status": "ED"
+  , "title": "CSS Grid Layout Module Level 3"
+  }
+, { "property": "flow-tolerance"
+  , "url": "https://www.w3.org/TR/2026/WD-css-grid-3-20260121/#propdef-flow-tolerance"
+  , "status": "WD"
+  , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "font"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/fonts.html#propdef-font"
@@ -5539,7 +5554,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "gap"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-gap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-gap"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -6258,9 +6273,19 @@
   , "status": "ED"
   , "title": "CSS Basic User Interface Module Level 4"
   }
+, { "property": "interactivity"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-interactivity"
+  , "status": "WD"
+  , "title": "CSS Basic User Interface Module Level 4"
+  }
 , { "property": "interest-delay"
   , "url": "https://drafts.csswg.org/css-ui-4/#propdef-interest-delay"
   , "status": "ED"
+  , "title": "CSS Basic User Interface Module Level 4"
+  }
+, { "property": "interest-delay"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-interest-delay"
+  , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "interest-delay-end"
@@ -6268,9 +6293,19 @@
   , "status": "ED"
   , "title": "CSS Basic User Interface Module Level 4"
   }
+, { "property": "interest-delay-end"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-interest-delay-end"
+  , "status": "WD"
+  , "title": "CSS Basic User Interface Module Level 4"
+  }
 , { "property": "interest-delay-start"
   , "url": "https://drafts.csswg.org/css-ui-4/#propdef-interest-delay-start"
   , "status": "ED"
+  , "title": "CSS Basic User Interface Module Level 4"
+  }
+, { "property": "interest-delay-start"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-interest-delay-start"
+  , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "interpolate-size"
@@ -6299,7 +6334,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-cross"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20251223/#propdef-item-cross"
+  , "url": "https://www.w3.org/TR/2026/WD-css-grid-3-20260121/#propdef-item-cross"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -6309,7 +6344,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-direction"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20251223/#propdef-item-direction"
+  , "url": "https://www.w3.org/TR/2026/WD-css-grid-3-20260121/#propdef-item-direction"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -6319,7 +6354,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-flow"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20251223/#propdef-item-flow"
+  , "url": "https://www.w3.org/TR/2026/WD-css-grid-3-20260121/#propdef-item-flow"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -6329,17 +6364,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-pack"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20251223/#propdef-item-pack"
-  , "status": "WD"
-  , "title": "CSS Grid Layout Module Level 3"
-  }
-, { "property": "item-tolerance"
-  , "url": "https://drafts.csswg.org/css-grid-3/#propdef-item-tolerance"
-  , "status": "ED"
-  , "title": "CSS Grid Layout Module Level 3"
-  }
-, { "property": "item-tolerance"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20251223/#propdef-item-tolerance"
+  , "url": "https://www.w3.org/TR/2026/WD-css-grid-3-20260121/#propdef-item-pack"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -6349,7 +6374,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-track"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20251223/#propdef-item-track"
+  , "url": "https://www.w3.org/TR/2026/WD-css-grid-3-20260121/#propdef-item-track"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -6359,7 +6384,7 @@
   , "title": "CSS Grid Layout Module Level 3"
   }
 , { "property": "item-wrap"
-  , "url": "https://www.w3.org/TR/2025/WD-css-grid-3-20251223/#propdef-item-wrap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-grid-3-20260121/#propdef-item-wrap"
   , "status": "WD"
   , "title": "CSS Grid Layout Module Level 3"
   }
@@ -6379,7 +6404,7 @@
   , "title": "CSS Flexible Box Layout Module Level 1"
   }
 , { "property": "justify-content"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-justify-content"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-justify-content"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -6394,12 +6419,12 @@
   , "title": "CSS Anchor Positioning Module Level 1"
   }
 , { "property": "justify-items"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-justify-items"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-justify-items"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "justify-items"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-justify-items"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-justify-items"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -6414,12 +6439,12 @@
   , "title": "CSS Anchor Positioning Module Level 1"
   }
 , { "property": "justify-self"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-justify-self"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-justify-self"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "justify-self"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-justify-self"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-justify-self"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -7349,7 +7374,7 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "nav-down"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-nav-down"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-nav-down"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -7359,7 +7384,7 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "nav-left"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-nav-left"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-nav-left"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -7369,7 +7394,7 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "nav-right"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-nav-right"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-nav-right"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -7379,7 +7404,7 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "nav-up"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-nav-up"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-nav-up"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -7579,7 +7604,7 @@
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
   }
 , { "property": "outline"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-outline"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-outline"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -7614,7 +7639,7 @@
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
   }
 , { "property": "outline-color"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-outline-color"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-outline-color"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -7634,7 +7659,7 @@
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
   }
 , { "property": "outline-offset"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-outline-offset"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-outline-offset"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -7669,7 +7694,7 @@
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
   }
 , { "property": "outline-style"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-outline-style"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-outline-style"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -7704,7 +7729,7 @@
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
   }
 , { "property": "outline-width"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-outline-width"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-outline-width"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -8364,7 +8389,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "place-content"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-place-content"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-place-content"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -8374,7 +8399,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "place-items"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-place-items"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-place-items"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -8384,7 +8409,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "place-self"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-place-self"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-place-self"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -8396,6 +8421,11 @@
 , { "property": "pointer-events"
   , "url": "https://drafts.csswg.org/css-ui-4/#propdef-pointer-events"
   , "status": "ED"
+  , "title": "CSS Basic User Interface Module Level 4"
+  }
+, { "property": "pointer-events"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-pointer-events"
+  , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "position"
@@ -8429,7 +8459,7 @@
   , "title": "CSS Anchor Positioning Module Level 1"
   }
 , { "property": "position-anchor"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-position-anchor"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-position-anchor"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -8439,7 +8469,7 @@
   , "title": "CSS Anchor Positioning Module Level 1"
   }
 , { "property": "position-area"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-position-area"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-position-area"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -8449,7 +8479,7 @@
   , "title": "CSS Anchor Positioning Module Level 1"
   }
 , { "property": "position-try"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-position-try"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-position-try"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -8459,7 +8489,7 @@
   , "title": "CSS Anchor Positioning Module Level 1"
   }
 , { "property": "position-try-fallbacks"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-position-try-fallbacks"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-position-try-fallbacks"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -8469,7 +8499,7 @@
   , "title": "CSS Anchor Positioning Module Level 1"
   }
 , { "property": "position-try-order"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-position-try-order"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-position-try-order"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -8479,7 +8509,7 @@
   , "title": "CSS Anchor Positioning Module Level 1"
   }
 , { "property": "position-visibility"
-  , "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251222/#propdef-position-visibility"
+  , "url": "https://www.w3.org/TR/2026/WD-css-anchor-position-1-20260130/#propdef-position-visibility"
   , "status": "WD"
   , "title": "CSS Anchor Positioning Module Level 1"
   }
@@ -8574,7 +8604,7 @@
   , "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)"
   }
 , { "property": "resize"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-resize"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-resize"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -8659,7 +8689,7 @@
   , "title": "CSS Box Alignment Module Level 3"
   }
 , { "property": "row-gap"
-  , "url": "https://www.w3.org/TR/2025/WD-css-align-3-20250311/#propdef-row-gap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-row-gap"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
@@ -9419,6 +9449,11 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
+  }
+, { "property": "stroke"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeProperty"
   , "status": "FPWD"
   , "title": "SVG Strokes"
@@ -9437,6 +9472,11 @@
   , "url": "https://www.w3.org/TR/2017/WD-fill-stroke-3-20170413/#propdef-stroke-align"
   , "status": "FPWD"
   , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-alignment"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeAlignmentProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
   }
 , { "property": "stroke-alignment"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeAlignmentProperty"
@@ -9484,6 +9524,11 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-dashadjust"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeDashadjustProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
+  }
+, { "property": "stroke-dashadjust"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeDashadjustProperty"
   , "status": "FPWD"
   , "title": "SVG Strokes"
@@ -9492,6 +9537,11 @@
   , "url": "https://drafts.csswg.org/fill-stroke/#propdef-stroke-dasharray"
   , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-dasharray"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeDasharrayProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
   }
 , { "property": "stroke-dasharray"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeDasharrayProperty"
@@ -9504,6 +9554,11 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-dashcorner"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeDashcornerProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
+  }
+, { "property": "stroke-dashcorner"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeDashcornerProperty"
   , "status": "FPWD"
   , "title": "SVG Strokes"
@@ -9512,6 +9567,11 @@
   , "url": "https://drafts.csswg.org/fill-stroke/#propdef-stroke-dashoffset"
   , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-dashoffset"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeDashoffsetProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
   }
 , { "property": "stroke-dashoffset"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeDashoffsetProperty"
@@ -9539,6 +9599,11 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-linecap"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeLinecapProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
+  }
+, { "property": "stroke-linecap"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeLinecapProperty"
   , "status": "FPWD"
   , "title": "SVG Strokes"
@@ -9552,6 +9617,11 @@
   , "url": "https://drafts.csswg.org/fill-stroke/#propdef-stroke-linejoin"
   , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-linejoin"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeLinejoinProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
   }
 , { "property": "stroke-linejoin"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeLinejoinProperty"
@@ -9569,6 +9639,11 @@
   , "title": "CSS Fill and Stroke Module Level 3"
   }
 , { "property": "stroke-miterlimit"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeMiterlimitProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
+  }
+, { "property": "stroke-miterlimit"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeMiterlimitProperty"
   , "status": "FPWD"
   , "title": "SVG Strokes"
@@ -9582,6 +9657,11 @@
   , "url": "https://drafts.csswg.org/fill-stroke/#propdef-stroke-opacity"
   , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-opacity"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeOpacityProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
   }
 , { "property": "stroke-opacity"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeOpacityProperty"
@@ -9637,6 +9717,11 @@
   , "url": "https://drafts.csswg.org/fill-stroke/#propdef-stroke-width"
   , "status": "ED"
   , "title": "CSS Fill and Stroke Module Level 3"
+  }
+, { "property": "stroke-width"
+  , "url": "https://svgwg.org/specs/strokes/#StrokeWidthProperty"
+  , "status": "ED"
+  , "title": "SVG Strokes"
   }
 , { "property": "stroke-width"
   , "url": "https://www.w3.org/TR/2015/WD-svg-strokes-20150409/#StrokeWidthProperty"
@@ -10461,12 +10546,12 @@
 , { "property": "transition"
   , "url": "https://drafts.csswg.org/css-transitions/#propdef-transition"
   , "status": "ED"
-  , "title": "CSS Transitions"
+  , "title": "CSS Transitions Module Level 1"
   }
 , { "property": "transition"
-  , "url": "https://www.w3.org/TR/2018/WD-css-transitions-1-20181011/#propdef-transition"
+  , "url": "https://www.w3.org/TR/2026/WD-css-transitions-1-20260108/#propdef-transition"
   , "status": "WD"
-  , "title": "CSS Transitions"
+  , "title": "CSS Transitions Module Level 1"
   }
 , { "property": "transition-behavior"
   , "url": "https://drafts.csswg.org/css-transitions-2/#propdef-transition-behavior"
@@ -10481,42 +10566,42 @@
 , { "property": "transition-delay"
   , "url": "https://drafts.csswg.org/css-transitions/#propdef-transition-delay"
   , "status": "ED"
-  , "title": "CSS Transitions"
+  , "title": "CSS Transitions Module Level 1"
   }
 , { "property": "transition-delay"
-  , "url": "https://www.w3.org/TR/2018/WD-css-transitions-1-20181011/#propdef-transition-delay"
+  , "url": "https://www.w3.org/TR/2026/WD-css-transitions-1-20260108/#propdef-transition-delay"
   , "status": "WD"
-  , "title": "CSS Transitions"
+  , "title": "CSS Transitions Module Level 1"
   }
 , { "property": "transition-duration"
   , "url": "https://drafts.csswg.org/css-transitions/#propdef-transition-duration"
   , "status": "ED"
-  , "title": "CSS Transitions"
+  , "title": "CSS Transitions Module Level 1"
   }
 , { "property": "transition-duration"
-  , "url": "https://www.w3.org/TR/2018/WD-css-transitions-1-20181011/#propdef-transition-duration"
+  , "url": "https://www.w3.org/TR/2026/WD-css-transitions-1-20260108/#propdef-transition-duration"
   , "status": "WD"
-  , "title": "CSS Transitions"
+  , "title": "CSS Transitions Module Level 1"
   }
 , { "property": "transition-property"
   , "url": "https://drafts.csswg.org/css-transitions/#propdef-transition-property"
   , "status": "ED"
-  , "title": "CSS Transitions"
+  , "title": "CSS Transitions Module Level 1"
   }
 , { "property": "transition-property"
-  , "url": "https://www.w3.org/TR/2018/WD-css-transitions-1-20181011/#propdef-transition-property"
+  , "url": "https://www.w3.org/TR/2026/WD-css-transitions-1-20260108/#propdef-transition-property"
   , "status": "WD"
-  , "title": "CSS Transitions"
+  , "title": "CSS Transitions Module Level 1"
   }
 , { "property": "transition-timing-function"
   , "url": "https://drafts.csswg.org/css-transitions/#propdef-transition-timing-function"
   , "status": "ED"
-  , "title": "CSS Transitions"
+  , "title": "CSS Transitions Module Level 1"
   }
 , { "property": "transition-timing-function"
-  , "url": "https://www.w3.org/TR/2018/WD-css-transitions-1-20181011/#propdef-transition-timing-function"
+  , "url": "https://www.w3.org/TR/2026/WD-css-transitions-1-20260108/#propdef-transition-timing-function"
   , "status": "WD"
-  , "title": "CSS Transitions"
+  , "title": "CSS Transitions Module Level 1"
   }
 , { "property": "translate"
   , "url": "https://drafts.csswg.org/css-transforms-2/#propdef-translate"
@@ -10579,7 +10664,7 @@
   , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "user-select"
-  , "url": "https://www.w3.org/TR/2021/WD-css-ui-4-20210316/#propdef-user-select"
+  , "url": "https://www.w3.org/TR/2026/WD-css-ui-4-20260120/#propdef-user-select"
   , "status": "WD"
   , "title": "CSS Basic User Interface Module Level 4"
   }
@@ -10682,6 +10767,11 @@
   , "url": "https://www.w3.org/TR/2024/CRD-css-view-transitions-1-20240328/#propdef-view-transition-name"
   , "status": "CRD"
   , "title": "CSS View Transitions Module Level 1"
+  }
+, { "property": "view-transition-scope"
+  , "url": "https://drafts.csswg.org/css-view-transitions-2/#propdef-view-transition-scope"
+  , "status": "ED"
+  , "title": "CSS View Transitions Module Level 2"
   }
 , { "property": "visibility"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/visufx.html#propdef-visibility"
