@@ -3424,7 +3424,7 @@
   , "title": "CSS Color Module Level 3"
   }
 , { "property": "color"
-  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260427/#propdef-color"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260502/#propdef-color"
   , "status": "CRD"
   , "title": "CSS Color Module Level 4"
   }
@@ -7549,7 +7549,7 @@
   , "title": "CSS Color Module Level 3"
   }
 , { "property": "opacity"
-  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260427/#propdef-opacity"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260502/#propdef-opacity"
   , "status": "CRD"
   , "title": "CSS Color Module Level 4"
   }
@@ -11092,6 +11092,11 @@
   , "url": "https://www.w3.org/TR/2022/CRD-css-will-change-1-20220505/#propdef-will-change"
   , "status": "CRD"
   , "title": "CSS Will Change Module Level 1"
+  }
+, { "property": "window-drag"
+  , "url": "https://drafts.csswg.org/css-ui-4/#propdef-window-drag"
+  , "status": "ED"
+  , "title": "CSS Basic User Interface Module Level 4"
   }
 , { "property": "word-break"
   , "url": "https://drafts.csswg.org/css-text-3/#propdef-word-break"
