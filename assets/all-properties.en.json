@@ -3424,7 +3424,7 @@
   , "title": "CSS Color Module Level 3"
   }
 , { "property": "color"
-  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260502/#propdef-color"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260618/#propdef-color"
   , "status": "CRD"
   , "title": "CSS Color Module Level 4"
   }
@@ -3501,12 +3501,17 @@
 , { "property": "column-gap"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-gap"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-gap"
   , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-column-gap"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
+  }
+, { "property": "column-gap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-gap"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-height"
   , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-height"
@@ -3516,7 +3521,7 @@
 , { "property": "column-rule"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule"
@@ -3534,24 +3539,24 @@
   , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-rule"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-break"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-break"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-break"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-break"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-break"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-color"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-color"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-color"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule-color"
@@ -3569,104 +3574,104 @@
   , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-rule-color"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-color"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-color"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "column-rule-edge-inset"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-edge-inset"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "column-rule-edge-inset-end"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-edge-inset-end"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "column-rule-edge-inset-start"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-edge-inset-start"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-inset"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-inset"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset-cap"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset-cap"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "column-rule-inset-cap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-inset-cap"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset-cap-end"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset-cap-end"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "column-rule-inset-cap-end"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-inset-cap-end"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset-cap-start"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset-cap-start"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "column-rule-inset-cap-start"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-inset-cap-start"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset-end"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset-end"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset-end"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-inset-end"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-inset-end"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset-junction"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset-junction"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "column-rule-inset-junction"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-inset-junction"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset-junction-end"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset-junction-end"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "column-rule-inset-junction-end"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-inset-junction-end"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset-junction-start"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset-junction-start"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "column-rule-inset-junction-start"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-inset-junction-start"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset-start"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset-start"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-inset-start"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-inset-start"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-inset-start"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "column-rule-interior-inset"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-interior-inset"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "column-rule-interior-inset-end"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-interior-inset-end"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "column-rule-interior-inset-start"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-interior-inset-start"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-style"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-style"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-style"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule-style"
@@ -3684,24 +3689,24 @@
   , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-rule-style"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-style"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-style"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-visibility-items"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-visibility-items"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-visibility-items"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-visibility-items"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-visibility-items"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-width"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-width"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-rule-width"
   , "url": "https://drafts.csswg.org/css-multicol/#propdef-column-rule-width"
@@ -3719,9 +3724,9 @@
   , "title": "CSS Multi-column Layout Module Level 2"
   }
 , { "property": "column-rule-width"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-column-rule-width"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-column-rule-width"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "column-span"
   , "url": "https://drafts.csswg.org/css-multicol-2/#propdef-column-span"
@@ -4659,14 +4664,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "display"
-  , "url": "https://www.w3.org/TR/2023/CR-css-display-3-20230330/#propdef-display"
-  , "status": "CR"
-  , "title": "CSS Display Module Level 3"
-  }
-, { "property": "display"
   , "url": "https://www.w3.org/TR/2025/WD-css-display-4-20251106/#propdef-display"
   , "status": "WD"
   , "title": "CSS Display Module Level 4"
+  }
+, { "property": "display"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-display-3-20260605/#propdef-display"
+  , "status": "CRD"
+  , "title": "CSS Display Module Level 3"
   }
 , { "property": "dominant-baseline"
   , "url": "https://drafts.csswg.org/css-inline-3/#propdef-dominant-baseline"
@@ -4684,7 +4689,7 @@
   , "title": "CSS Color HDR Module Level 1"
   }
 , { "property": "dynamic-range-limit"
-  , "url": "https://www.w3.org/TR/2026/WD-css-color-hdr-1-20260303/#propdef-dynamic-range-limit"
+  , "url": "https://www.w3.org/TR/2026/WD-css-color-hdr-1-20260624/#propdef-dynamic-range-limit"
   , "status": "WD"
   , "title": "CSS Color HDR Module Level 1"
   }
@@ -5576,12 +5581,17 @@
 , { "property": "gap"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-gap"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "gap"
   , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-gap"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
+  }
+, { "property": "gap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-gap"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "glyph-orientation-vertical"
   , "url": "https://drafts.csswg.org/css-writing-modes-3/#propdef-glyph-orientation-vertical"
@@ -5964,12 +5974,12 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hanging-punctuation"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-hanging-punctuation"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-hanging-punctuation"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "hanging-punctuation"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-hanging-punctuation"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-hanging-punctuation"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -6004,7 +6014,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphenate-character"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-hyphenate-character"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-hyphenate-character"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -6014,7 +6024,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphenate-limit-chars"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-hyphenate-limit-chars"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-hyphenate-limit-chars"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -6024,7 +6034,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphenate-limit-last"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-hyphenate-limit-last"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-hyphenate-limit-last"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -6034,7 +6044,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphenate-limit-lines"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-hyphenate-limit-lines"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-hyphenate-limit-lines"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -6044,7 +6054,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphenate-limit-zone"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-hyphenate-limit-zone"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-hyphenate-limit-zone"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -6059,12 +6069,12 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "hyphens"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-hyphens"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-hyphens"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "hyphens"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-hyphens"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-hyphens"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -6494,12 +6504,12 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "letter-spacing"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-letter-spacing"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-letter-spacing"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "letter-spacing"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-letter-spacing"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-letter-spacing"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -6524,12 +6534,12 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "line-break"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-line-break"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-line-break"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "line-break"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-line-break"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-line-break"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -6604,7 +6614,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "line-padding"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-line-padding"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-line-padding"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -7549,7 +7559,7 @@
   , "title": "CSS Color Module Level 3"
   }
 , { "property": "opacity"
-  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260502/#propdef-opacity"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260618/#propdef-opacity"
   , "status": "CRD"
   , "title": "CSS Color Module Level 4"
   }
@@ -7564,14 +7574,14 @@
   , "title": "CSS Display Module Level 3"
   }
 , { "property": "order"
-  , "url": "https://www.w3.org/TR/2023/CR-css-display-3-20230330/#propdef-order"
-  , "status": "CR"
-  , "title": "CSS Display Module Level 3"
-  }
-, { "property": "order"
   , "url": "https://www.w3.org/TR/2025/WD-css-display-4-20251106/#propdef-order"
   , "status": "WD"
   , "title": "CSS Display Module Level 4"
+  }
+, { "property": "order"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-display-3-20260605/#propdef-order"
+  , "status": "CRD"
+  , "title": "CSS Display Module Level 3"
   }
 , { "property": "orphans"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/page.html#propdef-orphans"
@@ -7954,12 +7964,12 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "overflow-wrap"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-overflow-wrap"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-overflow-wrap"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "overflow-wrap"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-overflow-wrap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-overflow-wrap"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -8721,162 +8731,167 @@
 , { "property": "row-gap"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-gap"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-gap"
   , "url": "https://www.w3.org/TR/2026/WD-css-align-3-20260130/#propdef-row-gap"
   , "status": "WD"
   , "title": "CSS Box Alignment Module Level 3"
   }
+, { "property": "row-gap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-gap"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
+  }
 , { "property": "row-rule"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-break"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-break"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-break"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-break"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-break"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-color"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-color"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-color"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-color"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-color"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "row-rule-edge-inset"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-edge-inset"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "row-rule-edge-inset-end"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-edge-inset-end"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "row-rule-edge-inset-start"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-edge-inset-start"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-inset"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-inset"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset-cap"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-cap"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "row-rule-inset-cap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-inset-cap"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset-cap-end"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-cap-end"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "row-rule-inset-cap-end"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-inset-cap-end"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset-cap-start"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-cap-start"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "row-rule-inset-cap-start"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-inset-cap-start"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset-end"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-end"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset-end"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-inset-end"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-inset-end"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset-junction"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-junction"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "row-rule-inset-junction"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-inset-junction"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset-junction-end"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-junction-end"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "row-rule-inset-junction-end"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-inset-junction-end"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset-junction-start"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-junction-start"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "row-rule-inset-junction-start"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-inset-junction-start"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset-start"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-start"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-inset-start"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-inset-start"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-inset-start"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "row-rule-interior-inset"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-interior-inset"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "row-rule-interior-inset-end"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-interior-inset-end"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "row-rule-interior-inset-start"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-interior-inset-start"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-style"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-style"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-style"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-style"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-style"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-visibility-items"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-visibility-items"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-visibility-items"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-visibility-items"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-visibility-items"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-width"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-width"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "row-rule-width"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-row-rule-width"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-row-rule-width"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "ruby-align"
   , "url": "https://drafts.csswg.org/css-ruby-1/#propdef-ruby-align"
@@ -8921,122 +8936,122 @@
 , { "property": "rule"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-break"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-break"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-break"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-break"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-break"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-color"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-color"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-color"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-color"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-color"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "rule-edge-inset"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-edge-inset"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-inset"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-inset"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-inset"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-inset"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-inset"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-inset-cap"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-inset-cap"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "rule-inset-cap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-inset-cap"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-inset-end"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-inset-end"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-inset-end"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-inset-end"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-inset-end"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-inset-junction"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-inset-junction"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
+  }
+, { "property": "rule-inset-junction"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-inset-junction"
+  , "status": "WD"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-inset-start"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-inset-start"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-inset-start"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-inset-start"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-inset-start"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
-  }
-, { "property": "rule-interior-inset"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-interior-inset"
-  , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-overlap"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-overlap"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-overlap"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-overlap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-overlap"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-style"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-style"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-style"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-style"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-style"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-visibility-items"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-visibility-items"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-visibility-items"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-visibility-items"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-visibility-items"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-width"
   , "url": "https://drafts.csswg.org/css-gaps-1/#propdef-rule-width"
   , "status": "ED"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "rule-width"
-  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260227/#propdef-rule-width"
+  , "url": "https://www.w3.org/TR/2026/WD-css-gaps-1-20260624/#propdef-rule-width"
   , "status": "WD"
-  , "title": "CSS Gap Decorations Module Level 1"
+  , "title": "CSS Gaps Module Level 1"
   }
 , { "property": "running"
   , "url": "https://drafts.csswg.org/css-gcpm/#propdef-running"
@@ -9459,7 +9474,7 @@
   , "title": "CSS Form Control Styling Level 1"
   }
 , { "property": "spatial-navigation-action"
-  , "url": "https://drafts.csswg.org/css-nav-1/#propdef-spatial-navigation-action"
+  , "url": "https://drafts.csswg.org/css-spatial-nav-1/#propdef-spatial-navigation-action"
   , "status": "ED"
   , "title": "CSS Spatial Navigation Level 1"
   }
@@ -9469,7 +9484,7 @@
   , "title": "CSS Spatial Navigation Level 1"
   }
 , { "property": "spatial-navigation-contain"
-  , "url": "https://drafts.csswg.org/css-nav-1/#propdef-spatial-navigation-contain"
+  , "url": "https://drafts.csswg.org/css-spatial-nav-1/#propdef-spatial-navigation-contain"
   , "status": "ED"
   , "title": "CSS Spatial Navigation Level 1"
   }
@@ -9479,7 +9494,7 @@
   , "title": "CSS Spatial Navigation Level 1"
   }
 , { "property": "spatial-navigation-function"
-  , "url": "https://drafts.csswg.org/css-nav-1/#propdef-spatial-navigation-function"
+  , "url": "https://drafts.csswg.org/css-spatial-nav-1/#propdef-spatial-navigation-function"
   , "status": "ED"
   , "title": "CSS Spatial Navigation Level 1"
   }
@@ -9859,12 +9874,12 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "tab-size"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-tab-size"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-tab-size"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "tab-size"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-tab-size"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-tab-size"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -9919,12 +9934,12 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "text-align"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-align"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-text-align"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-align"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-align"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-align"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -9939,12 +9954,12 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-align-all"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-align-all"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-text-align-all"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-align-all"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-align-all"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-align-all"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -9959,12 +9974,12 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-align-last"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-align-last"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-text-align-last"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-align-last"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-align-last"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-align-last"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -9974,7 +9989,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-autospace"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-autospace"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-autospace"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -10283,18 +10298,13 @@
   , "status": "WD"
   , "title": "CSS Text Decoration Module Level 4"
   }
-, { "property": "text-fit"
-  , "url": "https://drafts.csswg.org/css-text-4/#propdef-text-fit"
-  , "status": "ED"
-  , "title": "CSS Text Module Level 4"
-  }
 , { "property": "text-group-align"
   , "url": "https://drafts.csswg.org/css-text-4/#propdef-text-group-align"
   , "status": "ED"
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-group-align"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-group-align"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-group-align"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -10324,12 +10334,12 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "text-indent"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-indent"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-text-indent"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-indent"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-indent"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-indent"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -10344,12 +10354,12 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-justify"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-justify"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-text-justify"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-justify"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-justify"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-justify"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -10429,7 +10439,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-spacing"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-spacing"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-spacing"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -10439,7 +10449,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-spacing-trim"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-spacing-trim"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-spacing-trim"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -10469,12 +10479,12 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "text-transform"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-text-transform"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-text-transform"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "text-transform"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-transform"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-transform"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -10514,7 +10524,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-wrap"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-wrap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-wrap"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -10524,7 +10534,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-wrap-mode"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-wrap-mode"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-wrap-mode"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -10534,7 +10544,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "text-wrap-style"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-text-wrap-style"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-text-wrap-style"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -10869,14 +10879,14 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "visibility"
-  , "url": "https://www.w3.org/TR/2023/CR-css-display-3-20230330/#propdef-visibility"
-  , "status": "CR"
-  , "title": "CSS Display Module Level 3"
-  }
-, { "property": "visibility"
   , "url": "https://www.w3.org/TR/2025/WD-css-display-4-20251106/#propdef-visibility"
   , "status": "WD"
   , "title": "CSS Display Module Level 4"
+  }
+, { "property": "visibility"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-display-3-20260605/#propdef-visibility"
+  , "status": "CRD"
+  , "title": "CSS Display Module Level 3"
   }
 , { "property": "voice-balance"
   , "url": "https://drafts.csswg.org/css-speech-1/#propdef-voice-balance"
@@ -10994,12 +11004,12 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "white-space"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-white-space"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-white-space"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "white-space"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-white-space"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-white-space"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -11009,7 +11019,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "white-space-collapse"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-white-space-collapse"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-white-space-collapse"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -11019,7 +11029,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "white-space-trim"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-white-space-trim"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-white-space-trim"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -11109,12 +11119,12 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "word-break"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-word-break"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-word-break"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "word-break"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-word-break"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-word-break"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -11124,7 +11134,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "word-space-transform"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-word-space-transform"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-word-space-transform"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -11154,32 +11164,12 @@
   , "title": "Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification"
   }
 , { "property": "word-spacing"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-word-spacing"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-text-3-20260608/#propdef-word-spacing"
   , "status": "CRD"
   , "title": "CSS Text Module Level 3"
   }
 , { "property": "word-spacing"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-word-spacing"
-  , "status": "WD"
-  , "title": "CSS Text Module Level 4"
-  }
-, { "property": "word-wrap"
-  , "url": "https://drafts.csswg.org/css-text-3/#propdef-word-wrap"
-  , "status": "ED"
-  , "title": "CSS Text Module Level 3"
-  }
-, { "property": "word-wrap"
-  , "url": "https://drafts.csswg.org/css-text-4/#propdef-word-wrap"
-  , "status": "ED"
-  , "title": "CSS Text Module Level 4"
-  }
-, { "property": "word-wrap"
-  , "url": "https://www.w3.org/TR/2024/CRD-css-text-3-20240930/#propdef-word-wrap"
-  , "status": "CRD"
-  , "title": "CSS Text Module Level 3"
-  }
-, { "property": "word-wrap"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-word-wrap"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-word-spacing"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -11189,7 +11179,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "wrap-after"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-wrap-after"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-wrap-after"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -11199,7 +11189,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "wrap-before"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-wrap-before"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-wrap-before"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
@@ -11219,7 +11209,7 @@
   , "title": "CSS Text Module Level 4"
   }
 , { "property": "wrap-inside"
-  , "url": "https://www.w3.org/TR/2024/WD-css-text-4-20240529/#propdef-wrap-inside"
+  , "url": "https://www.w3.org/TR/2026/WD-css-text-4-20260608/#propdef-wrap-inside"
   , "status": "WD"
   , "title": "CSS Text Module Level 4"
   }
