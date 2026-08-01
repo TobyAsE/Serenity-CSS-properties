@@ -179,6 +179,11 @@
   , "title": "CSS Animations Level 2"
   }
 , { "property": "animation-delay"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-delay"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "animation-delay"
   , "url": "https://drafts.csswg.org/css-animations/#propdef-animation-delay"
   , "status": "ED"
   , "title": "CSS Animations Level 1"
@@ -187,6 +192,16 @@
   , "url": "https://www.w3.org/TR/2023/WD-css-animations-1-20230302/#propdef-animation-delay"
   , "status": "WD"
   , "title": "CSS Animations Level 1"
+  }
+, { "property": "animation-delay-end"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-delay-end"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
+  }
+, { "property": "animation-delay-start"
+  , "url": "https://drafts.csswg.org/css-animations-2/#propdef-animation-delay-start"
+  , "status": "ED"
+  , "title": "CSS Animations Level 2"
   }
 , { "property": "animation-direction"
   , "url": "https://drafts.csswg.org/css-animations/#propdef-animation-direction"
@@ -3424,7 +3439,7 @@
   , "title": "CSS Color Module Level 3"
   }
 , { "property": "color"
-  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260618/#propdef-color"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260728/#propdef-color"
   , "status": "CRD"
   , "title": "CSS Color Module Level 4"
   }
@@ -4689,7 +4704,7 @@
   , "title": "CSS Color HDR Module Level 1"
   }
 , { "property": "dynamic-range-limit"
-  , "url": "https://www.w3.org/TR/2026/WD-css-color-hdr-1-20260624/#propdef-dynamic-range-limit"
+  , "url": "https://www.w3.org/TR/2026/WD-css-color-hdr-1-20260728/#propdef-dynamic-range-limit"
   , "status": "WD"
   , "title": "CSS Color HDR Module Level 1"
   }
@@ -6628,6 +6643,16 @@
   , "status": "WD"
   , "title": "CSS Line Grid Module Level 1"
   }
+, { "property": "link-parameters"
+  , "url": "https://drafts.csswg.org/css-link-params/#propdef-link-parameters"
+  , "status": "ED"
+  , "title": "CSS Linked Parameters Module Level 1"
+  }
+, { "property": "link-parameters"
+  , "url": "https://www.w3.org/TR/2026/WD-css-link-params-1-20260714/#propdef-link-parameters"
+  , "status": "FPWD"
+  , "title": "CSS Linked Parameters Module Level 1"
+  }
 , { "property": "list-style"
   , "url": "http://www.w3.org/TR/2011/REC-CSS2-20110607/generate.html#propdef-list-style"
   , "status": "REC"
@@ -7559,7 +7584,7 @@
   , "title": "CSS Color Module Level 3"
   }
 , { "property": "opacity"
-  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260618/#propdef-opacity"
+  , "url": "https://www.w3.org/TR/2026/CRD-css-color-4-20260728/#propdef-opacity"
   , "status": "CRD"
   , "title": "CSS Color Module Level 4"
   }
